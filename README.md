@@ -15,6 +15,42 @@ The Encyclopedia of Indian Food Ingredients is a core component of the **Indian 
 
 This repository bridges the gap between traditional Indian culinary knowledge, Ayurvedic botanicals, and modern industrial FMCG standards. By providing machine-readable formats (JSON and Markdown), IFID serves as a foundational layer for food-tech applications, nutritional AI, and academic research.
 
+## Structure
+```json
+{
+  "metadata": {
+    "title": "Encyclopedia of Indian Food Ingredients",
+    "project": "Indian Food Informatics Data (IFID)",
+    "version": "0.1.0-alpha",
+    "release_date": "2026-02-11",
+    "doi": "https://doi.org/10.13140/RG.2.2.27821.55529",
+    "license": "Open Data Commons Attribution License (ODC-By)",
+    "author": "Lalitha A R",
+    "institution": "Interdisciplinary Systems Research Lab",
+    "documentation": "https://ifid.readthedocs.io/en/latest/",
+    "journal": "https://ifid.substack.com",
+    "contact": "https://ifid.substack.com/about",
+    "description": "A standardized taxonomy of 600+ food components..."
+  },
+  "statistics": {
+    "total_categories": 8,
+    "total_ingredients": 661
+  },
+  "data": {
+    "Additives & Functional": {
+      "2'-Fucosyllactose": {
+        "slug": "2'-fucosyllactose",
+        "json": {
+          "ingredient_name": "2'-Fucosyllactose",
+          "category": "Additives & Functional",
+          "keywords": ["2'-FL", "HMO", "Prebiotic"]
+        }
+      }
+    }
+  }
+}
+```
+
 ## Key Features
 
 * **Standardized Taxonomy:** Normalized nomenclature for 661+ ingredients across various categories.
