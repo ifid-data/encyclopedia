@@ -1,3 +1,5 @@
+# L Carnitine
+
 **L-Carnitine**
 
 L-Carnitine, an amino acid derivative, was first isolated from meat extracts in the early 20th century, its name derived from the Latin "carnus" meaning flesh. While not traditionally a botanical or spice, its significance in human metabolism, particularly in the transport of fatty acids, has made it a subject of scientific interest globally, including in India. The human body synthesizes L-Carnitine endogenously from the essential amino acids lysine and methionine, primarily in the liver and kidneys. Dietary sources are predominantly animal-based, with red meat, poultry, fish, and dairy products being rich contributors. Its presence in the Indian diet is thus linked to the consumption of these non-vegetarian and dairy items, rather than specific cultivation or sourcing practices.

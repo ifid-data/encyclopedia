@@ -1,4 +1,4 @@
-**Curry Leaves**
+# Curry Leaves
 
 Curry leaves, derived from the plant *Murraya koenigii*, are an aromatic herb deeply ingrained in the culinary and cultural fabric of India, particularly its southern regions. Native to the Indian subcontinent, the plant thrives in tropical and subtropical climates, with significant cultivation in states like Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, and Telangana. The name "curry" itself is believed to originate from the Tamil word "kari," referring to a sauce or gravy, highlighting the leaf's indispensable role in such preparations. Beyond their culinary significance, curry leaves have been traditionally valued in Ayurvedic medicine for their purported digestive and medicinal properties.
 

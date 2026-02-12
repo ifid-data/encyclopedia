@@ -1,4 +1,4 @@
-**Olive Oil**
+# Olive Oil
 
 Olive oil, derived from the fruit of the olive tree (Olea europaea), boasts a rich history spanning millennia, originating in the Mediterranean basin where it has been a cornerstone of cuisine, medicine, and religious rituals since ancient times. Its name is rooted in the Latin "oliva," reflecting its deep European heritage. While integral to Mediterranean diets, olive oil's widespread adoption in India is a relatively recent phenomenon, primarily driven by increasing health consciousness and exposure to global culinary trends. Unlike indigenous oils such as mustard or groundnut, olive oil is not traditionally cultivated in India on a commercial scale, with the vast majority being imported from major producing countries like Spain, Italy, and Greece.
 

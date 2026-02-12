@@ -1,4 +1,4 @@
-**Chhareela**
+# Chhareela
 
 Chhareela, scientifically known as *Parmotrema perlatum*, is a unique edible lichen deeply embedded in the culinary heritage of India, particularly in North Indian and Hyderabadi cuisines. Often referred to as "Pathar Phool" (stone flower) in Hindi, it is not a flower but a symbiotic organism of fungi and algae that grows on rocks and trees. Its historical use dates back centuries, with mentions in traditional Ayurvedic and Unani texts for its aromatic and purported medicinal properties. Primarily sourced from the hilly regions of the Himalayas and the Western Ghats, its collection is often a manual process, reflecting its wild and natural origins.
 

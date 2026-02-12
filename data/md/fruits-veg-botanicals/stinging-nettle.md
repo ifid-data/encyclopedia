@@ -1,4 +1,4 @@
-**Stinging Nettle**
+# Stinging Nettle
 
 Stinging Nettle, scientifically known as *Urtica dioica*, is a herbaceous perennial flowering plant with a rich history spanning millennia, valued for its medicinal, nutritional, and textile properties. While not native to India, it has naturalized and thrives in temperate regions, particularly in the Himalayan foothills and other cooler, moist areas across the subcontinent. Known by various local names such as "Bichhu Buti" (scorpion plant) in Hindi, "Sisno" in Nepali, and "Shivan" in some regional dialects, its presence in Indian traditional medicine, particularly Ayurveda and folk remedies, is well-documented for its purported anti-inflammatory and diuretic properties. Its historical use as a fiber source for textiles also highlights its versatility beyond consumption.
 

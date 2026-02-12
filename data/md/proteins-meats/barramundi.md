@@ -1,4 +1,4 @@
-**Barramundi**
+# Barramundi
 
 Barramundi (scientific name: *Lates calcarifer*) is a highly esteemed fish native to the Indo-Pacific region, encompassing waters from Southeast Asia to Northern Australia. The name "Barramundi" itself is derived from an Aboriginal language, meaning "large-scaled river fish." In India, this prized species is widely recognized by its regional names, most notably "Bhetki" in West Bengal and Bangladesh, and "Koduva" or "Kalaan" in parts of South India. Historically, it has been a significant part of coastal and estuarine fisheries. Today, due to its rapid growth and market demand, Barramundi aquaculture is a burgeoning industry in India, with significant farming operations in states like West Bengal, Andhra Pradesh, and Kerala, ensuring a consistent supply for both domestic consumption and export.
 

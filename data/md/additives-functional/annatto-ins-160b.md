@@ -1,3 +1,5 @@
+# Annatto Ins 160B
+
 **Annatto (INS 160b)**
 
 Annatto, identified by the food additive code INS 160b, is a natural food colorant derived from the seeds of the *Bixa orellana* tree, native to tropical regions of the Americas. While not indigenous to India, its use as a coloring agent has become widespread in the Indian food industry. Historically, annatto has been used for centuries by indigenous communities in South and Central America as a body paint, textile dye, and a mild spice. Its introduction to India is largely through global food processing trends, where the demand for natural alternatives to synthetic colors has grown significantly. The seeds, encased in a spiky, heart-shaped pod, yield pigments known as bixin (oil-soluble) and norbixin (water-soluble), which impart hues ranging from yellow to reddish-orange.

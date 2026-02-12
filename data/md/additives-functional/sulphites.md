@@ -1,3 +1,5 @@
+# Sulphites
+
 Sulphites, a class of inorganic compounds containing the sulphite ion, have a long-standing history in food preservation, dating back to ancient Roman times where sulphur dioxide was used to fumigate wine vessels. Their introduction to India is primarily linked to the growth of the processed food industry and the import of ingredients and technologies. While not "sourced" in the agricultural sense, these compounds are industrially manufactured, often from sulphur dioxide gas, for their functional properties. Their name is derived directly from sulphur, a naturally occurring element.
 
 Unlike many traditional Indian ingredients, sulphites are not typically found or directly used in home kitchens. Their application is almost exclusively within industrial food processing. In traditional Indian culinary practices, there isn't a direct equivalent of adding sulphite compounds to dishes. Any historical use of sulphur-containing substances would have been in non-food contexts or highly specialized medicinal preparations, distinct from their modern role as food additives.

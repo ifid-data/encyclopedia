@@ -1,3 +1,5 @@
+# Beetroot Red Ins 162
+
 Beetroot Red (INS 162) is a natural food colorant derived from the root of the common beetroot, *Beta vulgaris*. While the beetroot itself has ancient origins, cultivated for millennia across various civilizations for its nutritional value, its industrial extraction as a pure colorant is a more modern development. In India, beetroot, known as "chukandar" in Hindi, is widely grown, particularly in cooler climates, and is a common vegetable in home kitchens. The vibrant red-purple pigments, primarily betalains (specifically betacyanins like betanin), are responsible for its characteristic hue.
 
 In traditional Indian home cooking, beetroot is not typically used as an isolated colorant but rather incorporated whole or grated into dishes to impart both color and flavor. It finds its way into salads, raitas, juices, and even some curries or rice preparations, lending a natural, earthy sweetness along with its striking visual appeal. Its direct use in this manner reflects a holistic approach to ingredients, where the entire vegetable contributes to the dish's sensory profile.

@@ -1,4 +1,4 @@
-**Nucleotides**
+# Nucleotides
 
 Nucleotides are fundamental organic molecules that serve as the building blocks of DNA and RNA, essential for all known forms of life. Naturally abundant in various foods, they contribute significantly to the "umami" taste profile. While not traditionally sourced as a standalone ingredient in Indian home cooking, their presence in ingredients like meat, fish, mushrooms, and fermented products (such as idli/dosa batters or slow-cooked dals) has always been integral to the depth of flavour in traditional Indian cuisine. Industrially, they are often derived from yeast or microbial fermentation, with their application in food science gaining prominence following the understanding of umami in early 20th century Japan.
 

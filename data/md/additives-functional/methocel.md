@@ -1,4 +1,4 @@
-**Methocel**
+# Methocel
 
 Methocel, a brand name for Methylcellulose, is a versatile, non-digestible, and water-soluble polymer derived from cellulose, the most abundant organic polymer on Earth. While cellulose itself is a natural component of plant cell walls, methylcellulose is a semi-synthetic derivative, produced by chemically modifying cellulose. Its introduction to India, like many functional food additives, has been primarily through the growth of the processed food industry, rather than through traditional culinary heritage. It does not have indigenous linguistic roots in Indian languages but is recognized by its chemical name or brand in industrial and scientific contexts.
 

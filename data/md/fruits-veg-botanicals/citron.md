@@ -1,4 +1,4 @@
-**Citron**
+# Citron
 
 The citron (Citrus medica) is one of the original citrus fruits from which all other cultivated citrus species are believed to have evolved through natural hybridization. Native to Southeast Asia and India, its presence in the subcontinent dates back millennia, with mentions in ancient Sanskrit texts as "matulunga." It holds significant cultural and religious importance, often used in rituals and as an offering. In India, it is primarily cultivated in the southern states like Tamil Nadu and Kerala, where specific varieties thrive, and also in parts of Northeast India. Its robust nature and adaptability to diverse climates have allowed it to maintain its ancient lineage across various regions.
 

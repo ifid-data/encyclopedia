@@ -1,4 +1,4 @@
-Jamun Flavouring
+# Jamun Flavouring
 
 ### History, Heritage & Sourcing
 Jamun, scientifically known as *Syzygium cumini*, is an indigenous fruit to the Indian subcontinent, deeply embedded in its cultural and Ayurvedic heritage. Revered for its astringent, sweet, and slightly sour notes, the fruit is a seasonal delight, typically available during the monsoon months. Its historical significance is evident in ancient texts, where it is lauded for its medicinal properties, particularly in managing blood sugar levels. The concept of "Jamun Flavouring" arises from the desire to capture and extend this unique taste profile beyond its limited seasonality and geographical availability. These flavourings are typically developed through a combination of natural extracts, aromatic compounds, and synthetic molecules designed to mimic the complex sensory experience of fresh jamun.

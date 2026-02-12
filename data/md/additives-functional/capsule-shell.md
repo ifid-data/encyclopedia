@@ -1,4 +1,4 @@
-**Capsule Shell**
+# Capsule Shell
 
 Capsule shells, derived from the Latin "capsula" meaning a small box, have a history rooted in pharmaceutical innovation, designed to encapsulate medicines for easier ingestion and taste masking. While not a traditional Indian culinary ingredient, their evolution reflects a global shift towards diverse dietary needs. The advent of vegetarian capsule shells, particularly those made from Hydroxypropyl Methylcellulose (HPMC), addresses the growing demand for plant-based alternatives. HPMC is sourced from plant cellulose, typically wood pulp, making it a sustainable and widely accepted option for consumers adhering to vegetarian, vegan, Halal, or Kosher dietary principles.
 

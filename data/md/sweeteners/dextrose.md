@@ -1,4 +1,4 @@
-**Dextrose**
+# Dextrose
 
 Dextrose, chemically known as D-glucose, is a simple monosaccharide sugar found abundantly in nature. Its discovery is attributed to German chemist August Wilhelm Kirchhoff in 1811, who isolated it from raisins. In India, dextrose is primarily sourced through the enzymatic hydrolysis of starch, predominantly corn starch, a process that efficiently breaks down complex carbohydrates into this simpler sugar. While not native to India in its isolated form, the raw materials for its production, like maize, are widely cultivated, making its industrial production a significant sector. The term "glucose" itself derives from the Greek word "glykys," meaning sweet, reflecting its fundamental role as a sweet compound.
 

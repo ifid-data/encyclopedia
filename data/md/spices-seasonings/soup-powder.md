@@ -1,4 +1,4 @@
-**Soup Powder**
+# Soup Powder
 
 Soup powder represents a modern convenience food product, a dehydrated mix designed for the rapid preparation of various soup styles. While the concept of liquid broths and stews is ancient and global, the industrial production of instant soup powders gained significant traction in India with the advent of globalised food markets and the rise of Fast-Moving Consumer Goods (FMCG) in the late 20th century. These powders are typically composed of dehydrated vegetables, starches for thickening, salt, flavour enhancers, spices, and sometimes protein sources, with ingredients sourced both domestically and internationally to achieve specific flavour profiles.
 

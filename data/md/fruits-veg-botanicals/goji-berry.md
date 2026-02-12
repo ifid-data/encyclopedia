@@ -1,4 +1,4 @@
-Goji Berry
+# Goji Berry
 
 The Goji berry, scientifically known as *Lycium barbarum* or *Lycium chinense*, is a vibrant red fruit native to China, particularly the Ningxia region, where it has been cultivated for centuries. Known traditionally as wolfberry, its popular name "Goji" is believed to be derived from its Chinese name, *gǒuqǐ*. While deeply embedded in traditional Chinese medicine and cuisine, its introduction to India is a relatively recent phenomenon, primarily driven by the global "superfood" trend. It is not indigenous to India, and the berries consumed here are almost exclusively imported, predominantly in their dried form.
 

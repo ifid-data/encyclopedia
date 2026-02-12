@@ -1,4 +1,4 @@
-**Rosemary**
+# Rosemary
 
 Rosemary (Rosmarinus officinalis), derived from the Latin "ros marinus" meaning "dew of the sea," is an aromatic evergreen shrub native to the Mediterranean region. While not indigenous to India, its introduction can be traced to colonial influences and the subsequent globalization of culinary practices. In India, rosemary is primarily cultivated in home gardens or small-scale specialty farms in cooler, temperate regions such as parts of Uttarakhand, Himachal Pradesh, and the Nilgiri Hills, where the climate is more conducive to its growth. Historically revered for its medicinal properties in ancient cultures, its presence in the Indian culinary landscape is a relatively modern phenomenon, reflecting an evolving palate and a growing appreciation for global ingredients.
 

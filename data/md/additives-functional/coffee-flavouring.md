@@ -1,4 +1,4 @@
-**Coffee Flavouring**
+# Coffee Flavouring
 
 Coffee, as a beverage, has a storied history in India, introduced by Baba Budan in the 17th century, leading to significant cultivation in the Southern states. Coffee flavouring, however, represents a more modern development, emerging from the food industry's need to replicate the distinctive aroma and taste of coffee without necessarily using the actual bean or its extracts. These flavourings can be derived naturally from coffee beans through various extraction methods or synthesized as nature-identical or artificial compounds, designed to capture specific notes like roasted, earthy, or fruity profiles associated with different coffee varieties. Their "sourcing" is primarily from flavour houses that specialize in creating these complex aromatic profiles.
 

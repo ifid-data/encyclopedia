@@ -1,4 +1,4 @@
-**Cholecalciferol**
+# Cholecalciferol
 
 Cholecalciferol, commonly known as Vitamin D3, is a fat-soluble secosteroid essential for human health, primarily synthesized in the skin upon exposure to ultraviolet B (UVB) radiation from sunlight. While historically obtained through sun exposure and diets rich in fatty fish, its recognition as a vital nutrient gained prominence in the early 20th century with the understanding of its role in preventing rickets. In India, where sunlight is abundant, Vitamin D deficiency remains paradoxically widespread due to lifestyle changes, indoor occupations, and cultural practices. Commercial Cholecalciferol is typically sourced from the lanolin of sheep's wool, though vegan forms derived from lichen are also available, catering to diverse dietary preferences.
 

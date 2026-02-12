@@ -1,3 +1,5 @@
+# L N Neotetraose
+
 **L-N-Neotetraose (LNnT)**
 
 L-N-Neotetraose, often abbreviated as LNnT, is a prominent Human Milk Oligosaccharide (HMO) naturally found in human breast milk. These complex carbohydrates are the third most abundant solid component in breast milk after lactose and lipids, playing a crucial role in infant development. While not historically part of traditional Indian culinary practices, the scientific understanding of HMOs like LNnT has evolved significantly in recent decades, recognizing their unique benefits beyond basic nutrition. For commercial applications, LNnT is typically produced through advanced biotechnological processes, such as microbial fermentation, making it available as a purified ingredient for food formulations.

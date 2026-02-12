@@ -1,4 +1,4 @@
-**Vegetable Oil**
+# Vegetable Oil
 
 Vegetable oil, a broad category encompassing fats extracted from plants, holds a foundational place in Indian culinary and economic history. While specific oils like sesame (til), mustard (sarson), and coconut have been integral to regional Indian diets and Ayurvedic practices for millennia, the term "vegetable oil" as a generic, often refined, cooking medium gained prominence with industrialization. Sourced from diverse plants such as soybean, sunflower, groundnut, palm, and rapeseed, these oils are cultivated across various Indian states, with significant production in regions like Gujarat, Rajasthan, and Andhra Pradesh for groundnut and palm, respectively. The linguistic root "tel" (oil) is ubiquitous across Indian languages, reflecting its ancient and continuous presence.
 

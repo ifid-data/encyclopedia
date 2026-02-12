@@ -1,4 +1,4 @@
-**Garlic Flavouring**
+# Garlic Flavouring
 
 Garlic (Lahsun in Hindi), the pungent bulb from the *Allium sativum* plant, boasts a rich history in India, deeply embedded in Ayurvedic medicine and diverse regional cuisines for millennia. Its origins are traced to Central Asia, spreading to India where it became an indispensable ingredient. However, "Garlic Flavouring" represents a modern evolution, distinct from the raw ingredient. It is not sourced from farms in the traditional sense but is manufactured through extraction processes (oleoresins, essential oils) from garlic or synthesized to mimic its characteristic aroma and taste compounds. This industrial innovation emerged to provide a consistent, shelf-stable, and often more cost-effective alternative to fresh garlic for large-scale food production.
 

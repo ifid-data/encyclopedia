@@ -1,3 +1,5 @@
+# Radish
+
 Radish, known as 'mooli' in Hindi, 'mullangi' in Tamil, and 'mula' in Bengali, boasts a rich history in India, believed to have originated in Southeast Asia and cultivated for millennia. Its presence is deeply embedded in ancient Indian agricultural practices and culinary traditions, with mentions in historical texts. Today, radish is a widely grown cool-season crop across India, with significant production in states like Uttar Pradesh, Punjab, Haryana, Maharashtra, and Karnataka, making it a staple in local markets throughout the colder months.
 
 In Indian home kitchens, radish is celebrated for its crisp texture and pungent, peppery flavour, offering immense versatility. It is frequently consumed raw, grated into refreshing 'kachumber' salads, or simply seasoned with salt and lemon as a palate cleanser. A quintessential North Indian delicacy is 'mooli paratha', a stuffed flatbread featuring spiced grated radish. It also finds its way into cooked dishes like 'mooli sabzi' or 'bhujia', and is occasionally added to dals and curries. The greens of the radish plant are equally valued, often prepared as a nutritious 'saag'.

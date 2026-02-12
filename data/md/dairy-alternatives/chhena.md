@@ -1,4 +1,4 @@
-**Chhena**
+# Chhena
 
 Chhena, derived from the Bengali word "chhana" meaning "to separate" or "curdled," is a fresh, unripened, acid-set cheese originating from the Indian subcontinent, particularly prominent in the culinary traditions of Bengal and Odisha. Its history is deeply intertwined with the development of iconic Bengali sweets, with its widespread use dating back several centuries. Traditionally, chhena is prepared by curdling full-fat cow's milk with a food acid like lemon juice, vinegar, or citric acid, then straining the whey to separate the milk solids. While cow's milk is preferred for its delicate texture and flavour, buffalo milk can also be used, yielding a slightly firmer product.
 

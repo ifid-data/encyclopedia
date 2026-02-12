@@ -1,3 +1,5 @@
+# Ajwain Carom Seeds
+
 **Ajwain (Carom Seeds)**
 
 Ajwain, commonly known as Carom Seeds, boasts a rich history deeply intertwined with Indian culinary and medicinal traditions. While its precise origin is debated, with some sources pointing to Egypt and others to the Indian subcontinent, it has been cultivated and utilized in India for millennia. The name "Ajwain" is believed to derive from the Sanskrit "Yavanika" or "Yavani," reflecting its ancient presence. Major cultivation hubs in India include Rajasthan, Gujarat, Madhya Pradesh, and Maharashtra, where the plant thrives in arid and semi-arid conditions. Its distinctive aroma and therapeutic properties have made it an indispensable part of the subcontinent's heritage.

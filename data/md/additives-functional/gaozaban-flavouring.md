@@ -1,4 +1,4 @@
-**Gaozaban Flavouring**
+# Gaozaban Flavouring
 
 Gaozaban, botanically identified as *Borago officinalis* (common borage) or more commonly in the Indian context as *Onosma bracteatum*, is a revered herb with a rich history in traditional Unani and Ayurvedic medicine. Its name, derived from Persian, literally translates to "cow's tongue," a descriptor for its distinctive, rough-textured leaves. Historically, Gaozaban was introduced to India through Persian and Arab influences, becoming an integral part of the subcontinent's herbal pharmacopoeia. While not a major cultivated crop for flavouring extraction in India, the dried herb is sourced from regions known for traditional herbal cultivation, often imported or gathered from specific temperate zones.
 

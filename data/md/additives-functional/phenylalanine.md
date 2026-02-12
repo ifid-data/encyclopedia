@@ -1,4 +1,4 @@
-**Phenylalanine**
+# Phenylalanine
 
 Phenylalanine is an essential alpha-amino acid, a fundamental building block of proteins that the human body cannot synthesize on its own and must be acquired through diet. First isolated in 1881 from lupin seedlings by Schulze and Barbieri, its significance as a vital nutrient has been recognized globally. In India, while not a cultivated crop, phenylalanine is naturally abundant in a wide array of traditional protein sources, including various dals (lentils), milk and dairy products, nuts, seeds, and meats, forming an integral part of the balanced Indian diet. Its presence is inherent to these foods rather than being a separately sourced ingredient.
 

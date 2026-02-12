@@ -1,4 +1,4 @@
-**Shati**
+# Shati
 
 Shati, botanically known as *Hedychium spicatum*, is a fragrant rhizome deeply embedded in India's traditional medicinal and aromatic heritage. Native to the sub-Himalayan regions, including Uttarakhand and Himachal Pradesh, its name "Shati" is derived from Sanskrit, reflecting its ancient recognition in Ayurvedic texts. Historically, it has been a cornerstone in Ayurveda, Unani, and Siddha systems, valued for its therapeutic properties. The plant, often referred to as Spiked Ginger Lily, thrives in moist, shady environments and is primarily sourced through wild harvesting, though some cultivation efforts exist in its native habitats. Its aromatic rhizomes are carefully collected, cleaned, and dried for various applications.
 

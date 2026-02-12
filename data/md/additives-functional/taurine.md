@@ -1,3 +1,5 @@
+# Taurine
+
 Taurine, an amino sulfonic acid, was first isolated in 1827 from ox bile, hence its name derived from *taurus* (Latin for bull). While not an ingredient with a traditional culinary heritage in India, its significance lies in its biological role and modern industrial applications. It is naturally present in the human body, particularly in the brain, retina, heart, and muscle tissue, and is abundant in animal-derived foods. Modern commercial taurine is almost exclusively synthesized chemically, ensuring a consistent and often vegan-friendly source, rather than being extracted from animal products.
 
 In traditional Indian home cooking, taurine is not used as a standalone ingredient or spice. However, it is naturally consumed through a diet rich in animal proteins, such as fish, meat, and dairy products, which are integral to various regional Indian cuisines. Its presence in these foods contributes to the nutritional profile of meals, though it is not consciously added or recognized for its individual flavour or functional properties in the domestic kitchen.

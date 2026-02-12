@@ -1,4 +1,4 @@
-**Palm Sugar**
+# Palm Sugar
 
 Palm sugar, known by various regional names such as *Taal Gur* (Bengali), *Karupatti* (Tamil), and *Eentha Gur* (Assamese), is a traditional unrefined sweetener derived from the sap of various palm trees. While its origins are often traced to Southeast Asia, its production and consumption have a long-standing heritage in coastal and eastern India, particularly in West Bengal, Odisha, Tamil Nadu, and Kerala. The sap is meticulously collected by skilled tappers from the flower stalks of date palms (*Phoenix dactylifera* or *Phoenix sylvestris*), palmyra palms (*Borassus flabellifer*), or coconut palms (*Cocos nucifera*). This sap is then boiled down to a thick syrup, which solidifies upon cooling into blocks or is granulated into a coarse sugar.
 

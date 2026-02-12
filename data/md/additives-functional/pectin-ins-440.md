@@ -1,3 +1,5 @@
+# Pectin Ins 440
+
 **Pectin (INS 440)**
 
 Pectin, a naturally occurring heteropolysaccharide, is an integral component of plant cell walls, particularly abundant in the peels and pulp of citrus fruits and apples. Its gelling properties have been implicitly understood and harnessed in traditional Indian culinary practices for centuries, long before its scientific isolation in the early 19th century. While not a cultivated crop, the raw materials for commercial pectin—citrus peels and apple pomace—are by-products of fruit processing industries globally, with India being a significant consumer of pectin in its food manufacturing sector.

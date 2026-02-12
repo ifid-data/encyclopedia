@@ -1,4 +1,4 @@
-**Gajar Flavouring**
+# Gajar Flavouring
 
 Carrots, known as *gajar* in Hindi and Urdu, have a rich history in India, believed to have been introduced from Central Asia centuries ago. They quickly became an integral part of Indian agriculture and cuisine, thriving in diverse climates, particularly in states like Uttar Pradesh, Punjab, and Haryana. The fresh vegetable is celebrated for its vibrant colour, sweet earthy taste, and nutritional value. However, "Gajar Flavouring" represents a modern technological development, a concentrated extract or synthetic compound designed to replicate the characteristic aroma and taste profile of carrots, rather than the vegetable itself.
 

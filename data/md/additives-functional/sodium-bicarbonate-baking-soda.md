@@ -1,3 +1,5 @@
+# Sodium Bicarbonate Baking Soda
+
 **Sodium Bicarbonate (Baking Soda)**
 
 Sodium Bicarbonate, commonly known as baking soda, is a chemical compound with the formula NaHCO₃. While its use as a leavening agent gained prominence with the advent of modern chemistry, its precursor, natron (a naturally occurring mineral mixture primarily of sodium carbonate and sodium bicarbonate), was utilized by ancient Egyptians for cleaning and mummification. The industrial production of pure sodium bicarbonate began in the 19th century, notably through the Solvay process. In India, its widespread adoption coincided with the popularization of Western baking techniques and the availability of commercially produced leavening agents, becoming an indispensable ingredient in both traditional and modern kitchens.

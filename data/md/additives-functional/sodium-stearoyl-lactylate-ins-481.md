@@ -1,3 +1,5 @@
+# Sodium Stearoyl Lactylate Ins 481
+
 **Sodium Stearoyl Lactylate (INS 481)**
 
 Sodium Stearoyl Lactylate (SSL), identified by the International Numbering System (INS) code 481, is a synthetic food additive primarily functioning as an emulsifier and dough conditioner. It is an ester of stearic acid and lactic acid, neutralized with sodium, giving it both hydrophilic (water-loving) and lipophilic (fat-loving) properties. This amphiphilic nature allows it to stabilize emulsions and interact with starch and protein molecules in food systems. Unlike traditional Indian ingredients, SSL has no historical or linguistic roots in the subcontinent, being a product of modern food science developed for industrial applications. Its "sourcing" is entirely through chemical synthesis for the food industry.

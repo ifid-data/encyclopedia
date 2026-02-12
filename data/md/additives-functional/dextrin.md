@@ -1,4 +1,4 @@
-**Dextrin**
+# Dextrin
 
 Dextrin refers to a group of low-molecular-weight carbohydrates produced by the hydrolysis of starch. Discovered in the early 19th century by French chemist Henri Braconnot, dextrins are typically white, yellow, or brown powders that are partially or fully soluble in water, forming a viscous solution. In India, dextrins are primarily sourced from common starches such as corn, potato, tapioca, and significantly, wheat, reflecting the country's diverse agricultural base. The production process involves heating starch, often with an acid catalyst, to break down its complex polysaccharide chains into smaller units, making it a versatile derivative widely used across various industries.
 

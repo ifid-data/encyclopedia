@@ -1,3 +1,5 @@
+# Agar Ins 406
+
 **Agar (INS 406)**
 
 Agar, identified by the food additive code INS 406, is a natural hydrocolloid derived from red algae, primarily from the *Gelidium* and *Gracilaria* species. Its origins trace back to 17th-century Japan, where it was discovered accidentally and named "kanten." The term "agar-agar" is of Malay origin, meaning "jelly." While not indigenous to traditional Indian cuisine, agar has found widespread acceptance and utility in India, particularly due to its vegetarian nature, serving as a crucial plant-based alternative to animal-derived gelling agents. Most of the agar used in India is imported, though there are growing efforts in coastal regions to cultivate suitable seaweed species.

@@ -1,4 +1,4 @@
-**Amla**
+# Amla
 
 Amla, scientifically known as *Phyllanthus emblica* or *Emblica officinalis*, is a revered fruit deeply embedded in India's cultural and medicinal heritage. Native to the Indian subcontinent, its name derives from the Sanskrit word "Amalaki," signifying "the sustainer" or "fruit of heaven," reflecting its profound importance in Ayurvedic medicine. This deciduous tree thrives across diverse Indian climates, with significant cultivation in states like Uttar Pradesh, Madhya Pradesh, Rajasthan, and Gujarat, where it is harvested primarily during the autumn and winter months. Its historical use dates back millennia, documented in ancient texts as a potent rasayana (rejuvenator) and a cornerstone of traditional Indian wellness practices.
 

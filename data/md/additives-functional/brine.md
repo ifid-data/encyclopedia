@@ -1,4 +1,4 @@
-**Brine**
+# Brine
 
 Brine, fundamentally a concentrated solution of salt (sodium chloride) in water, boasts an ancient and universal heritage in food preservation, deeply interwoven with India's culinary history. The practice of salting to preserve food predates refrigeration by millennia, with evidence of its use in ancient civilisations across the globe, including the Indus Valley. In India, the concept of using highly salted water for preservation is integral to traditional pickling (achar) and fermentation, particularly in regions where seasonal produce needed to be stored for extended periods. While the term "brine" itself is of Germanic origin, the underlying principle is expressed through various regional Indian terms referring to "salted water" or "pickle liquid." The primary ingredient, salt, is historically sourced from India's extensive coastline (e.g., Gujarat, Tamil Nadu) and inland salt lakes (e.g., Rajasthan).
 

@@ -1,3 +1,5 @@
+# Indigo Carmine Ins 132
+
 **Indigo Carmine (INS 132)**
 
 Indigo Carmine, identified by the international food additive number INS 132, is a synthetic blue dye widely used in the food industry. Unlike many traditional Indian ingredients with ancient roots, Indigo Carmine is a product of modern chemistry, developed to provide a consistent and vibrant blue hue. Its introduction to India, like other synthetic food colours, came with the rise of processed foods and the need for standardized visual appeal. As a synthetic compound, it is not sourced from agricultural regions but manufactured through chemical synthesis, ensuring purity and consistent colour strength, which natural blue pigments often struggle to achieve.

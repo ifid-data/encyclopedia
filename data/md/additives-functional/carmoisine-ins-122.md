@@ -1,3 +1,5 @@
+# Carmoisine Ins 122
+
 **Carmoisine (INS 122)**
 
 Carmoisine (INS 122, also known as Azorubine or E122) is a synthetic azo dye, a class of organic compounds characterized by the presence of an azo group (-N=N-). Its history as a food additive dates back to the early 20th century, gaining widespread adoption due to its vibrant and stable crimson-red hue. Unlike natural colors derived from botanicals, Carmoisine is synthesized chemically, ensuring consistent color properties and availability. In India, as with many other nations, its use is regulated under the Food Safety and Standards Authority of India (FSSAI) as a permitted synthetic food color, identified by its International Numbering System (INS) code 122.

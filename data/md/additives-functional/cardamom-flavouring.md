@@ -1,4 +1,4 @@
-**Cardamom Flavouring**
+# Cardamom Flavouring
 
 Cardamom, known as *Elaichi* in India, holds a revered place in the subcontinent's culinary and cultural heritage. Native to the Western Ghats of South India, particularly Kerala, it is one of the world's oldest and most expensive spices. Its name, derived from the Sanskrit *elā*, reflects its ancient roots. The flavouring, whether natural or synthetic, seeks to capture the complex aromatic profile of this spice, which is characterized by notes of eucalyptus, lemon, and a sweet, pungent warmth. Natural cardamom flavourings are typically sourced from the seeds of *Elettaria cardamomum* (green cardamom) or *Amomum subulatum* (black cardamom), through processes like steam distillation to extract essential oils or solvent extraction for oleoresins.
 

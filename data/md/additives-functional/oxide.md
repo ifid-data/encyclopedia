@@ -1,4 +1,4 @@
-**Oxide**
+# Oxide
 
 The term "oxide" refers to a chemical compound containing at least one oxygen atom and one other element in its chemical formula. While "oxide" itself is a broad chemical classification rather than a traditional food ingredient, specific food-grade oxides have found their way into the modern Indian food system primarily through industrial applications. Historically, the elements that form these oxides, such as iron, zinc, and titanium, have been recognized for their properties, with iron, for instance, being crucial for nutrition and traditionally sourced from natural foods or even cooking in iron vessels. The scientific understanding and isolation of these elements as oxides for specific applications are a modern development, distinct from ancient culinary practices.
 

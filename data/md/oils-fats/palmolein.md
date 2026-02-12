@@ -1,4 +1,4 @@
-**Palmolein**
+# Palmolein
 
 Palmolein, a widely consumed edible vegetable oil in India, is a liquid fraction derived from palm oil. Originating from the fruit of the oil palm tree (Elaeis guineensis), native to West Africa, palm oil was introduced to Southeast Asia in the early 20th century, where Malaysia and Indonesia now dominate global production. India, a major importer, relies heavily on these regions to meet its domestic demand. The term "Palmolein" itself signifies its nature: "palm" from its source, and "olein" referring to the liquid, unsaturated fatty acid fraction, primarily oleic acid, which remains liquid at ambient temperatures. Its widespread adoption in India is a relatively modern phenomenon, driven by its economic viability and functional properties.
 

@@ -1,3 +1,5 @@
+# Sucralose Ins 955
+
 **Sucralose (INS 955)**
 
 Sucralose, identified by the international food additive code INS 955, is a synthetic, non-nutritive sweetener discovered in 1976 in the UK. Its name is a portmanteau of "sucrose" and the suffix "-ose" for sugar, reflecting its origin from sucrose. While not indigenous to India, sucralose was introduced and gained significant traction in the Indian market with the growing awareness of calorie reduction and the demand for sugar-free alternatives, particularly in the late 20th and early 21st centuries. It is synthetically manufactured through a multi-step process that selectively replaces three hydroxyl groups of sucrose with chlorine atoms, altering its chemical structure to prevent metabolism by the body.

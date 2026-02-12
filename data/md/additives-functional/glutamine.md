@@ -1,3 +1,5 @@
+# Glutamine
+
 Glutamine is a conditionally essential amino acid, the most abundant free amino acid in the human body, playing a crucial role in various physiological processes. While not traditionally sourced as a standalone ingredient in Indian culinary heritage, its presence is inherent in protein-rich foods that form the bedrock of Indian diets, such as dals, paneer, milk, and various meats. Its scientific discovery dates back to the early 20th century, and its significance in metabolism and cellular function has been increasingly recognized, leading to its prominence in modern nutritional science and the burgeoning Indian nutraceutical market.
 
 In traditional Indian home kitchens, glutamine is not used as a direct culinary ingredient for flavour or texture. Instead, it is consumed naturally as part of a balanced diet rich in protein sources. Foods like lentils (dals), dairy products (paneer, curd), and animal proteins (chicken, fish) are integral to Indian meals and provide the body with the necessary amino acids, including glutamine, for daily functions. Its role here is purely nutritional, absorbed and utilized by the body from whole food sources.

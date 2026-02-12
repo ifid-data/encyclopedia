@@ -1,4 +1,4 @@
-**Sago**
+# Sago
 
 Sago, known widely in India as *sabudana*, is a starch extracted from the pith of various tropical palm stems, most notably the sago palm (*Metroxylon sagu*) native to Southeast Asia. Its introduction to the Indian subcontinent likely occurred through ancient trade routes, becoming deeply integrated into local culinary traditions. The term "sabudana" itself is believed to be derived from "sabu," referring to sago, and "dana," meaning grain or pearl. While true sago palm cultivation for commercial sago production is limited in India, the vast majority of "sabudana" consumed domestically is derived from tapioca (cassava) starch, primarily produced in regions like Salem, Tamil Nadu, which has become a major hub for its processing.
 

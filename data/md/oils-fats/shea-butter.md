@@ -1,3 +1,5 @@
+# Shea Butter
+
 Shea butter, derived from the nuts of the African shea tree (Vitellaria paradoxa, formerly Butyrospermum parkii), is a versatile vegetable fat primarily known for its creamy, solid consistency at room temperature. Originating from West and East Africa, where the tree is indigenous, shea butter has been a staple in traditional African diets, medicine, and skincare for centuries. Its name "shea" is believed to come from the Bambara word "s'i," meaning the shea tree. While not native to India, its global trade has introduced it to the subcontinent, where it is exclusively imported, primarily from countries like Ghana, Nigeria, and Burkina Faso.
 
 In traditional Indian home kitchens, shea butter holds virtually no historical or customary culinary presence. Unlike indigenous fats such as ghee, mustard oil, or groundnut oil, shea butter has not been integrated into regional cooking practices, tempering techniques, or traditional recipes. Its mild, slightly nutty flavour, while pleasant, does not align with the established flavour profiles of Indian cuisine, which typically relies on a distinct array of spices and cooking mediums.

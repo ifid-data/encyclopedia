@@ -1,4 +1,4 @@
-**Cheese Powder**
+# Cheese Powder
 
 Cheese powder, a modern culinary innovation, represents a dehydrated and pulverized form of various cheeses, primarily developed for extended shelf life and convenience. Its origins are rooted in Western food processing techniques, emerging as a practical solution for preserving dairy and imparting a consistent cheese flavour. While not indigenous to traditional Indian cuisine, its introduction to India coincided with the globalization of food products and the rise of processed snacks, becoming a staple ingredient in contemporary packaged foods. The powder is typically produced by spray-drying or drum-drying cheese slurries, sometimes incorporating specific enzymes, such as those derived from Romano cheese, to enhance or replicate particular flavour profiles.
 

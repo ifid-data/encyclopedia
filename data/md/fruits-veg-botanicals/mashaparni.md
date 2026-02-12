@@ -1,4 +1,4 @@
-**Mashaparni**
+# Mashaparni
 
 Mashaparni, botanically identified as *Teramnus labialis*, is a revered herb deeply embedded in the ancient Indian system of Ayurveda. Its name, derived from Sanskrit, combines "Masha" (referring to black gram, *Vigna mungo*) and "Parni" (leaf), alluding to the resemblance of its leaves to those of the black gram plant. Native to tropical and subtropical regions, Mashaparni thrives as a perennial creeper across India, particularly in the Himalayan foothills, Deccan Plateau, and Western Ghats. It is extensively documented in classical Ayurvedic texts like the Charaka Samhita and Sushruta Samhita, where it is celebrated for its therapeutic properties and classified under various beneficial groups, including the "Jivaniya Gana" (life-giving group).
 

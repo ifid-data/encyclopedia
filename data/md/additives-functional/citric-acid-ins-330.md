@@ -1,3 +1,5 @@
+# Citric Acid Ins 330
+
 **Citric Acid (INS 330)**
 
 Citric acid, chemically a tricarboxylic acid, is a naturally occurring organic acid found abundantly in citrus fruits like lemons, limes, oranges, and grapefruits. Its discovery is attributed to the Swedish chemist Carl Wilhelm Scheele, who first isolated it from lemon juice in 1784. While historically extracted from fruit, the vast majority of citric acid used today, particularly in India, is produced industrially through the fermentation of carbohydrates by the mould *Aspergillus niger*. This method, pioneered in the early 20th century, ensures a consistent and cost-effective supply, making it one of the most widely used food additives globally.

@@ -1,4 +1,4 @@
-**Pineapple Flavouring**
+# Pineapple Flavouring
 
 The essence of pineapple, a fruit native to South America and introduced to India by the Portuguese in the 16th century, has become a ubiquitous flavour profile across the subcontinent. While fresh pineapples (Ananas comosus) thrive in India's tropical climates, particularly in states like West Bengal, Assam, and Kerala, pineapple flavouring represents the concentrated aromatic compounds that evoke its distinctive sweet-tart taste. This flavouring is meticulously crafted to capture the canonical taste of ripe pineapple, making it accessible beyond the fruit's seasonal availability and geographical limitations.
 

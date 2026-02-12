@@ -1,4 +1,4 @@
-**Ashwagandha**
+# Ashwagandha
 
 Ashwagandha, botanically known as *Withania somnifera*, is a revered herb deeply embedded in the ancient Indian system of Ayurveda. Its Sanskrit name, translating to "smell of a horse" and implying "the strength of a horse," alludes to its traditional use for enhancing vitality and resilience. Indigenous to the Indian subcontinent, parts of the Middle East, and Africa, Ashwagandha thrives in dry regions. In India, it is primarily cultivated in states like Rajasthan, Madhya Pradesh, Uttar Pradesh, Gujarat, Punjab, and Maharashtra, with its roots being the most prized part for medicinal applications.
 

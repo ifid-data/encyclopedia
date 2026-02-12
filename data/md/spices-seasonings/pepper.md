@@ -1,4 +1,4 @@
-**Pepper**
+# Pepper
 
 Pepper, primarily referring to *Piper nigrum*, holds an unparalleled position in India's culinary and historical narrative. Native to the Malabar Coast of Kerala, India, it is often dubbed "black gold" due to its immense historical significance in the global spice trade, which shaped ancient trade routes and colonial ambitions. The term "pepper" itself derives from the Sanskrit word *pippali*, indicating its ancient roots in the subcontinent. Today, India remains a significant producer, with major cultivation concentrated in the southern states of Kerala and Karnataka, where the tropical climate and rich soil provide ideal growing conditions for this climbing vine.
 

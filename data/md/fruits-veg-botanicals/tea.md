@@ -1,4 +1,4 @@
-**Tea**
+# Tea
 
 Tea, derived from the leaves of the *Camellia sinensis* plant, holds a profound historical and cultural significance in India, despite its origins tracing back to ancient China. While indigenous tea varieties were known in Assam, large-scale cultivation and popularisation in India were spearheaded by the British in the 19th century, primarily to counter China's monopoly. Major tea-growing regions in India include Assam, renowned for its robust, malty black teas; Darjeeling, famous for its delicate, muscatel-flavoured varieties; and the Nilgiri Hills in South India, producing fragrant and brisk teas. The word "chai," widely used across India, is derived from the Mandarin Chinese word 'chá', reflecting its deep linguistic and historical roots.
 

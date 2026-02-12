@@ -1,4 +1,4 @@
-**Barley**
+# Barley
 
 Barley, known in Sanskrit as *yava*, is one of the oldest cultivated grains globally, with its origins tracing back to the Fertile Crescent over 10,000 years ago. Its introduction to the Indian subcontinent is ancient, predating wheat and rice in many regions, and it holds significant mention in Vedic texts and Ayurvedic medicine for its cooling and nourishing properties. Historically, *yava* was a staple grain, particularly in drier regions. Today, major barley-producing states in India include Rajasthan, Uttar Pradesh, Madhya Pradesh, and Haryana, where it is primarily grown as a winter crop.
 

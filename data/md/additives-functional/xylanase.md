@@ -1,4 +1,4 @@
-**Xylanase**
+# Xylanase
 
 Xylanase, a hemicellulase enzyme, does not possess a traditional history within Indian culinary heritage, as it is a product of modern biotechnology. Its introduction to India is relatively recent, coinciding with the industrialization of the baking and food processing sectors. Unlike agricultural commodities, xylanase is not "sourced" from specific geographical regions in the conventional sense; rather, it is produced through controlled microbial fermentation, primarily using fungi (e.g., *Aspergillus*, *Trichoderma*) or bacteria. Its application in India reflects a global trend towards optimizing food production processes.
 

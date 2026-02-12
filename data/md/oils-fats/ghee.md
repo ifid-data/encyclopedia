@@ -1,4 +1,4 @@
-**Ghee**
+# Ghee
 
 Ghee, known in Sanskrit as "ghṛta," holds a revered place in Indian culinary and cultural heritage, with its origins tracing back to ancient Vedic times. It is an anhydrous milk fat, traditionally prepared by simmering butter until the water evaporates and milk solids separate, leaving behind a clear, golden liquid. Historically, ghee was a staple in Ayurvedic medicine for its purported health benefits and was indispensable in religious rituals and ceremonies, symbolizing purity and prosperity. While primarily derived from cow's milk, buffalo milk is also used, particularly in regions where buffalo farming is prevalent. The term "desi ghee" specifically refers to traditionally made ghee, often implying a more authentic or artisanal product.
 

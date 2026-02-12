@@ -1,4 +1,4 @@
-**Wheat**
+# Wheat
 
 Wheat (Triticum aestivum), known as 'gehun' in Hindi and 'godhuma' in Sanskrit, holds a venerable position in India's agricultural and culinary history, tracing its origins to the Fertile Crescent. Its cultivation in the Indian subcontinent dates back to the Indus Valley Civilization, establishing it as one of the earliest domesticated grains. Today, India stands as the world's second-largest producer, with vast fields spanning the northern plains, particularly in states like Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, and Rajasthan. This ancient grain is a cultural cornerstone, deeply embedded in dietary patterns and rituals across diverse Indian communities.
 

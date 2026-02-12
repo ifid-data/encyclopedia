@@ -1,4 +1,4 @@
-**Arginine**
+# Arginine
 
 Arginine is a semi-essential amino acid, a fundamental building block of proteins crucial for numerous physiological processes. While the human body can synthesize arginine, its production may not meet demands during periods of rapid growth, illness, or stress, making dietary intake important. Historically, the understanding of amino acids as distinct nutritional components is a modern scientific development, but the benefits derived from arginine-rich foods have been integral to traditional Indian diets for millennia. Sources like various dals (lentils), paneer, nuts, seeds, and meats have always been valued for their protein content, implicitly providing arginine.
 

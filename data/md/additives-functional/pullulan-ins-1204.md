@@ -1,3 +1,5 @@
+# Pullulan Ins 1204
+
 **Pullulan (INS 1204)**
 
 Pullulan, identified by the international food additive code INS 1204, is a natural, water-soluble polysaccharide produced through the fermentation of starch by the fungus *Aureobasidium pullulans*. While not indigenous to Indian culinary traditions, its introduction to India is a consequence of the globalization of food technology and the increasing demand for functional ingredients in modern food processing. Its origins are purely scientific, stemming from microbiological research rather than historical agricultural practices. Commercially, it is sourced globally from specialized fermentation facilities, with its application in India reflecting contemporary food industry trends.

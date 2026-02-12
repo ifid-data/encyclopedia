@@ -1,4 +1,4 @@
-**Supergrain**
+# Supergrain
 
 The term "supergrain" is a contemporary marketing designation rather than a botanical classification, referring to a blend of grains celebrated for their perceived superior nutritional profiles compared to more common staples. While the concept is modern, many of the grains comprising these blends have deep historical roots in Indian agriculture and cuisine. Grains like Ragi (finger millet), a staple in South India for centuries, and various forms of rice, including brown rice, have been cultivated across the subcontinent. Corn, introduced later, also found its place in regional diets. These grains are sourced from diverse agricultural regions across India, with millets like ragi thriving in semi-arid zones, and rice being a primary crop in fertile plains.
 

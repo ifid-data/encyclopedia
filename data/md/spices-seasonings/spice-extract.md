@@ -1,4 +1,4 @@
-**Spice Extract**
+# Spice Extract
 
 Spices have been integral to Indian culinary and medicinal traditions for millennia, with their heritage deeply rooted in ancient texts and trade routes. While the use of whole and ground spices dates back to the Indus Valley Civilization, the concept of "spice extract" represents a modern evolution in harnessing their potent flavours and aromas. These concentrated forms are derived from various parts of plants—seeds, fruits, roots, bark, or flowers—sourced from India's diverse agro-climatic regions, particularly the spice-rich states of Kerala, Karnataka, and Rajasthan. The term "extract" itself, from the Latin "extrahere" (to draw out), aptly describes the process of isolating the desired compounds.
 

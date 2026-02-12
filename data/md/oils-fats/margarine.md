@@ -1,4 +1,4 @@
-**Margarine**
+# Margarine
 
 Margarine, a semi-solid emulsion of vegetable oils and water, originated in France in the mid-19th century as a cost-effective butter substitute. Its name derives from the Greek word "margarites," meaning pearl, referencing the pearly luster of the fatty acids originally isolated from animal fats. Introduced to India primarily post-independence, margarine gained traction as an affordable alternative to dairy butter and ghee, particularly in urban centers and commercial food production. Unlike traditional Indian fats, margarine is not indigenous but rather a product of industrial food science, formulated from readily available vegetable oils such as palm, soybean, sunflower, and rice bran, along with water, salt, and emulsifiers.
 

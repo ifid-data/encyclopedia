@@ -1,4 +1,4 @@
-**Pushkara**
+# Pushkara
 
 Pushkara, botanically known as *Inula racemosa*, is a revered medicinal herb in India, primarily valued for its aromatic and therapeutic root. Known in Sanskrit as Pushkara or Pushkarmool, its name, while sharing a linguistic root with the sacred lotus or a holy pond, specifically refers to this distinct plant in the context of traditional medicine. Native to the Himalayan regions and parts of North India, particularly Kashmir, Himachal Pradesh, and Uttarakhand, it thrives in temperate climates. Its historical significance is deeply embedded in Ayurvedic texts like the Charaka Samhita and Sushruta Samhita, where it is extensively documented for its efficacy in treating respiratory and cardiac conditions, establishing its heritage as a cornerstone of traditional Indian pharmacopoeia.
 

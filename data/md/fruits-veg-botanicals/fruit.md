@@ -1,3 +1,5 @@
+# Fruit
+
 Fruits have been an indispensable part of human diet and culture since ancient times, holding significant nutritional, medicinal, and symbolic value. India, with its diverse agro-climatic zones, is one of the world's largest producers of a vast array of fruits, many indigenous like mango (Mangifera indica), banana (Musa paradisiaca), and jamun (Syzygium cumini). The Sanskrit term "Phal" (फल) reflects its deep linguistic and cultural roots. Native varieties thrive across states, from tropical bounty to temperate produce, forming a cornerstone of local economies and traditional diets.
 
 In Indian home kitchens, fruits are consumed fresh, as refreshing juices, and as integral components of desserts, jams, and preserves. They play a vital role in religious rituals and festivals, often offered as 'prasad'. Traditional culinary practices leverage seasonal fruit abundance for making chutneys, pickles, and murabbas, time-honored preservation methods. Raw mangoes are pickled, while ripe ones are pureed for aamras. Bananas are used in both sweet and savory dishes, reflecting regional culinary diversity.

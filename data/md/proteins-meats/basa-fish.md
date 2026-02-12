@@ -1,4 +1,4 @@
-**Basa Fish**
+# Basa Fish
 
 Basa fish, scientifically classified primarily as *Pangasius bocourti* or more commonly *Pangasius hypophthalmus* (often simply referred to as *Pangasius sp.*), is a freshwater catfish native to the Mekong Delta in Vietnam. Its name, "Basa," is Vietnamese, referring to the species. While not indigenous to India, its introduction to the Indian market is a relatively recent phenomenon, driven by global aquaculture and trade. It is predominantly farmed in large-scale operations in Vietnam, where its rapid growth rate and adaptability to various farming conditions make it an economically viable and sustainable source of protein. India is a significant importer of Basa, where it has found a niche in both retail and foodservice sectors.
 

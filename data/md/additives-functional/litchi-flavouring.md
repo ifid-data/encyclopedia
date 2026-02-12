@@ -1,4 +1,4 @@
-Litchi Flavouring
+# Litchi Flavouring
 
 Litchi flavouring, a modern culinary innovation, draws its inspiration from the litchi fruit (Litchi chinensis), a tropical fruit native to the Guangdong and Fujian provinces of southeastern China. Introduced to India centuries ago, litchi cultivation flourished, particularly in regions like Bihar, West Bengal, and Uttarakhand, where its sweet, aromatic fruit became a seasonal delicacy. The flavouring itself, however, does not originate from these agricultural regions but is rather a manufactured compound, either naturally derived from litchi extracts or synthetically created to replicate the fruit's distinctive floral and sweet notes. Its development reflects a global desire to capture and extend the ephemeral joy of seasonal fruits into year-round applications.
 

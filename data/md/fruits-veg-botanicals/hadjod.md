@@ -1,4 +1,4 @@
-**Hadjod**
+# Hadjod
 
 Hadjod, scientifically known as *Cissus quadrangularis*, is a revered perennial plant deeply rooted in India's traditional medicinal systems, particularly Ayurveda. Its Sanskrit name, 'Asthisamharaka', literally translates to "that which protects bones from destruction" or "bone setter," underscoring its ancient reputation for promoting bone health and aiding fracture healing. Native to India and Sri Lanka, this succulent vine thrives in arid regions and is also found across Africa and Southeast Asia. Historically, it has been revered for its therapeutic properties, with mentions in classical Ayurvedic texts. While traditionally wild-harvested, its increasing demand in wellness industries has led to more structured cultivation, particularly in states like Andhra Pradesh and Telangana.
 

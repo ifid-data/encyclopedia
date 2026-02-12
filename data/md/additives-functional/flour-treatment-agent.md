@@ -1,4 +1,4 @@
-**Flour Treatment Agent**
+# Flour Treatment Agent
 
 Flour treatment agents are a category of food additives specifically designed to enhance the functional properties of flour, primarily for baking and dough-based products. Historically, flour quality was often managed through natural aging, allowing inherent enzymes to act on flour components. However, with the advent of industrial milling and the demand for consistent, high-quality flour year-round, specific agents became necessary. These agents are either naturally derived enzymes (e.g., amylase from microbial sources) or synthetic compounds (e.g., ammonium chloride). Their application in India has grown significantly with the modernization of the baking industry, moving towards standardized, refined flour products.
 

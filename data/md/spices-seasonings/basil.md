@@ -1,4 +1,4 @@
-**Basil**
+# Basil
 
 Tulsi, widely known as Holy Basil, is botanically identified primarily as *Ocimum tenuiflorum* (syn. *Ocimum sanctum*). Its name, derived from Sanskrit, translates to "the incomparable one," underscoring its profound spiritual and medicinal significance across India. Originating from the Indian subcontinent, Tulsi has been cultivated for millennia, deeply interwoven with Hindu religious practices where it is revered as sacred to Vishnu and Lakshmi, frequently found in the courtyards of homes and temples. Key varieties include Rama Tulsi (characterised by green leaves and a milder flavour), Krishna Tulsi (distinguished by purplish leaves and a more pungent, peppery taste), and Vana Tulsi (*Ocimum gratissimum*, a wild forest basil known for its larger leaves and lemony aroma).
 

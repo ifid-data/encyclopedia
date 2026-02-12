@@ -1,4 +1,4 @@
-**Kantakari**
+# Kantakari
 
 Kantakari, botanically known as *Solanum surattense* (formerly *Solanum xanthocarpum*), is a thorny, perennial herb deeply embedded in India's traditional medicinal heritage, particularly Ayurveda. Its name, derived from Sanskrit, literally means "thorn-bearing," aptly describing its characteristic spiny stems and leaves. Indigenous to the Indian subcontinent, Kantakari thrives across diverse terrains, from plains to lower hilly regions, and is widely distributed throughout the country. Historically, its roots trace back millennia, with extensive mentions in ancient Ayurvedic texts like the Charaka Samhita and Sushruta Samhita, where it is revered for its potent therapeutic properties.
 

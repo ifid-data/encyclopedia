@@ -1,4 +1,4 @@
-**Pistachio Flavouring**
+# Pistachio Flavouring
 
 Pistachio flavouring, known colloquially as "pista flavouring" in India, is a culinary additive designed to replicate the distinctive sweet, earthy, and slightly resinous taste profile of the pistachio nut (Pistacia vera). While the pistachio nut itself boasts a rich history in India, having been introduced centuries ago via ancient trade routes from Persia and Central Asia, the flavouring is a modern innovation. It is typically a blend of synthetic and/or natural compounds formulated to mimic the complex aroma and taste of the actual nut, rather than being directly sourced from pistachio trees. This allows for a consistent flavour profile independent of the seasonal availability or cost fluctuations of the nuts.
 

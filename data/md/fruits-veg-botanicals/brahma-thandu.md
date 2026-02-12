@@ -1,4 +1,4 @@
-**Brahma Thandu**
+# Brahma Thandu
 
 Brahma Thandu, botanically known as *Elephantopus scaber*, is a perennial herb belonging to the Asteraceae family, widely recognized in traditional Indian medicine. Its name, often translated as "Brahma's staff" or "stem," alludes to its upright, sturdy flowering stalk and its revered status in indigenous healing systems. Native to tropical and subtropical regions, including vast swathes of India, it thrives as a common weed in grasslands, open fields, and forest edges. Historically, it has been a cornerstone in Ayurvedic, Siddha, and folk medicine traditions across various Indian states, with mentions in ancient texts for its diverse therapeutic properties. Major sourcing occurs through wild harvesting, though its medicinal value is increasingly leading to cultivation efforts in some areas.
 

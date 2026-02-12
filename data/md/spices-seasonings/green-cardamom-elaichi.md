@@ -1,3 +1,5 @@
+# Green Cardamom Elaichi
+
 **Green Cardamom (Elaichi)**
 
 Green Cardamom, known as Elaichi in India, is a highly prized aromatic spice derived from the seeds of *Elettaria cardamomum*, a perennial herbaceous plant native to the evergreen rainforests of the Western Ghats in South India. Its name "Elaichi" originates from the Sanskrit word "Ela," reflecting its ancient roots in Indian culture and cuisine. Historically, cardamom has been a significant commodity in the spice trade, revered for its medicinal properties in Ayurveda and its exquisite fragrance. Today, India remains one of the largest producers and consumers, with major cultivation concentrated in the states of Kerala, Karnataka, and Tamil Nadu, where the humid, tropical climate provides ideal growing conditions.

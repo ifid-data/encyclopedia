@@ -1,4 +1,4 @@
-**Cholesterol**
+# Cholesterol
 
 Cholesterol, a vital sterol lipid, is an intrinsic component of all animal cell membranes and a precursor for essential hormones, vitamin D, and bile acids. Unlike plant-derived ingredients, cholesterol is not "sourced" or cultivated but is synthesized endogenously by the liver and other cells in animals, including humans. Its discovery dates back to the late 18th century, identified as a waxy substance in gallstones. In the Indian context, its presence is inherent in all animal-derived foods that have been part of traditional diets for millennia, such as dairy products, meats, and eggs, rather than being an introduced ingredient.
 

@@ -1,4 +1,4 @@
-**Cashew**
+# Cashew
 
 The cashew, known as *kaju* in India, is a highly prized and versatile ingredient with a rich history deeply intertwined with the subcontinent's culinary landscape. Native to northeastern Brazil, the cashew tree (*Anacardium occidentale*) was introduced to India by Portuguese traders in the 16th century, primarily in Goa and Kerala, where it quickly adapted to the tropical climate. Today, India is one of the world's largest producers and processors of cashews, with significant cultivation in coastal states like Goa, Kerala, Karnataka, Maharashtra, Andhra Pradesh, and Odisha. Botanically, the cashew "nut" is actually the seed of the cashew apple, growing uniquely outside the fruit.
 

@@ -1,3 +1,5 @@
+# Disodium 5' Ribonucleotides Ins 635
+
 Disodium 5'-Ribonucleotides (INS 635)
 
 Disodium 5'-Ribonucleotides (INS 635) is a modern food additive, primarily functioning as a flavour enhancer. Unlike traditional Indian ingredients, it has no historical or heritage roots in indigenous culinary practices. Its introduction to India, like many other food additives, came with the advent of industrial food processing and the globalized food supply chain. It is typically produced through the fermentation of carbohydrates by specific microorganisms or from yeast extract, making it a biotechnologically derived ingredient rather than one sourced from agriculture. Its primary purpose is to amplify the savoury, or "umami," taste in foods.

@@ -1,4 +1,4 @@
-**Guava Flavouring**
+# Guava Flavouring
 
 Guava, or *Psidium guajava*, is a tropical fruit native to Central and South America, introduced to India by the Portuguese in the 17th century. It quickly adapted to the Indian climate, becoming a widely cultivated and beloved fruit, particularly in states like Uttar Pradesh, Bihar, Madhya Pradesh, and Maharashtra. The name "guava" itself is derived from the Spanish "guayaba," reflecting its origins. While the fresh fruit has a rich history in Indian culinary traditions, "Guava Flavouring" represents a modern technological advancement designed to capture and replicate its distinctive sweet, musky, and slightly tart aroma and taste profile.
 

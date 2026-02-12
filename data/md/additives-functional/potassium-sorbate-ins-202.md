@@ -1,3 +1,5 @@
+# Potassium Sorbate Ins 202
+
 Potassium sorbate, identified by the INS number 202, is the potassium salt of sorbic acid. Sorbic acid was first isolated in 1859 from the berries of the European rowan tree (Sorbus aucuparia), hence its name derived from the Latin "sorbus." While its natural precursor has ancient roots, potassium sorbate as a food additive is a modern innovation, gaining widespread acceptance in the mid-20th century. In India, its use aligns with the growth of the processed food industry, where it is synthetically produced for commercial applications rather than being sourced from natural botanical extracts.
 
 Unlike traditional Indian spices or ingredients, potassium sorbate holds no place in conventional home cooking or traditional Indian culinary practices. It is not an ingredient added by home cooks for flavour or immediate preservation. Its role is strictly functional, employed at the industrial level to extend the shelf life of packaged food products, preventing spoilage that would otherwise occur rapidly in a home-prepared dish.

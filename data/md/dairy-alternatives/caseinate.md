@@ -1,4 +1,4 @@
-**Caseinate**
+# Caseinate
 
 Caseinate refers to a group of milk proteins derived from casein, the primary protein found in mammalian milk. The term "casein" itself originates from the Latin "caseus," meaning cheese, highlighting its ancient and fundamental role in dairy production. While casein has been utilized for millennia in traditional cheese-making across India and the world, the industrial production of isolated caseinates, such as sodium caseinate and calcium caseinate, is a more modern development. These derivatives are typically sourced from cow's milk, where casein constitutes about 80% of the total protein, and are produced by precipitating casein from skim milk, followed by neutralization with alkali (like sodium hydroxide or calcium hydroxide) and drying into a powder.
 

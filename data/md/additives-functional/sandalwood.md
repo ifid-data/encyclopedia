@@ -1,4 +1,4 @@
-**Sandalwood**
+# Sandalwood
 
 Sandalwood, known in Sanskrit as *chandana* and botanically as *Santalum album*, holds a revered place in Indian culture, history, and traditional medicine. Native to the dry deciduous forests of Southern India, particularly Karnataka and Tamil Nadu, it has been prized for millennia for its distinctive, sweet, woody aroma. Ancient Indian texts, including the Vedas and Ayurvedic treatises, extensively mention sandalwood for its spiritual, medicinal, and cosmetic properties. The most valuable part is the heartwood, which develops its characteristic fragrance over decades. Due to overharvesting, *Santalum album* is now an endangered species, leading to strict regulations on its cultivation and trade, with significant efforts in sustainable farming and plantations across India.
 

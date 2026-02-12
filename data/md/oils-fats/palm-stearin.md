@@ -1,4 +1,4 @@
-**Palm Stearin**
+# Palm Stearin
 
 Palm Stearin is a solid fraction derived from palm oil through a process called fractionation, which separates the oil into fractions with different melting points. While palm oil itself has ancient roots in West Africa, its large-scale cultivation and introduction to India are relatively recent, primarily post-independence, driven by the need for domestic edible oil self-sufficiency. Major oil palm plantations in India are concentrated in states like Andhra Pradesh, Telangana, and Kerala, where the tropical climate is conducive to its growth. Palm Stearin, therefore, does not have a direct historical or traditional "sourcing" in India but is a product of modern industrial processing of imported or domestically grown palm oil.
 

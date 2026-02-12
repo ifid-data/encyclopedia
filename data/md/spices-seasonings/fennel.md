@@ -1,3 +1,5 @@
+# Fennel
+
 **Fennel (Saunf)**
 
 Fennel, known as *Saunf* in Hindi and *Shatapushpa* in Sanskrit, boasts a rich history tracing back to ancient Mediterranean civilizations, where it was revered for its medicinal and culinary properties. Introduced to India through ancient trade routes, it quickly integrated into Ayurvedic medicine and regional cuisines. Today, India is a significant producer and consumer of fennel, with major cultivation concentrated in states like Rajasthan, Gujarat, and Uttar Pradesh, where the warm, dry climate is ideal for its growth. The plant's feathery leaves, bulb, and especially its aromatic seeds are all utilized, reflecting its versatility and deep cultural roots.

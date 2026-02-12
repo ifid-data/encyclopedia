@@ -1,3 +1,5 @@
+# Maida Refined Wheat Flour
+
 **Maida (Refined Wheat Flour)**
 
 Maida, commonly known as refined wheat flour, holds a significant, albeit sometimes controversial, place in Indian culinary history. While wheat cultivation in the Indian subcontinent dates back millennia, the widespread adoption and industrial production of highly refined flour like maida gained prominence during the colonial era, influenced by Western milling techniques. The term "Maida" itself is derived from Persian and Urdu, signifying "fine flour," reflecting its characteristic texture. Today, the wheat used for maida is primarily sourced from major wheat-producing states across India, including Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh, where specific varieties are cultivated for their milling properties.

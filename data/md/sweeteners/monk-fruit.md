@@ -1,4 +1,4 @@
-**Monk Fruit**
+# Monk Fruit
 
 Monk fruit, scientifically *Siraitia grosvenorii*, is a small, round fruit native to Southern China, particularly the mountainous regions of Guangxi province. Its name is attributed to Buddhist monks who cultivated it centuries ago, recognizing its medicinal properties. Historically, it has been revered in Traditional Chinese Medicine (TCM) for its cooling properties and ability to alleviate coughs and sore throats. Its introduction to India is relatively recent, primarily as a natural, zero-calorie sweetener, with the fruit itself rarely seen fresh in the Indian market. The active sweet compounds, known as mogrosides, are extracted and concentrated for commercial use.
 

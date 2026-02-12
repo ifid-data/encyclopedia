@@ -1,4 +1,4 @@
-**Black Pepper Flavouring**
+# Black Pepper Flavouring
 
 Black Pepper Flavouring draws its essence from the venerable black pepper (Piper nigrum), a spice deeply interwoven with India's history and global trade. Originating from the Malabar Coast of Kerala, black pepper, known as "Kali Mirch" in Hindi, has been cultivated in India for millennia, serving as a cornerstone of ancient spice routes and a prized commodity. The flavouring itself is a modern innovation, developed to capture the characteristic pungency and aroma of black pepper without the physical presence of the spice. It is typically derived through solvent extraction of black pepper corns to produce oleoresins, which are then further processed and concentrated, or through the synthesis of key aromatic compounds like piperine, which is responsible for black pepper's characteristic heat.
 

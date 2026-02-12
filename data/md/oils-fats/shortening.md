@@ -1,4 +1,4 @@
-**Shortening**
+# Shortening
 
 Shortening, in the Indian culinary and industrial context, refers to any fat that is solid at room temperature and used to impart a "short" or tender, crumbly texture to baked goods. Historically, fats like ghee and lard served this purpose in traditional Indian sweets and savouries. The modern concept of industrial shortening gained prominence in India with the advent of hydrogenation technology in the early 20th century, leading to the widespread use of hydrogenated vegetable fats. These fats, often derived from palm, soy, or cottonseed oils, offered a cost-effective, shelf-stable, and consistent alternative to animal fats, becoming integral to the burgeoning processed food industry.
 

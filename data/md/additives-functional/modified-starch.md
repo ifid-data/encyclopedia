@@ -1,4 +1,4 @@
-**Modified Starch**
+# Modified Starch
 
 Modified starch refers to starches that have undergone physical, enzymatic, or chemical treatments to alter their inherent properties, making them more suitable for specific food applications. While native starches from sources like maize, tapioca, and potato have been integral to Indian cuisine for centuries, their "modification" is a relatively modern food technology. India, with its vast agricultural base, is a significant producer of native starches, particularly from maize and tapioca, which then serve as raw materials for the modified variants. These modifications are not about genetic engineering but rather about enhancing functional attributes like stability, texture, and shelf-life.
 

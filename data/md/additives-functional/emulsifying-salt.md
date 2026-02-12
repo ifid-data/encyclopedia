@@ -1,3 +1,5 @@
+# Emulsifying Salt
+
 Emulsifying salts are a class of food additives crucial to modern food technology, primarily enabling the stable emulsification of fats and water in processed foods. Unlike traditional ingredients, they have no historical or heritage roots in Indian culinary practices, which historically relied on natural processes for stability, such as the acid coagulation of milk for paneer. These salts are synthetically produced compounds, designed for specific functional roles in food manufacturing.
 
 In traditional Indian home cooking, emulsifying salts are virtually non-existent. Home-cooked dishes achieve their textures and consistencies through natural ingredients and cooking techniques, such as the slow reduction of milk for rabri or the use of natural thickeners like gram flour (besan) in curries. The concept of chemically modifying food components for emulsion stability is a departure from the age-old, ingredient-focused approach of Indian kitchens.

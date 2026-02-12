@@ -1,4 +1,4 @@
-**Dairy Whitener**
+# Dairy Whitener
 
 Dairy whitener, a modern convenience product, emerged from the industrial processing of milk to create a shelf-stable alternative to fresh milk, particularly for beverages. While not possessing deep historical roots in traditional Indian culinary heritage, its development reflects the country's evolving food landscape and the demand for convenience. Primarily derived from milk solids, often skimmed milk powder, it is further processed with added vegetable fats, sugars, and emulsifiers. Its widespread adoption in India is linked to the ubiquity of tea and coffee consumption, providing a consistent and easy-to-store solution for whitening hot beverages, especially in regions with limited access to fresh milk or refrigeration.
 

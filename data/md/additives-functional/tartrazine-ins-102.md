@@ -1,3 +1,5 @@
+# Tartrazine Ins 102
+
 **Tartrazine (INS 102)**
 
 Tartrazine (INS 102), a synthetic lemon-yellow azo dye, was first synthesized in 1884. Unlike natural colorants with deep historical roots in Indian cuisine, Tartrazine has no indigenous heritage or traditional sourcing methods within India. Its presence in the Indian food landscape is entirely a modern phenomenon, introduced with the advent of industrial food processing and the demand for consistent, vibrant, and cost-effective coloration in packaged goods. It is produced chemically, not cultivated or harvested, and therefore lacks specific growing regions or linguistic origins in India.

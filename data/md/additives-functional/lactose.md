@@ -1,4 +1,4 @@
-Lactose
+# Lactose
 
 **History, Heritage & Sourcing**
 Lactose, a disaccharide composed of glucose and galactose, is the primary carbohydrate naturally present in mammalian milk. While its chemical isolation and identification are a relatively modern scientific achievement, dating back to the 17th century, its presence in the Indian diet is as ancient as the subcontinent's deep-rooted dairy traditions. India, a land where milk and its derivatives hold profound cultural and nutritional significance, has always consumed lactose inherently through its vast array of dairy products. It is not an ingredient "introduced" to India but rather an intrinsic component of a staple food. Industrially, lactose is primarily sourced from whey, a byproduct generated during the production of cheese and paneer, making India's extensive dairy processing infrastructure a natural hub for its extraction and utilization.

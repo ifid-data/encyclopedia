@@ -1,3 +1,5 @@
+# Digezyme
+
 Digezyme is a proprietary, multi-enzyme complex designed to support digestive health. Unlike traditional Indian ingredients with deep historical roots, Digezyme is a modern functional ingredient developed through advancements in food technology and biotechnology. It is not sourced from specific agricultural regions in India but is a manufactured blend, often incorporated into various health and wellness products. Its development reflects a global trend towards enhancing nutrient absorption and addressing digestive discomfort through targeted enzymatic action.
 
 In the context of Indian home kitchens and traditional culinary practices, Digezyme holds no direct application. Traditional Indian cooking relies on natural fermentation, specific cooking techniques, and the inherent enzymatic properties of certain ingredients (like ginger or papaya) to aid digestion. Digezyme is not a spice, herb, or staple used in daily meal preparation but rather a supplement designed to complement the body's natural digestive processes, particularly when these are compromised or require additional support.

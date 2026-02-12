@@ -1,3 +1,5 @@
+# Mct
+
 **Medium Chain Triglycerides (MCT)**
 
 Medium Chain Triglycerides (MCTs) are a unique class of saturated fatty acids, typically comprising caprylic (C8) and capric (C10) acids, though sometimes including lauric (C12) and caproic (C6) acids. While the term "MCT" is a modern scientific construct, these fats have been consumed for millennia through their natural sources, primarily coconut oil and palm kernel oil, both of which are staples in various Indian culinary traditions. Coconut oil, particularly abundant in South India, has been a cornerstone of regional diets and Ayurvedic practices, valued for its perceived health benefits long before the specific properties of its MCT content were understood. The extraction and isolation of MCTs represent a modern technological advancement, allowing for their concentrated use.

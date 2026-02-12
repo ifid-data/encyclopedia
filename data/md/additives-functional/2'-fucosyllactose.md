@@ -1,3 +1,5 @@
+# 2' Fucosyllactose
+
 **2'-Fucosyllactose**
 
 2'-Fucosyllactose (2'-FL) is a prominent human milk oligosaccharide (HMO), a complex carbohydrate naturally abundant in human breast milk. Unlike lactose, which is a disaccharide providing energy, 2'-FL and other HMOs are not digested by the infant but serve as prebiotics, selectively nourishing beneficial gut bacteria. Its discovery and subsequent synthesis represent a significant advancement in nutritional science, allowing for the replication of some of breast milk's unique benefits. While not indigenous to Indian traditional diets or agriculture, its scientific importance has led to its global recognition and industrial production, primarily through microbial fermentation, making it accessible for modern nutritional applications.

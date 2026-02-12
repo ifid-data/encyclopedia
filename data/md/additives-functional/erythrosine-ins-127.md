@@ -1,3 +1,5 @@
+# Erythrosine Ins 127
+
 **Erythrosine (INS 127)**
 
 Erythrosine (INS 127) is a synthetic xanthene dye, a brilliant cherry-red or pink food colour widely used in the food industry. Its name is derived from the Greek word "erythros," meaning red. Developed in the late 19th century, this artificial colourant gained global acceptance due to its vibrant hue and stability. In India, Erythrosine is a permitted food additive, regulated by the Food Safety and Standards Authority of India (FSSAI), which sets specific limits for its use in various food categories to ensure consumer safety. Unlike naturally derived colours, Erythrosine is chemically synthesised and not "sourced" from agricultural regions.

@@ -1,4 +1,4 @@
-**Essential Oils**
+# Essential Oils
 
 Essential oils are highly concentrated, volatile aromatic compounds extracted from plants, representing the plant's essence, aroma, and flavour. Their history in India is deeply intertwined with ancient Ayurvedic practices, traditional perfumery, and spiritual rituals. Methods like steam distillation, hydro-distillation, and cold pressing have been employed for millennia to extract these precious oils from flowers (like rose, jasmine), woods (sandalwood), leaves (tulsi, mint), spices (clove, cardamom), and citrus rinds. India has been a significant source and innovator in essential oil extraction, with regions like Kannauj in Uttar Pradesh renowned as the "Perfume Capital of India" for its traditional 'attar' production, a form of essential oil often distilled into a sandalwood base.
 

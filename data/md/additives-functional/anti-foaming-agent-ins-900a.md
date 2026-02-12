@@ -1,3 +1,5 @@
+# Anti Foaming Agent Ins 900A
+
 **Anti-foaming Agent (INS 900a)**
 
 Anti-foaming agents, particularly those based on silicone compounds like Dimethyl Polysiloxane (DMPS, INS 900a), are products of modern food technology rather than traditional culinary heritage. Unlike natural ingredients, they do not possess ancient origins or linguistic roots in Indian cuisine. Their introduction to India coincided with the growth of industrial food processing, where efficiency and product consistency became paramount. DMPS is synthetically produced and globally sourced, reflecting its role as a specialized chemical additive rather than an agricultural commodity.

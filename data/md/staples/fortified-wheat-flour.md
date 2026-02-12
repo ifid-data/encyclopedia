@@ -1,4 +1,4 @@
-**Fortified Wheat Flour**
+# Fortified Wheat Flour
 
 Wheat, a cornerstone of Indian agriculture, has been cultivated in the subcontinent for millennia, with its flour (atta) forming the basis of countless traditional dishes. The concept of "fortified wheat flour," however, is a relatively modern public health initiative. While wheat cultivation is widespread, particularly in states like Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh, the fortification process occurs at milling units. This practice involves adding essential micronutrients like iron, folic acid, and B vitamins (thiamine, niacin) to the flour, often alongside calcium carbonate, to address widespread nutritional deficiencies in the population. The Food Safety and Standards Authority of India (FSSAI) actively promotes and mandates fortification standards to improve public health outcomes.
 

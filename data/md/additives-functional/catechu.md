@@ -1,4 +1,4 @@
-**Catechu**
+# Catechu
 
 Catechu, known colloquially as *katha* (from which its synonym *kathodi* derives), is a concentrated extract derived from the heartwood of the *Acacia catechu* tree, indigenous to the Indian subcontinent and Southeast Asia. Historically, its use in India dates back millennia, deeply embedded in Ayurvedic traditions for its medicinal properties and as a natural dye and tanning agent. The tree, often referred to as the "khair" tree, thrives in the dry deciduous forests across states like Uttar Pradesh, Bihar, Madhya Pradesh, and Maharashtra, where its wood is sustainably harvested for extraction. The process involves boiling wood chips in water, concentrating the decoction, and allowing it to solidify into a brittle, reddish-brown mass.
 

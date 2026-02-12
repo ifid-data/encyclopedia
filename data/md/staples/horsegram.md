@@ -1,4 +1,4 @@
-**Horsegram**
+# Horsegram
 
 Horsegram, known by various regional names such as *Kulthi* (Hindi), *Gahat* (Uttarakhand), *Hurali* (Kannada), *Kollu* (Tamil), and *Ulavalu* (Telugu), is an ancient legume with deep roots in Indian agriculture and culinary heritage. Believed to be one of the oldest cultivated pulses, its origins trace back to the Indian subcontinent, where it has been grown for millennia. This drought-resistant crop thrives in arid and semi-arid regions, making it a staple in dryland farming areas, particularly across South India (Karnataka, Andhra Pradesh, Tamil Nadu) and parts of the Himalayan foothills. Its resilience and nutritional density have cemented its place in the diets of rural communities.
 

@@ -1,4 +1,4 @@
-**Musli**
+# Musli
 
 Musli, derived from the Sanskrit word "Musali," refers primarily to the tuberous roots of certain plants revered in traditional Indian medicine, particularly Ayurveda. The most prominent varieties are Safed Musli (Chlorophytum borivilianum) and Kali Musli (Curculigo orchioides). Indigenous to the Indian subcontinent, these plants have been integral to Ayurvedic pharmacopoeia for centuries, valued for their adaptogenic and rejuvenating properties. Safed Musli, in particular, is cultivated in semi-arid regions of Rajasthan, Gujarat, Madhya Pradesh, and Maharashtra, where its roots are harvested, peeled, and dried for medicinal use. Its historical significance lies in its classification as a *rasayana*, a class of Ayurvedic herbs believed to promote longevity and vitality.
 

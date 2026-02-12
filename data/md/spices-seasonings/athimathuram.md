@@ -1,4 +1,4 @@
-**Athimathuram**
+# Athimathuram
 
 Athimathuram, botanically known as *Glycyrrhiza glabra*, is the revered licorice root, a staple in traditional Indian medicine and flavouring. The name "Athimathuram" itself is derived from Tamil, meaning "excessively sweet," aptly describing its most prominent characteristic. While not indigenous to India, licorice has been deeply integrated into Ayurvedic and Siddha traditions for millennia, primarily sourced from regions like Afghanistan, Iran, and other Central Asian countries, with some cultivation now occurring in parts of northern India. Its historical journey into India is intertwined with ancient trade routes, bringing this potent root to the subcontinent where it quickly found a place in healing and culinary practices.
 

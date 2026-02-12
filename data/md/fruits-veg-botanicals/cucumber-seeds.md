@@ -1,4 +1,4 @@
-**Cucumber Seeds**
+# Cucumber Seeds
 
 Cucumber seeds are derived from *Cucumis sativus*, a vine plant believed to be indigenous to the Indian subcontinent, with cultivation dating back over 3,000 years. Ancient Sanskrit texts refer to cucumbers, indicating their deep roots in Indian agriculture and diet. Historically, these seeds were valued not just for propagation but also for their medicinal and nutritional properties, particularly in Ayurveda, where they are revered for their cooling (sheetal) effects. Today, cucumbers are cultivated extensively across India, with major producing states including Maharashtra, Karnataka, Andhra Pradesh, and Uttar Pradesh, ensuring a steady supply of seeds. The seeds are typically harvested from mature cucumbers, then cleaned and dried for various applications.
 

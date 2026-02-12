@@ -1,4 +1,4 @@
-**Gudmar**
+# Gudmar
 
 Gudmar, scientifically known as *Gymnema sylvestre*, is a perennial woody vine native to the tropical forests of India, Africa, and Australia. Its name, derived from Hindi, literally translates to "sugar destroyer" (Gud = sugar, Mar = destroyer), a testament to its historical use in traditional Indian medicine systems like Ayurveda, Siddha, and Unani for managing blood sugar levels. The plant's leaves are the primary part used, historically chewed directly or prepared as infusions. Major sourcing regions within India include the central and southern states such as Karnataka, Andhra Pradesh, Tamil Nadu, and Kerala, where it thrives in warm, humid climates.
 

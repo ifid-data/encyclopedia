@@ -1,4 +1,4 @@
-**Arachidonic Acid**
+# Arachidonic Acid
 
 Arachidonic Acid (ARA), a polyunsaturated omega-6 fatty acid, is a crucial component of cell membranes and a precursor to eicosanoids, which play vital roles in inflammation, immunity, and blood clotting. While naturally abundant in animal fats, eggs, and meat, its industrial production for nutritional supplements often relies on microbial fermentation. Specifically, the oil derived from the fungus *Mortierella alpina* has emerged as a significant commercial source, offering a vegetarian-friendly alternative to animal-derived ARA. Though not a traditional ingredient in the sense of a spice or staple, its presence in the Indian diet has historically been through consumption of dairy products like ghee, and various meats and eggs, reflecting its fundamental role in human physiology.
 

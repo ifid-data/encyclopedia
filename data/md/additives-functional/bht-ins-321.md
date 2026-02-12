@@ -1,3 +1,5 @@
+# Bht Ins 321
+
 **BHT (Butylated Hydroxytoluene)**
 
 Butylated Hydroxytoluene (BHT), identified by the International Numbering System (INS) as INS 321, is a synthetic phenolic compound primarily employed as an antioxidant in the food industry. Developed in the mid-20th century, its introduction to India, like many other food additives, coincided with the growth of processed food manufacturing and the need for extended shelf life. As a chemical compound, BHT has no natural origin or traditional sourcing regions; it is manufactured through industrial synthesis. Its widespread adoption reflects a global shift towards more stable and commercially viable food products.

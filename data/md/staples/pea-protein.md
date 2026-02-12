@@ -1,4 +1,4 @@
-**Pea Protein**
+# Pea Protein
 
 Pea protein is a modern ingredient derived from the common garden pea (Pisum sativum), known as 'matar' in Hindi. While peas have a rich history in Indian agriculture and cuisine, cultivated for millennia as a staple pulse across the subcontinent, the industrial extraction of pea protein is a contemporary development. Peas are grown extensively in states like Uttar Pradesh, Madhya Pradesh, and Bihar. The process involves milling dried peas into flour, then separating the protein from starch and fiber through wet processing, yielding a concentrated protein powder, leveraging the pea's inherent nutritional value.
 

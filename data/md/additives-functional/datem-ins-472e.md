@@ -1,3 +1,5 @@
+# Datem Ins 472E
+
 DATEM (INS 472e)
 
 DATEM, an acronym for Diacetyl Tartaric Acid Esters of Mono- and Diglycerides (INS 472e), is a sophisticated synthetic food additive. Its development emerged from advancements in food chemistry, building upon the foundational emulsifying properties of mono- and diglycerides, which are derived from edible vegetable oils. The esterification with diacetyl tartaric acid significantly enhances these properties, making DATEM a highly effective functional ingredient. While not originating from traditional Indian culinary heritage, DATEM has become an indispensable component in the modern Indian food processing industry, reflecting the global adoption of food technology to meet evolving consumer demands for convenience and quality.

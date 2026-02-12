@@ -1,4 +1,4 @@
-**Dioscorea**
+# Dioscorea
 
 Dioscorea refers to a genus of flowering plants, commonly known as yams, with *Dioscorea bulbifera* being a notable species often called the Air Potato or Aerial Yam. Indigenous to tropical and subtropical regions across Asia, Africa, and Oceania, including various parts of India, this tuberous vine has a long history of use. The genus name "Dioscorea" honours the ancient Greek botanist Dioscorides. In India, particularly in traditional Ayurvedic and Siddha systems, *Dioscorea bulbifera* is recognized by its Sanskrit name "Riddhi," signifying its historical medicinal and cultural significance. It is found growing wild in forests and is sometimes cultivated in rural and tribal areas, especially in states like Maharashtra, Gujarat, and parts of the Northeast.
 

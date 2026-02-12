@@ -1,3 +1,5 @@
+# Gelatin Ins 428
+
 **Gelatin (INS 428)**
 
 Gelatin, identified by the food additive code INS 428, is a translucent, colourless, brittle, and flavourless food ingredient derived from collagen, a protein found in animal connective tissues, bones, and hides. Its name originates from the Latin "gelatus," meaning "frozen" or "stiff." While not indigenous to traditional Indian culinary practices, gelatin's introduction to India largely came through Western confectionery and pharmaceutical applications. Globally, it is primarily sourced from bovine (cattle) and porcine (pig) collagen, with fish gelatin emerging as an alternative, particularly for communities with specific dietary restrictions. The sourcing of gelatin is a significant consideration in India's diverse dietary landscape, where vegetarianism and religious dietary laws (e.g., Halal, Kosher) necessitate clear declarations of its animal origin.

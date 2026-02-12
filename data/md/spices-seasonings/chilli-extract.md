@@ -1,4 +1,4 @@
-**Chilli Extract**
+# Chilli Extract
 
 Chilli extract, a concentrated form derived from various species of *Capsicum* peppers, represents a modern evolution in the utilization of one of India's most beloved spices. While chillies themselves are indigenous to the Americas, they were introduced to India by Portuguese traders in the 16th century, rapidly integrating into the subcontinent's culinary landscape. Today, India is one of the world's largest producers and consumers of chillies, with major cultivation hubs in Andhra Pradesh, Telangana, Karnataka, and Madhya Pradesh. The linguistic diversity reflects its widespread adoption, known as *mirchi* (Hindi), *milagai* (Tamil), and *menasu* (Kannada). Chilli extract, in its various forms, captures the essence of these peppers, offering a potent source of their characteristic pungency and vibrant colour.
 

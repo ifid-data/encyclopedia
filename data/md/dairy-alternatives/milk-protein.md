@@ -1,4 +1,4 @@
-**Milk Protein**
+# Milk Protein
 
 Milk, revered as "Gau Mata" in India, has been an indispensable part of the subcontinent's diet and culture for millennia. Its proteins, essential for sustenance, have been consumed in various forms since ancient times, deeply embedded in Ayurvedic principles. While isolating "milk protein" as a distinct ingredient is a modern technological development, traditional Indian dairy practices, like making paneer, inherently involve the coagulation and concentration of milk proteins, primarily casein. India, the world's largest milk producer, primarily sources milk from cows and buffaloes, forming the foundational raw material for both traditional products and contemporary protein extraction.
 

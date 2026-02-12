@@ -1,4 +1,4 @@
-**Mint Flavouring**
+# Mint Flavouring
 
 Mint flavouring, known colloquially in India as *pudina flavouring*, derives from the aromatic herb *Mentha*, a staple in Indian culinary and medicinal traditions for millennia. Historically, fresh mint leaves (pudina) have been cultivated across India, particularly in regions with fertile soil and adequate water, for their refreshing properties. The use of mint is deeply embedded in Ayurvedic practices, where it is valued for its digestive and cooling attributes. Mint flavourings, whether natural extracts or synthetic compounds, aim to capture the distinctive aroma and taste of these revered plants. Natural mint oils and extracts are typically sourced from varieties like peppermint (*Mentha piperita*) and spearmint (*Mentha spicata*), which are grown globally, including in parts of India.
 

@@ -1,4 +1,4 @@
-**Black Cumin**
+# Black Cumin
 
 Black Cumin, botanically known as *Bunium persicum*, is a distinctive spice with a rich history, particularly in the culinary traditions of Western Asia, North Africa, and parts of India. Often referred to as 'Shahi Jeera' (royal cumin) or 'Kala Jeera' (black cumin) in Hindi, its origins trace back to the mountainous regions of Central Asia and the Himalayan foothills. Unlike its more common cousin, *Cuminum cyminum* (regular cumin), *Bunium persicum* is less widely cultivated and primarily sourced from wild or semi-wild plants, making it a more prized and sometimes rarer commodity. Its introduction to Indian cuisine is deeply rooted in the Mughal era, where it became a staple in the royal kitchens, lending its unique aroma to elaborate dishes.
 

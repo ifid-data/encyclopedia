@@ -1,4 +1,4 @@
-**Celery**
+# Celery
 
 Celery, scientifically known as *Apium graveolens*, is a marshland plant in the family Apiaceae, native to the Mediterranean region. While its wild ancestors have been known since antiquity for medicinal properties, the cultivated form with its characteristic crisp stalks is a relatively modern development, gaining prominence in European cuisine from the 17th century onwards. Its introduction to India is more recent, largely influenced by Western culinary traditions, and it is not considered an indigenous Indian vegetable. In India, it is primarily cultivated in cooler regions or for niche markets, often found in urban centers catering to diverse culinary demands. The English name "celery" derives from the French "céleri," tracing its roots back to Greek "selinon."
 

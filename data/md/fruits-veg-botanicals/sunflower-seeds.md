@@ -1,4 +1,4 @@
-**Sunflower Seeds**
+# Sunflower Seeds
 
 Sunflower seeds are the edible kernels harvested from the sunflower plant (Helianthus annuus), a towering annual native to North America. While the plant itself has been cultivated for millennia by indigenous peoples, its introduction to India is relatively recent, primarily driven by its value as an oilseed crop. Major cultivation in India is concentrated in states like Maharashtra, Karnataka, Andhra Pradesh, Telangana, Bihar, and Odisha, where the oil is a significant agricultural commodity. The seeds, known simply as 'surajmukhi ke beej' in Hindi, have gained popularity in the Indian diet due to increasing health consciousness.
 

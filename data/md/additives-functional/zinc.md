@@ -1,4 +1,4 @@
-**Zinc**
+# Zinc
 
 Zinc is an essential trace mineral vital for numerous physiological functions, though its recognition as a critical dietary component is a relatively modern scientific understanding. Historically, zinc's utility in India was primarily observed in its metallurgical applications, such as in the creation of brass alloys, dating back to ancient times. While not a traditional culinary ingredient itself, its presence in the Indian diet has always been inherent through staple foods. Major dietary sources in India include whole grains like wheat and rice, legumes such as various dals (lentils), nuts, and certain animal products, which naturally contribute to zinc intake.
 

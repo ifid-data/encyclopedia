@@ -1,4 +1,4 @@
-**Bread Improvers**
+# Bread Improvers
 
 Bread improvers, as a category, represent a modern advancement in baking technology rather than an ingredient with deep historical roots in traditional Indian cuisine. Their emergence is linked to the industrialization of bread production in the 20th century, driven by the need for consistent quality, extended shelf life, and efficient processing in large-scale bakeries. While India has a rich heritage of diverse flatbreads like roti, naan, and chapati, relying on simple flour and water, the concept of "improvers" for leavened bread gained traction with the increasing popularity of Western-style breads. Today, they are manufactured globally, with various formulations tailored to specific flour types and baking processes, and are widely adopted by commercial bakeries across India.
 

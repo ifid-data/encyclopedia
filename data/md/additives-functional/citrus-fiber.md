@@ -1,4 +1,4 @@
-**Citrus Fiber**
+# Citrus Fiber
 
 Citrus fiber is a functional food ingredient derived from the insoluble and soluble fibrous components of citrus fruits, primarily oranges, lemons, limes, and grapefruits. It is a modern ingredient, a by-product of the juice industry, where the remaining pulp and peel are processed to extract and concentrate their fibrous content. While citrus fruits have been cultivated in India for millennia, with mentions in ancient texts and a rich history of varieties like *nimbu* (lemon/lime) and *narangi* (orange), the industrial extraction and application of isolated citrus fiber are contemporary developments. Major citrus-growing regions in India, such as Maharashtra, Andhra Pradesh, and Punjab, provide ample raw material for such processing, though specialized fiber extraction facilities are still evolving.
 

@@ -1,4 +1,4 @@
-**Alpha Amylase**
+# Alpha Amylase
 
 Alpha Amylase is a ubiquitous enzyme, naturally occurring in human saliva and pancreatic juice, as well as in plants, fungi, and bacteria. Its primary function is to hydrolyze alpha-bonds of large, alpha-linked polysaccharides like starch and glycogen, breaking them down into smaller dextrins and sugars. While not a traditional ingredient added directly in Indian home cooking, its natural activity is fundamental to many heritage food processes. Industrially, it is primarily sourced through microbial fermentation, often from strains of *Bacillus subtilis* or *Aspergillus oryzae*, making it a biotechnologically produced functional ingredient.
 

@@ -1,3 +1,5 @@
+# Kakanasika
+
 **Kakanasika (Martynia annua)**
 
 Kakanasika, botanically known as *Martynia annua*, is a fascinating annual herb with a rich, albeit niche, history in India. Though native to tropical regions of the Americas, it was introduced to India centuries ago and has since naturalized, thriving as a common weed in agricultural fields, waste grounds, and along roadsides across warmer parts of the subcontinent. Its Sanskrit name, "Kakanasika," literally translates to "crow's beak," a vivid descriptor for its distinctive, hard, woody fruit that features two sharp, curved horns, earning it the common English moniker "Devil's Claw." Historically, its presence in India has been primarily noted in traditional medicinal systems and local folk practices rather than mainstream agriculture.

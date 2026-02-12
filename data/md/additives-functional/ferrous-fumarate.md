@@ -1,3 +1,5 @@
+# Ferrous Fumarate
+
 Ferrous Fumarate is an iron salt of fumaric acid, primarily recognized for its role as a highly bioavailable source of iron. While not a traditional ingredient in Indian culinary heritage, its significance in India stems from its widespread application in public health initiatives aimed at combating iron deficiency anemia, a prevalent nutritional challenge across the subcontinent. As a synthetic compound, it does not have historical linguistic roots or specific growing regions in India but is manufactured globally for pharmaceutical and food fortification purposes.
 
 In the context of home and traditional Indian cooking, Ferrous Fumarate is not an ingredient added directly by the homemaker. Instead, its presence is felt indirectly through the consumption of various fortified staple foods. It is a common fortificant in products like fortified wheat flour (atta), iodized salt, milk, and cereals, which are integral to the Indian diet. Its inclusion ensures that families receive essential iron intake through their regular meals, without altering the taste or texture of the food.

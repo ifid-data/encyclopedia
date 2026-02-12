@@ -1,4 +1,4 @@
-**Navsadar**
+# Navsadar
 
 Navsadar, chemically known as Ammonium Chloride (NH₄Cl), derives its name from the Persian "Nawshadir," meaning "new salt," reflecting its historical discovery and crystalline appearance. Its origins trace back to ancient Egypt, where it was known as "sal ammoniac" and collected from the soot of camel dung fires. Introduced to India through trade routes, it became an integral part of traditional Indian medicine systems like Ayurveda and Unani, and was also a significant substance in alchemical practices. Today, Navsadar is primarily produced synthetically, though historically it was also sourced from volcanic vents.
 

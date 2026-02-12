@@ -1,4 +1,4 @@
-**Ginseng**
+# Ginseng
 
 Ginseng, primarily derived from the roots of plants in the *Panax* genus, holds a revered place in East Asian traditional medicine, particularly in Korea and China, where its use dates back millennia. The name "Ginseng" itself is believed to originate from the Chinese "rénshēn," meaning "man root," a reference to the root's often human-like shape. While not indigenous to India, its global reputation as a potent adaptogen has led to its introduction and growing recognition within the Indian wellness and nutraceutical sectors, primarily through imported products and extracts.
 

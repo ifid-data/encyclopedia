@@ -1,4 +1,4 @@
-**Watermelon**
+# Watermelon
 
 Watermelon, scientifically *Citrullus lanatus*, is a globally cherished fruit with a rich history, believed to have originated in the Kalahari Desert of Africa. Its cultivation dates back thousands of years, with evidence found in ancient Egyptian tombs. Introduced to India through ancient trade routes, possibly from Persia or Central Asia, it quickly became an integral part of the subcontinent's summer diet. Known as *Tarbooz* in Hindi and many other Indian languages, it is widely cultivated across India, particularly in warmer states like Rajasthan, Uttar Pradesh, Maharashtra, and Andhra Pradesh, thriving in sandy riverbeds and plains. Its cultural significance in India is profound, symbolizing refreshment and relief during the scorching summer months.
 

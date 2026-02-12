@@ -1,4 +1,4 @@
-**Peas**
+# Peas
 
 Peas, botanically known as *Pisum sativum*, are one of the oldest cultivated legumes, with archaeological evidence tracing their origins back to the Fertile Crescent and the Mediterranean region over 10,000 years ago. Their journey into the Indian subcontinent is ancient, making them an integral part of traditional Indian agriculture and cuisine for millennia. In India, they are widely known as "matar" (Hindi, Marathi), "vatana" (Marathi), or "pattani" (Tamil). Major pea-growing states include Uttar Pradesh, Madhya Pradesh, Punjab, and Haryana, where they thrive in cooler seasons, contributing significantly to the winter harvest.
 

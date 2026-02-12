@@ -1,4 +1,4 @@
-**Whole Grains**
+# Whole Grains
 
 Whole grains represent the complete, unrefined kernel of a cereal grain, comprising the bran (outer layer), germ (embryo), and endosperm (starchy interior). Their history in India is as ancient as its civilization, with archaeological evidence from the Indus Valley Civilization indicating the cultivation and consumption of various grains like wheat, barley, and different millets. These grains formed the bedrock of the Indian diet, deeply integrated into cultural practices and regional cuisines. While wheat (gehun) and rice (chawal) are pan-Indian staples, indigenous millets like jowar, bajra, ragi, and foxtail millet have historically been crucial, particularly in arid and semi-arid regions, valued for their resilience and nutritional density.
 

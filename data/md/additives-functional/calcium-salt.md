@@ -1,4 +1,4 @@
-**Calcium Salt**
+# Calcium Salt
 
 Calcium, an essential mineral, has been an integral part of the Indian diet through natural sources for millennia. While not a spice or a primary cooking ingredient, its various salt forms are crucial for physiological functions and have found increasing utility in modern food science. Historically, calcium's presence in the diet was ensured through traditional foods like dairy products (milk, curd, paneer), leafy greens, and certain grains. Ancient Ayurvedic texts implicitly recognized the importance of mineral-rich foods for bone health and overall well-being, though not specifically identifying "calcium salts" as distinct entities.
 

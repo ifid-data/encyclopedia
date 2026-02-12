@@ -1,4 +1,4 @@
-**Beans**
+# Beans
 
 Beans, a broad category of leguminous vegetables, boast an ancient lineage, with archaeological evidence suggesting cultivation dating back thousands of years across various civilizations. In India, beans have been an integral part of the agricultural and culinary landscape for millennia, with indigenous varieties and introduced species thriving across diverse agro-climatic zones. The term "bean" itself is a generic descriptor, often encompassing a wide array of pods and seeds from the *Fabaceae* family. Linguistically, they are known by various regional names such as *phali* (Hindi), *gavar* (Gujarati for cluster beans), and *avarakkai* (Tamil for broad beans), reflecting their deep cultural assimilation. Major growing regions for common varieties like French beans and cluster beans are widespread, with states like Maharashtra, Gujarat, and Karnataka being significant producers.
 

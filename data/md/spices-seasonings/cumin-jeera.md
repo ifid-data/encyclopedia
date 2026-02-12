@@ -1,3 +1,5 @@
+# Cumin Jeera
+
 **Cumin (Jeera)**
 
 Cumin, known as *Jeera* in Hindi and derived from the Sanskrit *Jiraka* (meaning "that which aids digestion"), is an ancient spice with a rich history deeply intertwined with global culinary and medicinal traditions. Originating in the Middle East, its use dates back thousands of years to ancient Egypt and the Roman Empire. It was introduced to India through ancient trade routes, quickly becoming an indispensable part of the subcontinent's gastronomic landscape. Today, India is the world's largest producer and consumer of cumin, with major cultivation concentrated in the arid and semi-arid regions of Rajasthan, Gujarat, and Madhya Pradesh, where the dry climate is ideal for its growth.

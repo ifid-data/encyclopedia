@@ -1,4 +1,4 @@
-**Quinoa**
+# Quinoa
 
 Quinoa (pronounced keen-wah), botanically a seed from the *Chenopodium quinoa* plant, is a pseudo-cereal native to the Andean region of South America, where it has been a staple food for thousands of years. Revered by the Incas as "the mother of all grains," its cultivation primarily spans Peru, Bolivia, and Ecuador. In India, quinoa is a relatively recent introduction, gaining prominence over the last decade as a "superfood" due to its exceptional nutritional profile. While not traditionally grown in India, its increasing demand has led to some experimental cultivation in regions with suitable climates, though most of the market supply remains imported.
 

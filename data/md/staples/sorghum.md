@@ -1,4 +1,4 @@
-**Sorghum**
+# Sorghum
 
 Sorghum, known widely in India as Jowar (Hindi), Cholam (Tamil), and Jonna (Telugu), is an ancient cereal grain with origins tracing back to Africa, cultivated for millennia. Its introduction to the Indian subcontinent is deeply rooted in antiquity, establishing it as a foundational staple, particularly in the arid and semi-arid regions where its drought-resistant properties make it a resilient crop. Major cultivation hubs in India include Maharashtra, Karnataka, Andhra Pradesh, Madhya Pradesh, and Rajasthan, where it thrives in challenging climatic conditions, playing a crucial role in food security for millions.
 

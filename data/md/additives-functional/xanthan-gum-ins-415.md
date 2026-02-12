@@ -1,3 +1,5 @@
+# Xanthan Gum Ins 415
+
 Xanthan Gum (INS 415)
 
 Xanthan gum, a versatile microbial polysaccharide, is a relatively modern ingredient in the Indian food landscape, lacking deep historical or traditional roots within indigenous culinary practices. Discovered in the 1960s by the U.S. Department of Agriculture, it is produced through the fermentation of simple sugars by the bacterium *Xanthomonas campestris*. Its name is derived directly from this bacterium. Unlike plant-derived gums or starches, xanthan gum is not cultivated but rather manufactured through a biotechnological process, making its "sourcing" an industrial rather than agricultural one. Its introduction to India aligns with the globalization of food technology and the increasing demand for functional ingredients in processed foods.

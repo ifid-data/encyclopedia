@@ -1,4 +1,4 @@
-**Sugar**
+# Sugar
 
 Sugar, primarily sucrose, holds a profound and ancient place in Indian culinary and cultural heritage. Native to tropical South and Southeast Asia, sugarcane (*Saccharum officinarum*) is believed to have been first domesticated in India, with references dating back to Vedic texts as *ikshu*. The Sanskrit term *sharkara* (meaning "gravel" or "grit") is the etymological root of the English word "sugar," highlighting India's historical significance in its production and dissemination. Major sugarcane growing regions in India include Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu, and Gujarat, which are vital for both refined sugar and traditional unrefined forms like jaggery (gur), khandsari, and mishri.
 

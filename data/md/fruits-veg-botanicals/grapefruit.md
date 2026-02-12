@@ -1,3 +1,5 @@
+# Grapefruit
+
 The grapefruit (*Citrus paradisi*) is a subtropical citrus tree known for its large, round, semi-sweet to bitter fruit. Originating in Barbados in the 18th century as a hybrid of pomelo and sweet orange, it was later introduced to other parts of the world, including India, though it is not indigenous. In India, its cultivation is limited, primarily found in niche horticultural pockets in states like Maharashtra, Punjab, and parts of South India, often for local consumption or specific markets. The name "grapefruit" is attributed to its tendency to grow in clusters, similar to grapes.
 
 In Indian home kitchens, fresh grapefruit is primarily consumed as a breakfast fruit, often segmented and eaten raw, or juiced for its refreshing, albeit distinctively bitter, flavour. Unlike other citrus fruits like oranges or limes, grapefruit has not historically been integrated into traditional Indian culinary practices due to its unique bitter notes, which differ significantly from the sourness preferred in many regional dishes. However, with increasing global exposure, it finds its way into modern salads, detox drinks, and contemporary beverage preparations.

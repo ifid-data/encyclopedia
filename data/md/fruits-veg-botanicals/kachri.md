@@ -1,3 +1,5 @@
+# Kachri
+
 Kachri, scientifically identified as *Cucumis callosus* or *Cucumis pubescens*, is a unique wild melon native to the arid and semi-arid regions of India, particularly Rajasthan, Gujarat, and parts of Haryana. Historically, it has been a vital food source for desert communities, providing essential hydration and nutrients in harsh environments. The name "Kachri" itself is deeply rooted in local Hindi and Rajasthani dialects, reflecting its indigenous status. Primarily wild-harvested, its cultivation remains limited, making it a seasonal delicacy often associated with traditional farming practices.
 
 In home kitchens, especially across Rajasthan, fresh kachri is celebrated for its distinctive tangy, slightly sour, and earthy flavour. It is commonly prepared as a vegetable in curries, such as the popular *Kachri ki Sabzi*, and is also incorporated into chutneys and pickles, lending a refreshing zest. Its crisp texture and unique taste make it a versatile ingredient during its short season, often paired with other local vegetables or used to brighten up lentil preparations.

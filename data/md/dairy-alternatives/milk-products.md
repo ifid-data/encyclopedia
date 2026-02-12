@@ -1,4 +1,4 @@
-**Milk Products**
+# Milk Products
 
 Milk products, broadly encompassing all derivatives of animal milk, hold an unparalleled position in India's culinary, cultural, and economic landscape. Their heritage traces back to the Vedic period, where milk from cows was revered as sacred and essential for sustenance and rituals. India, being the world's largest milk producer, primarily relies on cow and buffalo milk, with regional variations including goat and camel milk. Traditional methods of processing, such as curdling, churning, and heating, have been passed down through generations, forming the bedrock of Indian dairy practices.
 

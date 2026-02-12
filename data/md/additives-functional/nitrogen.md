@@ -1,4 +1,4 @@
-**Nitrogen**
+# Nitrogen
 
 Nitrogen, an inert gaseous element (N₂), constitutes approximately 78% of Earth's atmosphere. Discovered by Scottish physician Daniel Rutherford in 1772, its name derives from the Greek "nitron genes," meaning "soda forming." While not an agricultural product, its industrial sourcing involves cryogenic distillation of air, a process widely adopted globally, including in India, to separate nitrogen from oxygen and argon. Its application in the Indian food industry mirrors global trends, becoming indispensable with the growth of packaged and processed foods, ensuring product integrity and extending shelf life across diverse climatic conditions.
 

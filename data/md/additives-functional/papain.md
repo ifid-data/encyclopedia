@@ -1,4 +1,4 @@
-**Papain**
+# Papain
 
 Papain is a potent proteolytic enzyme derived from the latex of the raw fruit, leaves, and stem of the papaya plant (Carica papaya). While papaya is indigenous to Central America and Southern Mexico, it was introduced to India by Portuguese traders in the 16th century, quickly becoming an integral part of the subcontinent's agricultural and culinary landscape. The name "papain" itself is a direct derivative of "papaya." Today, India is a leading global producer of papaya, with states like Andhra Pradesh, Gujarat, and Karnataka being major cultivation hubs, supporting a significant industry for papain extraction.
 

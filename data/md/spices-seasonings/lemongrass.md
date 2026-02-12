@@ -1,4 +1,4 @@
-**Lemongrass**
+# Lemongrass
 
 Lemongrass, botanically known as *Cymbopogon citratus*, is an aromatic perennial grass native to Southeast Asia, though its cultivation and use have spread globally, including extensively across India. While not indigenous, it has been embraced in various Indian culinary and traditional practices, often referred to as "nimbu ghaas" (lemon grass) in Hindi, reflecting its distinct citrusy aroma. It thrives in tropical and subtropical climates, making it well-suited for cultivation in many parts of India, particularly in the southern and northeastern states where it is integrated into local foodways and herbal traditions.
 

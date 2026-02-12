@@ -1,4 +1,4 @@
-**Vasa**
+# Vasa
 
 Vasa, scientifically known as *Adhatoda vasica*, is a revered medicinal plant deeply embedded in the traditional healing systems of India, particularly Ayurveda. Native to the Indian subcontinent, it thrives in plains and sub-Himalayan regions, often found growing wild. The name "Vasa" itself is Sanskrit, often associated with "perfume" or "dwelling," possibly alluding to its pervasive presence or distinct aroma. Its leaves, the primary part utilized, have been documented in ancient Ayurvedic texts for millennia, recognized for their potent therapeutic properties, especially concerning respiratory health.
 

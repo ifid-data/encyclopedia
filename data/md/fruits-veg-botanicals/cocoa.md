@@ -1,4 +1,4 @@
-**Cocoa**
+# Cocoa
 
 Cocoa, derived from the seeds of the *Theobroma cacao* tree, boasts a rich history originating in Mesoamerica, where it was revered by ancient civilizations as a sacred beverage and currency. The term "cacao" stems from the Nahuatl "cacahuatl." Introduced to India during the British colonial era, commercial cultivation gained traction post-independence, primarily in the southern states of Kerala, Andhra Pradesh, Karnataka, and Tamil Nadu. While not indigenous, cocoa has become an integral part of India's modern food landscape, transitioning from an exotic import to a locally sourced ingredient.
 

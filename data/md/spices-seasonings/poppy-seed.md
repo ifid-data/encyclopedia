@@ -1,4 +1,4 @@
-**Poppy Seed**
+# Poppy Seed
 
 Poppy seeds, known as *khus khus* in Hindi and *posto* in Bengali, are the tiny, oil-rich seeds derived from the opium poppy (*Papaver somniferum*). Despite their botanical origin, culinary poppy seeds are harvested from fully mature, dried seed pods, ensuring they contain negligible to no psychoactive compounds, making them entirely safe for consumption. Their use in India dates back centuries, deeply embedded in traditional medicine and culinary practices, particularly in Eastern and Southern Indian cuisines. While India is a significant consumer, major global producers include Turkey, the Czech Republic, and France.
 

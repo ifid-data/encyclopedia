@@ -1,4 +1,4 @@
-**Chocolate Flavouring**
+# Chocolate Flavouring
 
 Chocolate flavouring, a ubiquitous component in modern food systems, is an engineered sensory profile designed to replicate or enhance the taste and aroma of natural chocolate. While chocolate itself boasts a rich history originating in Mesoamerica, introduced to India primarily through colonial trade as a luxury, the concept of a distinct "chocolate flavouring" is a more recent industrial innovation. Cocoa cultivation in India is limited, primarily found in states like Kerala, Andhra Pradesh, Karnataka, and Tamil Nadu, but the flavouring's "sourcing" is largely through chemical synthesis or extraction of specific aromatic compounds, rather than direct agricultural produce.
 

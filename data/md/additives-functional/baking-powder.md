@@ -1,4 +1,4 @@
-**Baking Powder**
+# Baking Powder
 
 Baking powder is a ubiquitous chemical leavening agent, a testament to modern food science's impact on culinary practices. Its origins trace back to the mid-19th century in Europe, with significant advancements by figures like Alfred Bird and Eben Horsford. Introduced to India primarily through colonial influence and the subsequent adoption of Western baking traditions, it quickly became indispensable for cakes, biscuits, and other aerated baked goods. Unlike spices or botanicals, baking powder is a manufactured compound, typically comprising sodium bicarbonate (baking soda), one or more acidic salts (such as cream of tartar, sodium aluminium sulfate, or monocalcium phosphate), and a starch (like cornstarch) to absorb moisture and prevent premature reaction. It is not "sourced" in the traditional sense but rather formulated by chemical manufacturers.
 

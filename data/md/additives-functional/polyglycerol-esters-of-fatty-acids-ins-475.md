@@ -1,3 +1,5 @@
+# Polyglycerol Esters Of Fatty Acids Ins 475
+
 Polyglycerol Esters of Fatty Acids (INS 475)
 
 Polyglycerol Esters of Fatty Acids (PGEs), identified by the international code INS 475, are synthetic food additives derived from glycerol and fatty acids. Unlike traditional Indian ingredients with deep historical roots, PGEs are products of modern food science, introduced to India primarily through the industrialization of food processing. Their genesis lies in chemical synthesis, where polyglycerol is esterified with fatty acids, often sourced from vegetable oils. This process creates a molecule with both hydrophilic (water-loving) and lipophilic (fat-loving) properties, making it an effective interface between oil and water phases in food systems. Therefore, PGEs do not have a geographical "sourcing" in the traditional sense but are manufactured globally and imported or produced domestically for the Indian food industry.

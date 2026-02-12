@@ -1,4 +1,4 @@
-**Maltodextrin**
+# Maltodextrin
 
 Maltodextrin is a white, hygroscopic polysaccharide produced from starch, commonly corn, but also wheat, rice, or potato. It is not a traditional ingredient in Indian cuisine, having been introduced through industrial food processing. Its name derives from "malt" (referring to its enzymatic hydrolysis process, similar to malting) and "dextrose" (a simple sugar). In India, the primary source for commercial maltodextrin is corn starch, though wheat-derived versions are also available, necessitating careful labelling for allergen awareness. Its production involves partial hydrolysis of starch, breaking it down into smaller glucose polymers, but not fully into simple sugars like glucose.
 

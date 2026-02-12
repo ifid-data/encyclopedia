@@ -1,4 +1,4 @@
-**Fructose**
+# Fructose
 
 Fructose, also known as levulose, is a simple monosaccharide sugar naturally found in many plants, where it is often bonded with glucose to form sucrose. Its name is derived from the Latin word "fructus," meaning fruit, aptly reflecting its primary natural source. In India, fructose has been an inherent part of the traditional diet for millennia, consumed through an abundance of indigenous fruits like mangoes, bananas, and grapes, as well as through honey, a revered natural sweetener. While its isolated form is a modern development, the sugar itself is deeply embedded in the subcontinent's culinary heritage through these natural sources.
 

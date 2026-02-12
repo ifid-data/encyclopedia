@@ -1,4 +1,4 @@
-**Glutinous Rice Flour**
+# Glutinous Rice Flour
 
 Glutinous Rice Flour, also known as sticky rice flour or sweet rice flour, is derived from short-grain glutinous rice (Oryza sativa var. glutinosa), a staple primarily cultivated across East and Southeast Asia. Despite its name, "glutinous" refers to its glue-like, sticky texture when cooked, not the presence of gluten protein, making it a naturally gluten-free ingredient. While not a traditional pan-Indian staple, its use is observed in specific regional Indian cuisines, particularly in the North-Eastern states for various traditional sweets and savouries, reflecting culinary influences from neighbouring regions. The rice grains are typically soaked, ground, and then dried to produce the fine, white flour.
 

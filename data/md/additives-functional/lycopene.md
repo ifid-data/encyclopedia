@@ -1,4 +1,4 @@
-**Lycopene**
+# Lycopene
 
 Lycopene is a vibrant red carotenoid pigment and a potent antioxidant, naturally synthesized by plants and microorganisms. Its name is derived from *Lycopersicon lycopersicum*, the scientific name for the common tomato, which is its most abundant dietary source. While not an ancient Indian ingredient in itself, lycopene has been an integral part of the Indian diet for centuries through the consumption of various red and pink fruits and vegetables. Tomatoes, introduced to India by the Portuguese in the 16th century, quickly became a culinary staple, alongside indigenous sources like watermelon, guava, and papaya, all rich in this beneficial compound.
 

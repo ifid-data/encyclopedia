@@ -1,3 +1,5 @@
+# Orange Flavouring
+
 Orange flavouring, derived from the fruit of *Citrus sinensis*, traces its origins to Southeast Asia, with oranges having been cultivated in India for millennia. Known as *santre* or *narangi* in various Indian languages, the fruit itself has a rich heritage in the subcontinent, valued for its refreshing juice and aromatic zest. Natural orange flavouring is typically sourced from the peel, pulp, and juice of the fruit, concentrating the volatile aromatic compounds responsible for its characteristic taste and aroma.
 
 In traditional Indian home kitchens, the fresh fruit, its juice, and zest have always been preferred for imparting flavour. Orange segments are enjoyed fresh, while the juice is a popular beverage. Zest is occasionally used in desserts like *kheer* or *barfi*, and in some regional savoury preparations or marinades to add a bright, citrusy note. However, the concept of a concentrated "orange flavouring" as a standalone ingredient for home cooking is a more modern adoption, often used for convenience in baking or beverage making where fresh fruit might be unavailable or less practical.

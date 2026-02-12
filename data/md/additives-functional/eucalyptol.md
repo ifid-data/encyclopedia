@@ -1,4 +1,4 @@
-**Eucalyptol**
+# Eucalyptol
 
 Eucalyptol, also scientifically known as 1,8-cineole, is a naturally occurring organic compound, a monoterpenoid, renowned for its distinctive camphoraceous aroma and flavour. While native to Australia, the primary source, Eucalyptus trees, were introduced to India in the 19th century, flourishing particularly in the Nilgiri Hills of Tamil Nadu, as well as parts of Karnataka and Andhra Pradesh. The essential oil extracted from these trees, rich in eucalyptol, has a long-standing history in traditional Indian medicine, including Ayurveda, where it was valued for its therapeutic properties, especially in addressing respiratory ailments and as an antiseptic.
 

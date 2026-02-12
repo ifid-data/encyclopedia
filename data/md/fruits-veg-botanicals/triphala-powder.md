@@ -1,4 +1,4 @@
-**Triphala Powder**
+# Triphala Powder
 
 Triphala Powder, a cornerstone of Ayurvedic medicine, derives its name from Sanskrit, meaning "three fruits" (Tri: three, Phala: fruits). This ancient polyherbal formulation has been revered for millennia, with its earliest mentions found in classical Ayurvedic texts like the Charaka Samhita. It is a synergistic blend of three native Indian fruits: Amalaki (Emblica officinalis), commonly known as Indian Gooseberry or Amla; Haritaki (Terminalia chebula), or Chebulic Myrobalan; and Bibhitaki (Terminalia bellirica), or Belleric Myrobalan. These fruits are sourced from various regions across the Indian subcontinent, where they grow wild or are cultivated. The preparation involves carefully drying and grinding the fruits into a fine powder, often in specific traditional ratios to ensure optimal efficacy.
 

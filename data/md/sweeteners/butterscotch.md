@@ -1,4 +1,4 @@
-**Butterscotch**
+# Butterscotch
 
 Butterscotch, a beloved confectionery and flavour profile, traces its origins to 19th-century Britain, particularly Scotland. Traditionally, it is a hard candy or sauce made by boiling brown sugar and butter, often with cream or milk, and a touch of vanilla and salt, to a specific temperature. The use of brown sugar is key, imparting a deeper, more complex molasses-like note compared to the simpler sweetness of white sugar. While not indigenous to India, its introduction likely came through British colonial influence, gradually finding its way into the Indian palate through Western-style desserts and confectionery.
 

@@ -1,4 +1,4 @@
-**Vitamin K**
+# Vitamin K
 
 Vitamin K, derived from the German "Koagulationsvitamin" due to its pivotal role in blood clotting, was first identified by Danish biochemist Henrik Dam in the 1930s. This fat-soluble vitamin exists in several forms, primarily as Phylloquinone (Vitamin K1) and a group of Menaquinones (Vitamin K2). Vitamin K1 is predominantly found in green leafy vegetables such as spinach, kale, and mustard greens, which are staples in various Indian regional cuisines. Vitamin K2, on the other hand, is synthesized by gut bacteria and found in fermented foods, though its presence in traditional Indian fermented products like curd is generally lower than in specific items like Japanese natto.
 

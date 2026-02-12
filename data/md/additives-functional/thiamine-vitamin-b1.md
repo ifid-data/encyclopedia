@@ -1,3 +1,5 @@
+# Thiamine Vitamin B1
+
 **Thiamine (Vitamin B1)**
 
 Thiamine, commonly known as Vitamin B1, is an essential water-soluble vitamin crucial for human metabolism. Its discovery in the early 20th century was pivotal in understanding and combating beriberi, a debilitating neurological and cardiovascular disease prevalent in populations relying heavily on polished rice. The name "thiamine" is derived from "thio" (referring to its sulfur content) and "amine" (indicating the presence of an amino group). Naturally, thiamine is abundant in whole grains, legumes, nuts, seeds, pork, and certain fortified cereals. While not "grown" in India, its historical significance in the subcontinent is tied to the widespread consumption of rice, where the removal of the bran layer during polishing significantly reduces its thiamine content, historically leading to deficiency.

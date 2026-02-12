@@ -1,4 +1,4 @@
-**Asafoetida Flavouring**
+# Asafoetida Flavouring
 
 Asafoetida, known as 'Hing' in India, boasts a rich history deeply intertwined with Indian culinary and medicinal traditions. Originating from the dried latex (gum resin) extracted from the taproot of several species of *Ferula* plants, primarily *Ferula assa-foetida*, it was introduced to India centuries ago, likely via Persian trade routes. Its pungent, sulfuric aroma, often likened to a combination of onion and garlic, has made it an indispensable spice, particularly in regions where alliums are avoided, such as in Jain and Vaishnavite cuisines. The natural resin is typically sourced from Afghanistan and Iran, then processed into a compound powder with wheat flour or rice flour in India.
 

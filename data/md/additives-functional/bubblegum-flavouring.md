@@ -1,4 +1,4 @@
-Bubblegum Flavouring
+# Bubblegum Flavouring
 
 Bubblegum flavouring is a synthetic aromatic compound designed to mimic the distinctive, sweet, and fruity taste profile associated with traditional bubblegum. Unlike natural extracts derived from botanicals, this flavour is a carefully crafted blend of various esters and other chemical compounds, engineered to evoke a specific nostalgic and playful sensory experience. Its origins are firmly rooted in Western confectionery, particularly the American chewing gum industry of the early 20th century. Its introduction to India largely coincided with the post-liberalization era, as global confectionery brands and processed food products became more accessible, bringing with them a new palette of artificial tastes. As a manufactured flavour, it has no traditional sourcing regions or agricultural heritage within India.
 

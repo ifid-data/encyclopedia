@@ -1,4 +1,4 @@
-**Vegetable Protein**
+# Vegetable Protein
 
 The concept of "vegetable protein" as an isolated ingredient is a relatively modern development, though plant-based proteins have been the cornerstone of Indian diets for millennia. Historically, protein in India was derived directly from whole plant sources such as a vast array of pulses (dals like toor, moong, chana, urad), legumes, grains (wheat, rice, millets), nuts, and seeds. These traditional ingredients, cultivated across the subcontinent for centuries, formed the nutritional backbone of a predominantly vegetarian populace. The linguistic roots for these protein-rich foods are deeply embedded in regional languages, reflecting their ancient and continuous presence in Indian agriculture and cuisine. The industrial extraction and concentration of protein from these sources, however, gained prominence with advancements in food technology and a global shift towards plant-based nutrition.
 

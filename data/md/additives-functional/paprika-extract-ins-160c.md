@@ -1,3 +1,5 @@
+# Paprika Extract Ins 160C
+
 **Paprika Extract (INS 160c)**
 
 Paprika Extract, also known as Paprika Oleoresin (INS 160c), is a natural food colour derived from the fruit of *Capsicum annuum*, the same plant species that yields bell peppers, chillies, and the spice paprika. Originating in the Americas, *Capsicum annuum* was introduced to India by the Portuguese in the 16th century, quickly integrating into the subcontinent's culinary landscape. While the term "paprika" itself is Hungarian, referring to a mild, dried, and ground form of the pepper, the plant thrives in various Indian climates, contributing to a diverse range of chilli varieties. The extract is a concentrated form, capturing the vibrant carotenoid pigments responsible for the characteristic red-orange hue.

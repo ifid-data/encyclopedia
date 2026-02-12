@@ -1,4 +1,4 @@
-**Pueraria Tuberosa**
+# Pueraria Tuberosa
 
 Pueraria tuberosa, commonly known as Vidarikand in Ayurvedic tradition, is a significant perennial climbing legume native to the Indian subcontinent and parts of Southeast Asia. Its name "Vidarikand" is derived from Sanskrit, meaning "earth-splitting tuber," a testament to its large, deeply embedded, and often multi-lobed tubers. Historically, it has been revered in Ayurveda as a *rasayana* (rejuvenative tonic) and an adaptogen, valued for its purported ability to promote vitality and longevity. Major sourcing regions in India include the dry deciduous forests of Uttar Pradesh, Madhya Pradesh, Bihar, and parts of the Western Ghats, where it grows wild and is also cultivated on a smaller scale for medicinal purposes.
 

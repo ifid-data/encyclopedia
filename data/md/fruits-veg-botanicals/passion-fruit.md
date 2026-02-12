@@ -1,4 +1,4 @@
-**Passion Fruit**
+# Passion Fruit
 
 Passion fruit, scientifically known as *Passiflora edulis*, is a vibrant tropical fruit native to South America, specifically regions spanning Brazil, Paraguay, and northern Argentina. Its evocative name, "passion flower," was bestowed by Spanish missionaries in the 16th century, who interpreted the intricate parts of its flower as symbols of the Passion of Christ. While not indigenous to India, it was introduced during colonial periods and has since found suitable growing conditions, particularly in the southern states like Kerala, Karnataka, and Tamil Nadu, as well as parts of the North-Eastern region such as Mizoram and Manipur. These areas, with their warm, humid climates, support its vigorous vine growth, making it a commercially viable crop.
 

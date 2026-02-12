@@ -1,4 +1,4 @@
-**Hazelnut**
+# Hazelnut
 
 Hazelnuts, derived from the *Corylus* genus, are not indigenous to the Indian subcontinent but have a rich history spanning millennia in temperate regions globally. Primarily cultivated in Turkey, Italy, and the United States, their introduction to India is a relatively modern phenomenon, driven by global trade and the increasing demand for diverse ingredients in processed foods. While lacking deep linguistic roots in Indian languages, their presence has grown significantly in contemporary Indian culinary discourse, largely due to their distinct flavour and versatility.
 

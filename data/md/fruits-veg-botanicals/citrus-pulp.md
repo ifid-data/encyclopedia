@@ -1,4 +1,4 @@
-**Citrus Pulp**
+# Citrus Pulp
 
 Citrus pulp, comprising the juice sacs or vesicles from various citrus fruits like oranges, lemons, and limes, holds a significant place in India's culinary and industrial landscape. Citrus fruits themselves have a long and rich history in the subcontinent, with several varieties being indigenous or introduced centuries ago. Major citrus-growing regions span Maharashtra, Andhra Pradesh, Punjab, and the North-Eastern states, providing a consistent supply. Historically, the consumption of whole citrus fruits meant the natural inclusion of this pulp, valued for its texture and nutritional content.
 

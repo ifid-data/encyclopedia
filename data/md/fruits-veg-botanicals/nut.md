@@ -1,4 +1,4 @@
-**Nut**
+# Nut
 
 Nuts, botanically defined as dry fruits with a hard shell enclosing a single seed, have been an integral part of human diets for millennia, prized for their concentrated nutrition and energy. In India, the consumption and cultural significance of nuts trace back to ancient times, with indigenous varieties like walnuts (अखरोट, *akhrot*) and some wild almonds being historically gathered. The introduction and widespread cultivation of other popular nuts, such as cashews (काजू, *kaju*) and almonds (बादाम, *badam*), were largely influenced by trade routes and colonial introductions, particularly the Portuguese bringing cashews to Goa in the 16th century. Today, while some nuts like cashews are extensively cultivated in coastal regions (e.g., Kerala, Karnataka, Goa), many, including almonds, pistachios (पिस्ता, *pista*), and walnuts, are also significant imports, reflecting their global demand and diverse sourcing.
 

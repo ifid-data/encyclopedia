@@ -1,4 +1,4 @@
-**Chakka**
+# Chakka
 
 Chakka, a cornerstone of traditional Indian dairy, is essentially strained curd (dahi), deeply embedded in the culinary heritage of Western India, particularly Maharashtra and Gujarat. The term "chakka" itself, derived from regional languages, refers to the solid, concentrated mass obtained after draining whey from dahi. Historically, its preparation involved suspending fresh curd in a muslin cloth for several hours, allowing gravity to separate the liquid whey from the thicker, creamier solids. This ancient method of concentrating milk solids has been practiced for centuries, reflecting a resourceful approach to preserving and enhancing dairy products in the Indian subcontinent.
 

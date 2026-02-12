@@ -1,4 +1,4 @@
-**Red Currant**
+# Red Currant
 
 Red currants (scientific name: *Ribes rubrum*), small, translucent, and vibrantly coloured berries, are native to Western Europe and are not indigenous to the Indian subcontinent. Their introduction to India is relatively recent, primarily through modern horticulture and imports catering to niche markets and the burgeoning gourmet food sector. While not deeply rooted in traditional Indian culinary heritage, small-scale cultivation can be found in cooler, temperate regions like parts of the Himalayas or the Nilgiris, though the majority of the supply for processed forms is imported. The name "red currant" itself is of European origin, reflecting its non-native status in India.
 

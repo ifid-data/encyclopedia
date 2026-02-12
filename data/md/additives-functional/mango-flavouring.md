@@ -1,4 +1,4 @@
-**Mango Flavouring**
+# Mango Flavouring
 
 Mango flavouring is a concentrated additive designed to impart the characteristic taste and aroma of mango, India's revered "king of fruits," without the use of actual fruit pulp. The mango (Mangifera indica) has a rich history in India, cultivated for over 4,000 years, with its name derived from the Tamil "mankay" or Malayalam "manna." While the fruit itself is deeply embedded in Indian culture and cuisine, the concept of flavouring emerged to replicate its diverse profiles, from the sweet Alphonso to the tangy Totapuri, offering a consistent and year-round sensory experience.
 

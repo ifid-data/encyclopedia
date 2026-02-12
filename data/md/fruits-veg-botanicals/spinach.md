@@ -1,4 +1,4 @@
-**Spinach**
+# Spinach
 
 Spinach, known as *Palak* across much of India, is a leafy green vegetable with a rich history tracing its origins to ancient Persia, from where it spread to India and China. Its name, *Spinacia oleracea*, is believed to derive from the Persian word "aspanakh." Introduced to India centuries ago, it quickly became a staple, valued for its nutritional density and versatility. Today, spinach is cultivated widely across India, thriving in cooler seasons, with significant production in states like Uttar Pradesh, West Bengal, and Maharashtra, making it readily available in local markets. It is celebrated for its high content of iron, vitamins A, C, and K, and various antioxidants.
 

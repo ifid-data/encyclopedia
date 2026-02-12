@@ -1,4 +1,4 @@
-**Electrolytes**
+# Electrolytes
 
 Electrolytes are essential minerals that carry an electric charge when dissolved in body fluids like blood, urine, and sweat. Historically, the importance of maintaining fluid and salt balance has been recognized in Indian traditional practices, even if not termed "electrolytes." Ancient Ayurvedic texts often emphasized the consumption of specific foods and drinks like coconut water (tender coconut water being a natural isotonic solution rich in potassium), buttermilk (chaas), and lemon-salt-sugar solutions (nimbu pani) for rehydration and vitality, especially in hot climates or during illness. These traditional remedies inherently provided a spectrum of electrolytes. Sourcing for these vital compounds is primarily through diet, with key electrolytes like sodium, potassium, chloride, magnesium, and calcium found abundantly in fruits, vegetables, dairy, and common salts.
 

@@ -1,4 +1,4 @@
-**Lysine**
+# Lysine
 
 Lysine, an alpha-amino acid, was first isolated in 1889 by German chemist Edmund Drechsel from casein. While not an ingredient traditionally "sourced" or cultivated in India in its isolated form, its presence in the Indian diet is fundamental. As an essential amino acid, the human body cannot synthesize it, making dietary intake crucial. In India, traditional sources include a variety of pulses (dals), dairy products, and meats. Its significance in Indian nutrition is particularly pronounced in vegetarian diets, where cereals, a staple, are often limiting in lysine, necessitating complementary protein sources like legumes to ensure a complete amino acid profile.
 

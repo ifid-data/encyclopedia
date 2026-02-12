@@ -1,3 +1,5 @@
+# Pyridoxine Hydrochloride Vitamin B6
+
 **Pyridoxine Hydrochloride (Vitamin B6)**
 
 Pyridoxine Hydrochloride, commonly known as Vitamin B6, is an essential water-soluble vitamin crucial for numerous metabolic functions. Discovered in the 1930s, it was identified as a factor preventing dermatitis in rats, later recognized for its vital role in human health. While not indigenous to India in a botanical sense, its importance is deeply embedded in the traditional Indian diet, which naturally provides ample sources. Rich in pulses like moong dal and chana dal, whole grains such as wheat and rice, and various vegetables, the Indian culinary landscape has historically ensured adequate intake of this nutrient.

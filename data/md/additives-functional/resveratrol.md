@@ -1,4 +1,4 @@
-**Resveratrol**
+# Resveratrol
 
 Resveratrol is a naturally occurring polyphenol, a type of plant compound known for its antioxidant properties. It gained significant attention in the late 20th century, particularly in connection with the "French Paradox"—the observation that the French population, despite a diet rich in saturated fats, exhibited lower rates of heart disease, attributed partly to moderate red wine consumption. While not indigenous to India, the botanical sources of resveratrol, such as grapes (especially the skin and seeds), mulberries, cranberries, and peanuts, are widely cultivated and consumed across the subcontinent. Commercially, resveratrol is often extracted from Japanese knotweed (Polygonum cuspidatum) due to its high concentration.
 

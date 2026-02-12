@@ -1,3 +1,5 @@
+# Pippali
+
 Pippali, botanically known as *Piper longum*, is an ancient and revered spice native to the Indian subcontinent. Its name, derived from Sanskrit, signifies its deep roots in traditional Indian knowledge systems, particularly Ayurveda, where it is celebrated as a potent medicinal herb. Historically, Pippali was a significant commodity on ancient trade routes, often confused with or traded alongside black pepper (*Piper nigrum*) due to its similar pungency. Today, it is primarily cultivated in the warmer, humid regions of northeastern India, as well as parts of Kerala and Tamil Nadu, where the slender, dark green fruits are harvested and dried.
 
 In traditional Indian home kitchens, Pippali holds a niche but important place. While not as ubiquitous as black pepper, it is valued for its unique pungent, slightly sweet, and warming flavour profile. It is occasionally used in specific regional spice blends, pickles, and some complex curries, particularly those from Ayurvedic traditions. Its primary culinary application often involves its inclusion in warming concoctions, herbal teas, and as a digestive aid, rather than as a daily seasoning.

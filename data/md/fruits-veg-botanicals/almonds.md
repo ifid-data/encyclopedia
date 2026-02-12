@@ -1,4 +1,4 @@
-**Almonds**
+# Almonds
 
 Almonds, known colloquially as *Badam* across India, derive their name from the Old French *almande*, itself from the Latin *amygdala*, reflecting their ancient origins in Central Asia and the Middle East. Though not extensively cultivated in India, almonds have been a prized dry fruit for millennia, introduced through ancient trade routes and further popularized during the Mughal era, becoming integral to royal and festive cuisines. Today, India is a significant importer, with the majority sourced from California and Australia, making them a staple in Indian households and a symbol of prosperity and health.
 

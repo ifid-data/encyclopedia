@@ -1,4 +1,4 @@
-**Vitamin B12**
+# Vitamin B12
 
 Vitamin B12, scientifically known as cobalamin, is a vital water-soluble vitamin indispensable for numerous bodily functions, including neurological health, DNA synthesis, and the formation of red blood cells. Its discovery in the mid-20th century was a landmark event, particularly in understanding and treating pernicious anemia. Uniquely among vitamins, B12 is not synthesized by plants or animals directly but by specific microorganisms (bacteria and archaea). Animals acquire it through their diet or by consuming these microbes. For humans, the primary dietary sources are animal products such as meat, fish, poultry, eggs, and dairy. In India, where vegetarianism is widely practiced, B12 deficiency is a significant public health concern, often necessitating dietary adjustments, fortification, or supplementation.
 

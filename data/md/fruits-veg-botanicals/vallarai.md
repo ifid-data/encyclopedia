@@ -1,4 +1,4 @@
-**Vallarai**
+# Vallarai
 
 Vallarai, botanically known as *Centella asiatica*, is a revered herbaceous perennial plant deeply embedded in India's traditional medicinal systems, particularly Ayurveda and Siddha. Its name, derived from Tamil, refers to its creeping growth habit and circular leaves. Often called Gotu Kola internationally or Indian Pennywort, Vallarai thrives in marshy and tropical regions across India, with significant presence in the southern states. Historically, it has been celebrated for its adaptogenic properties and its purported benefits for cognitive function, wound healing, and overall vitality, making it a cornerstone of ancient herbal remedies.
 

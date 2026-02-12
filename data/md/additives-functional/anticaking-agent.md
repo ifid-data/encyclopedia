@@ -1,4 +1,4 @@
-**Anticaking Agent**
+# Anticaking Agent
 
 Anticaking agents are a class of food additives primarily developed to address challenges in industrial food processing, rather than having a deep historical or traditional culinary heritage in India. Their emergence is linked to the need for efficient storage, transport, and dispensing of powdered and granular food products. Historically, in Indian homes, methods like sun-drying, roasting, or adding a few grains of rice to salt shakers were employed to prevent clumping in hygroscopic ingredients. The modern concept of a dedicated "anticaking agent" is a product of industrial food science, with many derived from naturally occurring minerals (like silicates) or synthesized compounds. They are not "sourced" from specific agricultural regions but are manufactured or refined for their functional properties.
 

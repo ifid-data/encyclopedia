@@ -1,3 +1,5 @@
+# Blackcurrant
+
 Blackcurrant (Ribes nigrum) is a deciduous shrub native to temperate regions of central and northern Europe and northern Asia. While not indigenous to India, its cultivation has been attempted in cooler, higher altitude areas such as parts of the Himalayas and the Nilgiri hills, though on a limited commercial scale. Its name is purely English, reflecting its non-native status in the subcontinent. Historically, blackcurrants have been valued in European cultures for their medicinal properties and culinary versatility, particularly for their high vitamin C content.
 
 In Indian home kitchens, fresh blackcurrants are rarely encountered due to their limited local availability. When available, they are primarily used in Western-style preparations such as jams, jellies, pies, and crumbles, where their distinctive tart and intense flavour can shine. They are also occasionally incorporated into homemade cordials or sauces. Unlike many indigenous fruits, blackcurrants do not feature in traditional Indian culinary practices, making their presence in home cooking largely a modern, urban phenomenon influenced by global food trends.

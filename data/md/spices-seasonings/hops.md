@@ -1,4 +1,4 @@
-**Hops**
+# Hops
 
 Hops, derived from the female flower cones of the *Humulus lupulus* plant, are botanically a member of the Cannabaceae family, though distinct from cannabis. Historically cultivated across Europe, Asia, and North America, hops were introduced to India primarily through colonial influence and the subsequent establishment of modern brewing practices. Unlike many other botanicals, hops do not have indigenous linguistic roots or traditional cultivation in India, with the vast majority of hops used in the country being imported from major growing regions like Germany, the United States, and the United Kingdom. Their introduction marked a shift in beverage production, bringing a distinct flavour profile and preservative quality to fermented drinks.
 

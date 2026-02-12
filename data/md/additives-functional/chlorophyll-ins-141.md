@@ -1,3 +1,5 @@
+# Chlorophyll Ins 141
+
 **Chlorophyll (INS 141)**
 
 Chlorophyll, derived from the Greek words "chloros" (green) and "phyllon" (leaf), is the fundamental green pigment found in plants, algae, and cyanobacteria, essential for photosynthesis. While its natural presence has always colored our food, its isolation and use as a food additive, specifically as Copper Complexes of Chlorophylls and Chlorophyllins (INS 141), is a modern development. For industrial applications, it is typically extracted from edible plant materials like alfalfa, nettles, or grass, then processed to enhance its stability and color retention. In India, the appreciation for vibrant green hues in food is ancient, traditionally achieved through fresh herbs and vegetables.

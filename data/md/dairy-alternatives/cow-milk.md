@@ -1,4 +1,4 @@
-**Cow Milk**
+# Cow Milk
 
 Cow milk, known as *dudh* in Hindi and *paal* in Tamil, holds a profound historical and cultural significance in India, deeply intertwined with the reverence for the cow as "Gau Mata." The domestication of Zebu cattle (Bos indicus) in the Indian subcontinent dates back millennia, making cow milk a staple in the Indian diet and an integral part of its agrarian economy. Historically, it has been a primary source of nutrition, especially for children and the elderly, and is central to Ayurvedic practices, where it is valued for its nourishing and sattvic (pure) qualities. Major milk-producing states like Uttar Pradesh, Rajasthan, Madhya Pradesh, and Gujarat contribute significantly to India's position as the world's largest milk producer.
 

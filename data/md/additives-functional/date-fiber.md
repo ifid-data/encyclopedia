@@ -1,4 +1,4 @@
-**Date Fiber**
+# Date Fiber
 
 Date fiber is a natural dietary fiber extracted from the fruit of the date palm (Phoenix dactylifera). Dates, known as *khajur* in Hindi, have a rich history in India, having been introduced centuries ago from their native Middle Eastern and North African regions. While dates are cultivated in arid parts of India, particularly Rajasthan, Gujarat, and some southern states, the industrial extraction of date fiber is a more recent development, often utilizing byproducts from date processing. This fiber is primarily derived from the fruit's pulp, offering a concentrated source of both soluble and insoluble dietary components.
 

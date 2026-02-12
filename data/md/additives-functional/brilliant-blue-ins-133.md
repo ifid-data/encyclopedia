@@ -1,3 +1,5 @@
+# Brilliant Blue Ins 133
+
 Brilliant Blue FCF, designated as INS 133 in India, is a synthetic triarylmethane dye widely used as a food colourant. Globally known as FD&C Blue No. 1 or Food Blue 2, it was first synthesized in the early 20th century and quickly gained prominence due to its vibrant and stable blue hue. In India, its usage is strictly regulated by the Food Safety and Standards Authority of India (FSSAI), ensuring its application within permissible limits in various food products. As a synthetic compound, it has no natural origin or traditional sourcing methods, being produced through chemical synthesis.
 
 In the context of Indian home kitchens, Brilliant Blue FCF is not a traditional ingredient. Indian culinary heritage primarily relies on natural colourants derived from spices, fruits, and vegetables like turmeric, saffron, beetroot, or spinach for aesthetic appeal. However, its presence is ubiquitous in many packaged food items commonly consumed in Indian households, such as certain confectionery, ice creams, and beverages, where it contributes to the visual attractiveness of modern processed foods.

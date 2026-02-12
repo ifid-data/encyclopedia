@@ -1,4 +1,4 @@
-**Lime**
+# Lime
 
 Lime, known in India as 'Nimbu' (Hindi) or 'Elumichai' (Tamil), boasts a rich history deeply intertwined with the subcontinent. Believed to have originated in Southeast Asia, limes have been cultivated in India for millennia, becoming an indispensable part of its culinary and medicinal traditions. The most common variety, the Kaghzi Nimbu (acid lime), is characterized by its small size, thin skin, and intense tartness. Major lime-producing states in India include Maharashtra, Andhra Pradesh, Karnataka, and Gujarat, where the tropical climate is ideal for its growth. Beyond the common lime, India also cultivates 'Mosambi' or sweet lime, a distinct citrus fruit with a milder, sweeter profile.
 

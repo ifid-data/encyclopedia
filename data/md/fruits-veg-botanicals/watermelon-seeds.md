@@ -1,4 +1,4 @@
-**Watermelon Seeds**
+# Watermelon Seeds
 
 Watermelon seeds, derived from the fruit *Citrullus lanatus*, trace their origins to Africa, where watermelons have been cultivated for millennia. Their introduction to India likely occurred through ancient trade routes, establishing them as a traditional food source, particularly in regions with arid climates conducive to watermelon cultivation. Historically, these seeds were not merely a byproduct but a valued nutritional component, often dried and stored for sustenance. Rich in protein, healthy fats, and essential micronutrients like magnesium, zinc, and iron, they have been recognized for their inherent goodness. Today, while watermelons are grown across India, major producing states include Uttar Pradesh, Andhra Pradesh, Karnataka, and Tamil Nadu, where the seeds are collected, cleaned, and processed.
 

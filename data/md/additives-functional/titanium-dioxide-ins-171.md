@@ -1,3 +1,5 @@
+# Titanium Dioxide Ins 171
+
 **Titanium Dioxide (INS 171)**
 
 Titanium Dioxide (TiO2), identified by the International Numbering System (INS) as 171, is a naturally occurring oxide of titanium, primarily sourced from minerals like ilmenite and rutile. While not an ingredient cultivated or traditionally used in Indian home kitchens, its journey into food applications began with its exceptional properties as a white pigment. Discovered in the late 18th century, its industrial production and application as a colorant in various sectors, including food, pharmaceuticals, and cosmetics, gained prominence in the 20th century due to its unparalleled brightness, opacity, and chemical stability.

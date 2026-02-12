@@ -1,4 +1,4 @@
-**Cysteine**
+# Cysteine
 
 Cysteine is a semi-essential, sulfur-containing amino acid, a fundamental building block of proteins. Discovered in 1810, its name is derived from the Greek word "kystis," referring to its initial isolation from urinary stones. Historically, Cysteine was primarily sourced through the hydrolysis of keratin-rich materials such as human hair, poultry feathers, or hog bristles. However, in contemporary India and globally, the increasing demand for vegetarian and vegan-friendly ingredients has driven a significant shift towards microbial fermentation processes for its production, ensuring broader acceptance across diverse dietary preferences. While not cultivated, its industrial production and import are crucial for its widespread use in the Indian food industry.
 

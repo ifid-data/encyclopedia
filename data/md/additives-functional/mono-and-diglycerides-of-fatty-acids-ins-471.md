@@ -1,3 +1,5 @@
+# Mono And Diglycerides Of Fatty Acids Ins 471
+
 **Mono and Diglycerides of Fatty Acids (INS 471)**
 
 Mono and Diglycerides of Fatty Acids (INS 471) are not traditional Indian ingredients but rather a class of synthetic emulsifiers widely adopted in modern food processing globally, including India. Chemically, they are partial glycerides, meaning they are derived from fats and oils (triglycerides) through a process called glycerolysis. While they can be sourced from both animal fats and vegetable oils, the Indian food industry predominantly utilizes vegetable-derived sources, such as palm, soy, or sunflower oil, to cater to vegetarian dietary preferences and religious considerations. Their "history" in India is tied to the industrialization of food production, as manufacturers sought functional ingredients to improve product quality and shelf life.

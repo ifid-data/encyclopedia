@@ -1,4 +1,4 @@
-**Milk Solids**
+# Milk Solids
 
 Milk solids represent the non-aqueous components of milk, encompassing proteins, lactose, minerals, and fat (if not skimmed). In India, the tradition of concentrating milk to preserve and enhance its flavour is ancient, deeply embedded in culinary heritage. From the Vedic period, milk and its derivatives have been central to diet and ritual, with techniques like slow reduction to create *khoya* (mawa) being perfected over millennia. India, as the world's largest milk producer, relies heavily on its dairy sector, where milk solids, both traditional and industrially processed, play a pivotal role.
 

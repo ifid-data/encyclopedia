@@ -1,4 +1,4 @@
-**Sunflower Oil**
+# Sunflower Oil
 
 Sunflower oil, derived from the seeds of the *Helianthus annuus* plant, is a relatively modern entrant into the Indian culinary landscape, gaining widespread popularity in the latter half of the 20th century. While its origins trace back to North America, its cultivation and consumption have flourished globally. In India, major producing states include Karnataka, Maharashtra, Andhra Pradesh, and Telangana, where the distinctive yellow flowers dot agricultural fields. Known in Hindi as "Surajmukhi ka tel," its adoption reflects a shift towards lighter, neutral-flavored cooking mediums.
 

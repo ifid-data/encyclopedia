@@ -1,4 +1,4 @@
-**Cherries**
+# Cherries
 
 Cherries, primarily derived from species like *Prunus avium* (sweet cherry) and *Prunus cerasus* (sour cherry), trace their origins to regions spanning from Anatolia to the Caucasus mountains. While not indigenous to the Indian subcontinent, their cultivation was introduced and has flourished in the cooler, temperate climes of India's northern states. Major growing regions include Kashmir, Himachal Pradesh, and Uttarakhand, where specific varieties have adapted well to the local conditions. The English term "cherry" itself is derived from the Old North French "cherise," ultimately tracing back to the Greek "kerasos," reflecting its ancient cultivation history.
 

@@ -1,4 +1,4 @@
-**Coconut Oil**
+# Coconut Oil
 
 Coconut oil, known as *nariyal tel* in Hindi and *velichenna* in Malayalam, is an ancient and integral part of India's culinary and cultural landscape, particularly in the coastal regions. Derived from the mature kernels of the coconut palm (*Cocos nucifera*), its origins are deeply rooted in tropical Asia. In India, it is predominantly sourced from the southern states of Kerala, Tamil Nadu, Karnataka, and Andhra Pradesh, where the coconut palm thrives. Its historical use extends beyond cooking, featuring prominently in Ayurvedic medicine, traditional hair care, and religious rituals, underscoring its multifaceted heritage.
 

@@ -1,3 +1,5 @@
+# Shyonaka
+
 **Shyonaka (Oroxylum indicum)**
 
 Shyonaka, botanically known as *Oroxylum indicum*, is a revered medicinal plant deeply embedded in India's Ayurvedic heritage. Its name, derived from Sanskrit, often translates to "night-flowering" or "dark-colored," alluding to its unique nocturnal blooms and dark bark. Indigenous to the Indian subcontinent and Southeast Asia, this medium-sized deciduous tree is a significant component of the 'Dashamoola' – a group of ten potent roots widely used in traditional Ayurvedic formulations. Historically, its presence has been documented in ancient Ayurvedic texts like the Charaka Samhita and Sushruta Samhita, highlighting its long-standing therapeutic value. It thrives in diverse regions across India, particularly in the sub-Himalayan tracts, Western Ghats, and the North-Eastern states, often found in moist deciduous forests.

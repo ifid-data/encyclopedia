@@ -1,4 +1,4 @@
-**Blueberry**
+# Blueberry
 
 Blueberries, scientifically *Vaccinium corymbosum* and related species, are small, round berries native primarily to North America. Unlike many fruits deeply embedded in India's ancient culinary traditions, blueberries are a relatively recent introduction to the Indian market, gaining popularity through globalized food trends and increased awareness of their nutritional benefits. There are no indigenous linguistic roots for "blueberry" in India; the English term is widely adopted. While commercial cultivation within India is nascent and limited to specific cooler, high-altitude regions, the majority of blueberries consumed in the country are imported, often from North America, Chile, or other global producers.
 

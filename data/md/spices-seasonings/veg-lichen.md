@@ -1,4 +1,4 @@
-**Veg Lichen**
+# Veg Lichen
 
 Veg Lichen, in the context of Indian cuisine, primarily refers to *Parmotrema perlatum*, a species of lichen commonly known as Kalpasi in Tamil and Dagad Phool (Stone Flower) in Hindi and Marathi. This unique ingredient is not a plant in the conventional sense but a symbiotic organism comprising fungi and algae. Historically, it has been gathered from the wild, growing on rocks, tree bark, and fallen logs in pristine, unpolluted environments. Its presence signifies ecological health. Major sourcing regions in India include the Western Ghats, particularly in Maharashtra, Karnataka, and Tamil Nadu, where it thrives in humid, forested, and hilly terrains. Its collection is often a traditional practice, requiring careful harvesting to ensure sustainability.
 

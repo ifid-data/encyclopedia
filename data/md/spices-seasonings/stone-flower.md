@@ -1,4 +1,4 @@
-**Stone Flower**
+# Stone Flower
 
 Stone Flower, known in India as *Pathar Phool* (Hindi), *Dagad Phool* (Marathi), or *Kalpasi* (Tamil), is not a flower in the botanical sense but a species of lichen, primarily *Parmotrema perlatum*. This unique ingredient thrives on rocks, tree bark, and decaying wood in the cooler, humid environments of India's Western Ghats and Himalayan foothills. Its name, literally "stone flower," aptly describes its appearance as a dried, greyish-black, moss-like growth clinging to its substrate. Historically, it has been wild-harvested, with its use deeply embedded in the culinary traditions of specific Indian regions, reflecting a deep understanding of local flora and their flavour contributions.
 

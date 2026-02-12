@@ -1,4 +1,4 @@
-**Gongura**
+# Gongura
 
 Gongura, botanically identified as the leaves of *Hibiscus sabdariffa* (Roselle) or *Hibiscus cannabinus* (Kenaf), is a highly cherished leafy green vegetable deeply rooted in Indian culinary heritage. While known by various regional names such as Ambadi in Hindi and Marathi, Pundi Palle in Kannada, and Pulicha Keerai in Tamil, the name "Gongura" is most famously associated with the Telugu-speaking states of Andhra Pradesh and Telangana, where it holds iconic status. Native to the Indian subcontinent, particularly the Deccan plateau, it thrives in tropical and subtropical climates. Major cultivation occurs across Andhra Pradesh, Telangana, Karnataka, Maharashtra, and Tamil Nadu, often grown as a hardy crop in home gardens and agricultural fields, reflecting its widespread traditional use.
 

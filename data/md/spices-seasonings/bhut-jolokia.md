@@ -1,4 +1,4 @@
-**Bhut Jolokia**
+# Bhut Jolokia
 
 The Bhut Jolokia, often known as the "Ghost Pepper," is a legendary chilli pepper originating from the Northeast Indian states of Assam, Nagaland, Manipur, and Arunachal Pradesh. Its name, derived from the Assamese word "Bhut" meaning "ghost," aptly describes the creeping, intense heat that haunts the palate long after consumption. Historically, this chilli has been cultivated for centuries by indigenous communities in the region, deeply embedded in their agricultural practices and culinary heritage. It gained global recognition in 2007 when it was certified by Guinness World Records as the world's hottest chilli pepper, a title it held for several years. Its unique pungency is attributed to its high capsaicin content, a characteristic that has made it a subject of scientific interest and a symbol of the region's rich biodiversity.
 

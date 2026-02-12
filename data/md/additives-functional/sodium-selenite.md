@@ -1,4 +1,4 @@
-**Sodium Selenite**
+# Sodium Selenite
 
 Selenium, an essential trace mineral, was discovered in 1817 by Jöns Jacob Berzelius. Its importance in human and animal health was recognized much later, particularly its role as an antioxidant and in thyroid function. Sodium selenite, an inorganic salt of selenium, became a widely adopted form for supplementation and fortification due to its stability and cost-effectiveness. While not indigenous to India in terms of cultivation, the understanding of selenium's dietary significance and the use of compounds like sodium selenite have become integral to modern nutritional science and public health strategies across the country, especially in regions where soil selenium levels might be low, impacting the selenium content of locally grown produce.
 

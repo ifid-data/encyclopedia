@@ -1,3 +1,5 @@
+# Sodium Aluminium Sulphate Ins 521
+
 **Sodium Aluminium Sulphate (INS 521)**
 
 Sodium Aluminium Sulphate (SAS), identified by the international code INS 521, is a synthetic inorganic salt primarily utilized as a food additive. While it lacks a traditional "heritage" in the culinary sense, its introduction to India, like many modern food additives, came with the industrialization of food processing. It is a product of chemical synthesis, typically derived from aluminium hydroxide, sulphuric acid, and sodium hydroxide. Unlike agricultural products, its "sourcing" is industrial, with manufacturers globally producing it for various applications, including food.

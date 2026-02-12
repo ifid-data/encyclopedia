@@ -1,3 +1,5 @@
+# Ponceau 4R Ins 124
+
 Ponceau 4R, identified by the International Numbering System (INS) as INS 124, is a synthetic azo dye primarily used as a food colouring agent. Its name, "Ponceau," is derived from the French word for poppy, reflecting its characteristic vibrant red hue. Unlike natural colours derived from botanicals, Ponceau 4R has no historical or traditional roots in Indian culinary practices, having been introduced as part of the modern food processing industry. Its sourcing is entirely through chemical synthesis, making it a product of industrial chemistry rather than agriculture.
 
 In traditional Indian home kitchens, the use of synthetic food colours like Ponceau 4R is virtually non-existent. Home cooks historically relied on natural pigments from ingredients like turmeric, saffron, beetroot, or chilli powder to impart colour to their dishes. Therefore, Ponceau 4R does not feature in authentic, time-honoured recipes prepared in Indian households, which prioritize natural ingredients and methods.

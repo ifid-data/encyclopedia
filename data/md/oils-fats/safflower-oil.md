@@ -1,4 +1,4 @@
-**Safflower Oil**
+# Safflower Oil
 
 Safflower oil, derived from the seeds of the *Carthamus tinctorius* plant, boasts a rich history in India, where it has been cultivated for millennia. Known as 'Kusum' in Sanskrit and Hindi, the plant's vibrant orange-red flowers were traditionally used for dyes, while its seeds yielded a valuable oil. Its origins trace back to ancient Egypt and the Middle East, with its introduction to India occurring in antiquity, establishing it as a significant agricultural crop. Today, major safflower growing regions in India include Maharashtra, Karnataka, Andhra Pradesh, and Telangana, where it thrives in semi-arid conditions.
 

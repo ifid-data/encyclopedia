@@ -1,3 +1,5 @@
+# Sorbitol Ins 420
+
 Sorbitol (INS 420)
 
 Sorbitol, a sugar alcohol (polyol), is a naturally occurring compound found in various fruits such as apples, pears, peaches, and prunes. While its discovery by French chemist Jean-Baptiste Boussingault in 1872 in mountain ash berries marks its scientific identification, its presence in natural foods means it has been consumed by humans for millennia. In India, Sorbitol is not a traditional ingredient but has been introduced primarily through the modern food processing industry, where it is synthetically produced from glucose, often derived from corn starch. Its industrial production makes it a versatile ingredient rather than one tied to specific agricultural regions within India.

@@ -1,3 +1,5 @@
+# Fava Bean Protein
+
 Fava beans (Vicia faba), from which fava bean protein is derived, boast an ancient lineage, cultivated for millennia across the Middle East and North Africa before their global dissemination. In India, while not as ubiquitous as other pulses, they are known regionally, sometimes referred to as 'bakla' or 'broad beans'. The development of fava bean protein isolate, however, is a modern innovation, driven by the burgeoning demand for sustainable and allergen-friendly plant-based protein sources. Industrial sourcing for this protein extract is global, with significant production in regions like Europe, North America, and Australia.
 
 Traditionally, whole fava beans are consumed in diverse culinary forms worldwide, from fresh pods to dried legumes. In Indian home kitchens, where they are less common than other dals, they might feature in specific regional curries, stir-fries, or as a seasonal vegetable. However, fava bean protein isolate is not a traditional ingredient for home cooking; it is a highly processed product designed for specific functional and nutritional applications in manufactured foods.

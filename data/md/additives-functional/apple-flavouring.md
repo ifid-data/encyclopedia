@@ -1,4 +1,4 @@
-**Apple Flavouring**
+# Apple Flavouring
 
 Apple flavouring, a modern culinary additive, is designed to replicate the distinct taste and aroma of apples (Malus domestica). While apples themselves are not indigenous to India, their cultivation has a long history in the cooler Himalayan regions like Kashmir, Himachal Pradesh, and Uttarakhand, where they are known as "seb" (सेब). The concept of isolated flavouring, however, is a product of industrial food science, developed globally and then adopted and manufactured within India. These flavourings are typically synthesized from various chemical compounds or derived from natural sources to mimic the complex volatile profiles of different apple varieties.
 

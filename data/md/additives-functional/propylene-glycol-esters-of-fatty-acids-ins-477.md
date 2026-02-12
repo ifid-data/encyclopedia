@@ -1,3 +1,5 @@
+# Propylene Glycol Esters Of Fatty Acids Ins 477
+
 **Propylene Glycol Esters of Fatty Acids (INS 477)**
 
 Propylene Glycol Esters of Fatty Acids, commonly identified by the additive code INS 477, are synthetic emulsifiers and stabilizers. Unlike many traditional Indian food ingredients with ancient roots, INS 477 is a product of modern food technology, developed to impart specific functional properties. It is synthesized through the esterification of propylene glycol with fatty acids, which are typically sourced from vegetable oils like palm, soy, or sunflower. This chemical modification creates a compound with unique amphiphilic properties, allowing it to bridge oil and water phases effectively. While not originating from India, its widespread use in processed foods means it is now a ubiquitous component in the modern Indian food landscape.

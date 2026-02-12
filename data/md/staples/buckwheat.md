@@ -1,4 +1,4 @@
-**Buckwheat**
+# Buckwheat
 
 Buckwheat, known as *kuttu* in Hindi and *phapar* in Himalayan regions, is a pseudocereal originating from Central and East Asia, with its cultivation spreading across the globe over centuries. Despite its name, it is not related to wheat and is botanically classified as a fruit seed, making it a gluten-free alternative to true cereal grains. In India, buckwheat cultivation is predominantly found in the cooler climes of the Himalayan belt, including Uttarakhand, Himachal Pradesh, and parts of Jammu & Kashmir, where it has been a traditional staple for generations. Its resilience to harsh weather conditions and short growing season have made it a valuable crop in these mountainous regions.
 

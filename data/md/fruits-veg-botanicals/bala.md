@@ -1,4 +1,4 @@
-**Bala**
+# Bala
 
 Bala, botanically identified as *Sida cordifolia*, is a highly esteemed herb in the traditional Indian system of Ayurveda. The Sanskrit term "Bala" translates to "strength" or "power," aptly reflecting its revered properties in promoting vitality and well-being. Indigenous to tropical and subtropical regions, *Sida cordifolia* thrives across various parts of India, particularly in the plains and lower hills. While the entire plant holds medicinal value, it is primarily the root (M-ROOT) that is harvested and processed for its therapeutic compounds, forming the cornerstone of numerous Ayurvedic formulations. Its historical use dates back millennia, deeply embedded in the cultural and medicinal heritage of the subcontinent.
 

@@ -1,4 +1,4 @@
-**Idli Rava**
+# Idli Rava
 
 Idli Rava, also known as Idly Ravva, is a coarse granular product primarily derived from parboiled rice, specifically processed for the preparation of idlis, the quintessential South Indian steamed rice and lentil cakes. The term "idli" itself refers to these soft, fluffy cakes, while "rava" denotes a coarse grain or semolina. While the origins of idli are debated, with theories pointing to Indonesia or even ancient Karnataka, its widespread adoption and evolution into a staple breakfast item across South India are undeniable. Idli Rava emerged as a convenience product, simplifying the traditional, laborious process of soaking and grinding whole rice, making idli preparation more accessible in modern kitchens. Major rice-growing regions, particularly in Andhra Pradesh, Telangana, and Tamil Nadu, are key sources for the parboiled rice used in its production.
 

@@ -1,4 +1,4 @@
-**Guarana**
+# Guarana
 
 Guarana (scientific name: *Paullinia cupana*) is a climbing plant native to the Amazon basin, particularly prevalent in Brazil. Its name is derived from the Guarani people, an indigenous tribe who have traditionally cultivated and utilized the plant for centuries. Historically, the Guarani would crush the seeds to create a stimulating beverage, revered for its energizing properties and believed to enhance physical endurance and mental alertness. While not indigenous to India, guarana and its extracts are imported, primarily from South America, to cater to the growing demand for functional ingredients in the Indian market.
 

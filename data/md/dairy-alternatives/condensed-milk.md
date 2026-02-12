@@ -1,4 +1,4 @@
-**Condensed Milk**
+# Condensed Milk
 
 Condensed milk, a product of dairy innovation, traces its origins to the mid-19th century, notably patented by Gail Borden in the United States. Its development was driven by the need for a shelf-stable milk product, particularly for military provisions and long voyages. While not indigenous to India, it was introduced during the colonial era and gained significant traction post-independence as a convenient, preserved dairy option. The term "condensed milk" itself is English, reflecting its foreign origin, and it is produced by evaporating water from milk, often cow's milk, and then adding sugar to create a thick, viscous product. Major dairy-producing regions across India now contribute to its manufacturing, with milk sourced from local dairy farms.
 

@@ -1,4 +1,4 @@
-Cotton Candy Flavouring
+# Cotton Candy Flavouring
 
 Cotton Candy Flavouring is a synthetic aromatic compound designed to replicate the distinctive taste and aroma of spun sugar, a confection with origins tracing back to 19th-century Europe, known as "fairy floss" or "candy floss." While the confection itself is not indigenous to India, its whimsical appeal has led to the widespread adoption of its flavour profile in modern Indian food and beverage industries. As a flavouring, it has no natural botanical source or traditional Indian heritage, but rather represents a globalised culinary trend adapted for the Indian palate, often evoking a sense of nostalgia and festivity.
 

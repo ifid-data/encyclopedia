@@ -1,4 +1,4 @@
-**Probiotics**
+# Probiotics
 
 The scientific understanding of beneficial microorganisms, later termed "probiotics," emerged in the early 20th century. However, India's culinary heritage has long embraced fermented foods, implicitly leveraging the health benefits of live cultures. Traditional staples like dahi (curd), chaas (buttermilk), kanji (fermented drinks), and batters for idli and dosa are ancient examples of foods rich in diverse microbial populations. Modern probiotics, however, involve specific, well-characterized microbial strains, primarily bacteria and yeasts, cultured under controlled conditions. These strains are selected for their proven health benefits and stability, often sourced globally and then propagated for commercial use.
 

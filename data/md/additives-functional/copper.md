@@ -1,4 +1,4 @@
-**Copper**
+# Copper
 
 Copper (Sanskrit: Tamra) holds a profound historical and cultural significance in India, being one of the earliest metals discovered and utilized by humanity. Its use dates back to ancient civilizations, where it was prized for its malleability, conductivity, and antimicrobial properties. In India, copper has been integral to Ayurvedic practices for millennia, with the tradition of storing water in copper vessels (Tamra Jal) believed to impart health benefits. While elemental copper is a naturally occurring metal, as a trace mineral, it is sourced from various food groups including legumes, nuts, whole grains, leafy green vegetables, and organ meats.
 

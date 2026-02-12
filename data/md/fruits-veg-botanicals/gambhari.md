@@ -1,4 +1,4 @@
-**Gambhari**
+# Gambhari
 
 Gambhari, scientifically known as *Gmelina arborea*, is a revered deciduous tree native to the Indian subcontinent and other parts of Southeast Asia. Its significance is deeply embedded in India's traditional knowledge systems, particularly Ayurveda, where it is celebrated as one of the ten sacred roots (Dashamoola) essential for numerous therapeutic formulations. The name "Gambhari" itself is derived from Sanskrit, reflecting its ancient recognition and widespread use. This versatile tree thrives across diverse Indian landscapes, from the sub-Himalayan tracts to the southern peninsular regions, commonly found in mixed deciduous forests. Its roots, bark, and fruits are the primary parts utilized for their beneficial properties.
 

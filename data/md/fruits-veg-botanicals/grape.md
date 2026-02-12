@@ -1,3 +1,5 @@
+# Grape
+
 Grapes (Vitis vinifera), known as 'Draksha' in Sanskrit, boast an ancient lineage, with viticulture tracing back thousands of years to the Near East. Their introduction to the Indian subcontinent is historically significant, likely facilitated by ancient trade routes and cultural exchanges, leading to a rich tradition of grape cultivation. Today, India is a notable grape producer, with major growing regions concentrated in Maharashtra, Karnataka, Andhra Pradesh, and Tamil Nadu. These regions cultivate diverse varieties, including the 'red grape' variant, which is prized for its distinct colour and flavour profile.
 
 In Indian home kitchens, fresh grapes are primarily enjoyed as a refreshing fruit, often consumed raw or incorporated into fruit salads and desserts. While not a staple in traditional savoury curries, they occasionally feature in regional specialties, offering a sweet-tart counterpoint. Home cooks also prepare simple grape juices, jams, and sometimes even a unique grape chutney, especially when the fruit is in season, leveraging its natural sweetness and acidity.

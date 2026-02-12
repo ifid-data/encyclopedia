@@ -1,4 +1,4 @@
-**Chia Seeds**
+# Chia Seeds
 
 Chia seeds (*Salvia hispanica*) trace their origins to ancient Mesoamerica, where they were a staple food for Aztec and Mayan civilizations, revered for their energy-boosting properties and medicinal value. The name "chia" itself is derived from the Nahuatl word "chian," meaning "oily." While not indigenous to India, chia seeds have seen a significant surge in popularity over the last two decades, primarily as a health food import. Most of the supply comes from countries like Mexico, Guatemala, and Australia, though some nascent cultivation is emerging in suitable regions within India.
 

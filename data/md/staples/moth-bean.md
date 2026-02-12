@@ -1,3 +1,5 @@
+# Moth Bean
+
 The moth bean, known scientifically as *Vigna aconitifolia*, is a resilient legume deeply embedded in the culinary and agricultural landscape of India, particularly in its arid and semi-arid regions. Originating from the Indian subcontinent, its cultivation dates back millennia, making it a heritage crop. Linguistically, it is widely recognized as 'moth' in Hindi, 'matki' in Marathi, and 'dew bean' or 'tepary bean' in English, reflecting its widespread presence across states like Rajasthan, Gujarat, and Maharashtra, where its drought-resistant nature makes it a vital food source.
 
 In traditional Indian home kitchens, moth beans are celebrated for their earthy flavour and versatility. The whole beans are commonly sprouted and used to prepare nutritious salads, or cooked into hearty curries and *dals*, such as the popular Maharashtrian *usal*. Moth bean flour, derived from grinding the dried beans, is a staple for making various fritters (*pakoras*), flatbreads, and as a thickening agent in gravies, lending a distinct texture and nutritional boost to dishes.

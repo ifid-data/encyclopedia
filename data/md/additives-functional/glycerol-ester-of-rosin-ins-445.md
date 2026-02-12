@@ -1,3 +1,5 @@
+# Glycerol Ester Of Rosin Ins 445
+
 Glycerol Ester of Rosin (GER), identified by INS 445, is a food additive derived from rosin, the natural resin of pine trees. Rosin, historically used for various purposes from sealing to varnishes, undergoes esterification with glycerol to produce GER. This chemical modification transforms the raw resin into a food-grade ingredient. While pine resins have ancient uses globally, the specific application of GER as a food additive is a modern industrial development, not rooted in traditional Indian culinary heritage. Its approval under the International Numbering System (INS 445) signifies its global recognition as a safe food additive.
 
 Glycerol Ester of Rosin finds virtually no application in traditional Indian home cooking. It is not an ingredient that would be found in a typical pantry or used in preparing everyday meals. Its highly specialized functional properties mean it is exclusively employed in industrial food processing, rather than as a direct culinary component.

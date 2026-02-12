@@ -1,4 +1,4 @@
-**Foam Stabilizer**
+# Foam Stabilizer
 
 Foam stabilizers, exemplified by Triethyl Citrate (INS 1505), represent a class of food additives crucial in modern food science for maintaining the structural integrity of aerated food systems. Unlike ingredients with ancient culinary roots, these synthetic compounds emerged with advancements in food technology, designed to address specific challenges in industrial food production. Triethyl Citrate, a colorless, odorless liquid, is an ester of citric acid and ethanol, primarily valued for its low toxicity and effectiveness. Its introduction to the Indian food industry aligns with the global adoption of processed foods, where consistent texture and shelf-stability are paramount.
 

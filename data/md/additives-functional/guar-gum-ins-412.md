@@ -1,3 +1,5 @@
+# Guar Gum Ins 412
+
 **Guar Gum (INS 412)**
 
 Guar Gum, designated as INS 412, is a natural hydrocolloid derived from the endosperm of the guar bean (*Cyamopsis tetragonoloba*), a legume primarily cultivated in India and Pakistan. The name "guar" is believed to originate from the Sanskrit "go-har," meaning "cow food," reflecting its historical use as animal fodder, though the beans themselves have been consumed by humans for centuries. India, particularly the arid and semi-arid regions of Rajasthan, Gujarat, and Haryana, is the world's largest producer of guar, making it a significant agricultural commodity with deep roots in the subcontinent's agrarian heritage.

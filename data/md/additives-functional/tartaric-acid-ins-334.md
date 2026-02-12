@@ -1,3 +1,5 @@
+# Tartaric Acid Ins 334
+
 **Tartaric Acid (INS 334)**
 
 Tartaric acid, chemically known as 2,3-dihydroxybutanedioic acid, is a naturally occurring organic acid found in many plants, most notably grapes, tamarind, and citrus fruits. Its presence in wine by-products (potassium bitartrate, or cream of tartar) has been recognized since ancient times, with its isolation attributed to the Swedish chemist Carl Wilhelm Scheele in 1769. In the Indian context, tartaric acid's heritage is deeply intertwined with tamarind (imli), a staple ingredient across diverse regional cuisines. While not traditionally extracted as a standalone ingredient in home kitchens, its natural abundance in tamarind has made it an integral part of India's culinary souring tradition for centuries. Industrially, it is primarily sourced as a by-product of wine fermentation, though synthetic production methods also exist.

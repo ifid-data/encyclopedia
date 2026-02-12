@@ -1,4 +1,4 @@
-**Mint**
+# Mint
 
 Mint, known colloquially across India as *Pudina* (from Sanskrit *pudina*), is a revered aromatic herb with a rich history deeply intertwined with global and Indian culinary and medicinal traditions. Originating in the Mediterranean and Middle Eastern regions, mint varieties were introduced to India centuries ago, finding fertile ground and integrating seamlessly into local agriculture and gastronomy. Its widespread cultivation, from small kitchen gardens to commercial farms across states like Uttar Pradesh, Punjab, and Andhra Pradesh, underscores its ubiquitous presence. The term "Mint" generally refers to species within the *Mentha* genus, with spearmint (*Mentha spicata*) and peppermint (*Mentha piperita*) being the most common, both valued for their distinctive volatile oils.
 

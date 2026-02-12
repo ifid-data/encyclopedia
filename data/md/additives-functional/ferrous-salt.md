@@ -1,4 +1,4 @@
-**Ferrous Salt**
+# Ferrous Salt
 
 Ferrous salts, chemical compounds containing iron in its +2 oxidation state, are fundamental to human nutrition, particularly in the Indian context where iron deficiency anaemia (IDA) remains a significant public health challenge. While not a botanical or culinary ingredient in the traditional sense, their historical importance stems from the long-standing recognition of iron's role in vitality, often sourced from iron-rich foods and cooking vessels. The term "ferrous" itself derives from the Latin "ferrum," meaning iron, highlighting its direct association with the metal. The need for supplemental iron, often in the form of ferrous salts, became more pronounced with modern dietary shifts and a deeper understanding of micronutrient deficiencies.
 

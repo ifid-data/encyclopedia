@@ -1,4 +1,4 @@
-**Thandai Flavouring**
+# Thandai Flavouring
 
 Thandai Flavouring is a modern food additive designed to replicate the complex aromatic profile of Thandai, a revered traditional Indian cooling beverage. The original Thandai, deeply rooted in Indian heritage, particularly associated with festivals like Holi and Mahashivratri, is a rich concoction of nuts (almonds, pistachios), seeds (poppy, melon, fennel), and spices (cardamom, black pepper, saffron), often infused with rose petals and sweetened with sugar. The flavouring itself does not have a geographical origin in the traditional sense but is a product of food technology, developed to capture the essence of these diverse botanical ingredients.
 

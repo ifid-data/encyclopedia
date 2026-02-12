@@ -1,3 +1,5 @@
+# Pgpr Ins 476
+
 **Polyglycerol Polyricinoleate (PGPR) (INS 476)**
 
 Polyglycerol Polyricinoleate, commonly known as PGPR and identified by the food additive code INS 476, is a synthetic emulsifier widely utilized in the modern food industry. Chemically, it is a polyglycerol ester of polycondensed fatty acids from castor oil. Its primary components are glycerol, a simple sugar alcohol, and ricinoleic acid, a unique fatty acid predominantly found in castor beans (Ricinus communis). While not an ingredient with historical culinary roots in India, its introduction and widespread adoption are a testament to the globalization of food technology, enabling the production of consistent and cost-effective food products consumed across the subcontinent.

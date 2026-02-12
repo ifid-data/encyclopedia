@@ -1,4 +1,4 @@
-**Okra**
+# Okra
 
 Okra, known widely across India as *Bhindi* (Hindi), *Vendakkai* (Tamil), or *Bendakaya* (Telugu), is a flowering plant valued for its edible green seed pods. Originating in the Ethiopian highlands of Africa, okra's journey to India is believed to have occurred centuries ago through ancient trade routes, likely introduced by Arab traders. Its name "okra" itself is derived from the Igbo word "ókùrù." Today, it is a staple vegetable cultivated extensively across India, thriving in the warm, humid climates of states like Uttar Pradesh, Bihar, Andhra Pradesh, and Maharashtra, making it readily available year-round in most markets.
 

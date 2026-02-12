@@ -1,4 +1,4 @@
-**Brihati**
+# Brihati
 
 Brihati, botanically identified as *Solanum indicum* (though modern taxonomy often refers to *Solanum violaceum* or *Solanum torvum*), holds a revered position in the ancient Indian system of Ayurveda. Its name, derived from Sanskrit, signifies "large" or "great," possibly alluding to its broad leaves or profound therapeutic efficacy. Native to the Indian subcontinent, this perennial shrub thrives in diverse climatic conditions, commonly found growing wild in plains and hilly regions across India. It is a crucial component of the 'Dashamoola' (ten roots) formulation, specifically belonging to the 'Brihat Panchamoola' (five greater roots), underscoring its historical significance in traditional medicine.
 

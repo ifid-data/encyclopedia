@@ -1,4 +1,4 @@
-**Fruit Juice**
+# Fruit Juice
 
 The practice of extracting and consuming the liquid essence of fruits is deeply embedded in human history, with India boasting a rich tradition of indigenous fruit-based beverages. From the ubiquitous *nimbu pani* (lemonade) and refreshing sugarcane juice to regional specialties like *bel sharbat* and *kokum sharbat*, fresh fruit juices have long been cherished for their hydrating and therapeutic properties. The modern packaged fruit juice industry, while a relatively recent development in India, draws upon this ancient heritage, sourcing a diverse array of fruits such as mangoes, oranges, apples, guavas, and pomegranates from the country's varied agricultural landscapes.
 

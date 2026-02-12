@@ -1,3 +1,5 @@
+# Yogurt
+
 **Yogurt: A Culinary and Cultural Cornerstone of India**
 
 Yogurt, universally known as *dahi* across India, boasts an ancient lineage, with its origins tracing back to early pastoral societies where milk fermentation was a natural method of preservation. Introduced to the Indian subcontinent millennia ago, it quickly became an indispensable part of the culinary and cultural fabric. The term "yogurt" itself is derived from Turkish, while its Indian counterpart, *dahi*, stems from the Sanskrit "dadhi," signifying its deep historical roots in the region. Traditionally, *dahi* is prepared at home by inoculating warm milk with a starter culture from previous batches, a practice still widespread across every household in India, transcending regional boundaries.

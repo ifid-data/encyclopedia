@@ -1,4 +1,4 @@
-**DHA**
+# Dha
 
 Docosahexaenoic Acid (DHA) is a crucial long-chain omega-3 fatty acid, vital for human health, particularly brain and eye development. While not historically recognized as a distinct ingredient in traditional Indian culinary texts, its presence has been integral to diets rich in marine life. Historically, coastal communities in India, consuming fatty fish like mackerel, sardines, and pomfret, would have naturally ingested significant amounts of DHA. The modern understanding and isolation of DHA as a functional ingredient are relatively recent, stemming from advancements in nutritional science. Today, the primary sources for industrial DHA are fatty fish oils and, increasingly, microalgae (such as *Schizochytrium* and *Crypthecodinium cohnii*), which are the original producers of DHA in the marine food chain.
 

@@ -1,4 +1,4 @@
-**Vijaysar**
+# Vijaysar
 
 Vijaysar, scientifically known as *Pterocarpus marsupium*, is a revered deciduous tree native to the dry forests of India, particularly abundant in the central and southern regions including Madhya Pradesh, Karnataka, Kerala, and Andhra Pradesh. Its name, derived from Sanskrit "Vijayasara," translates to "victorious essence," reflecting its esteemed position in traditional Indian medicine systems like Ayurveda, Siddha, and Unani for centuries. Historically, the tree's heartwood and bark have been utilized, with ancient texts detailing its therapeutic properties, especially concerning metabolic health.
 

@@ -1,4 +1,4 @@
-**Vinegar**
+# Vinegar
 
 Vinegar, from the French "vin aigre" (sour wine), is an ancient condiment, originating as a natural byproduct of alcoholic fermentation. Its presence in India, often called "sirka" (from Persian), is deeply rooted, likely introduced through ancient trade routes and local fermentation. Historically, it was valued for culinary use and medicinal properties in Ayurveda, particularly for digestion and preservation. In India, traditional vinegar production uses carbohydrate sources like sugarcane, jaggery, and fruits. While not "grown," its production is widespread, with commercial varieties often utilizing sugarcane molasses or synthetic acetic acid.
 

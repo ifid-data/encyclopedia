@@ -1,4 +1,4 @@
-**Black Tea**
+# Black Tea
 
 Black tea, known colloquially as *chai* across India, is a fully oxidized tea derived from the leaves of the *Camellia sinensis* plant. While tea originated in China, its widespread cultivation and consumption in India were largely a legacy of British colonial efforts in the 19th century, aimed at breaking China's monopoly. Today, India stands as one of the world's largest producers and consumers of black tea, with iconic regions like Assam, Darjeeling, and the Nilgiris being globally renowned for their distinct varieties. Assam tea is celebrated for its robust, malty flavour, Darjeeling for its delicate muscatel notes, and Nilgiri for its bright, brisk character, each reflecting the unique terroir of its origin.
 

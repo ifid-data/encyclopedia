@@ -1,3 +1,5 @@
+# Green Gram Moong Dal
+
 **Green Gram (Moong Dal)**
 
 Green Gram, widely known as Moong Dal in India, is a small, olive-green pulse (Vigna radiata) with a rich history deeply intertwined with Indian agriculture and cuisine. Originating from the Indian subcontinent, its cultivation dates back thousands of years, making it one of the oldest cultivated crops in the region. The name "Moong" is derived from the Sanskrit word "Mudga," reflecting its ancient roots. It is a vital crop across India, particularly in states like Rajasthan, Maharashtra, Karnataka, and Andhra Pradesh, thriving in arid and semi-arid conditions. Revered in Ayurveda for its ease of digestion and nutritional profile, it holds significant cultural and dietary importance as a staple.

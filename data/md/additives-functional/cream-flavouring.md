@@ -1,4 +1,4 @@
-**Cream Flavouring**
+# Cream Flavouring
 
 Cream Flavouring is a synthetic or natural identical additive designed to impart the characteristic rich, smooth, and slightly sweet taste profile associated with dairy cream. The development of such flavourings emerged from the broader food science movement to replicate natural tastes, allowing for consistency, cost-effectiveness, and the creation of novel food experiences. While not a traditional ingredient in ancient Indian culinary texts, its use has become ubiquitous in modern Indian food processing, reflecting global trends in convenience and processed foods. These flavourings are typically manufactured through complex chemical processes, combining various aromatic compounds to mimic the volatile flavour notes found in real cream.
 

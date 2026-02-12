@@ -1,3 +1,5 @@
+# Sorbic Acid Ins 200
+
 Sorbic Acid (INS 200)
 
 Sorbic Acid, identified by the international food additive code INS 200, is a naturally occurring organic compound first isolated from the berries of the European rowan tree (Sorbus aucuparia) in the mid-19th century. While its origins are botanical, the Sorbic Acid used extensively in the modern food industry is typically synthesized for consistency, purity, and cost-effectiveness. Its introduction to India, like many food additives, coincided with the growth of the processed food sector, moving away from traditional preservation methods like salting, drying, and pickling, towards more standardized and scalable industrial solutions. It is not cultivated or sourced as a raw ingredient in India but is imported or manufactured synthetically for industrial application.

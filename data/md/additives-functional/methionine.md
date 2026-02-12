@@ -1,4 +1,4 @@
-**Methionine**
+# Methionine
 
 Methionine is an essential alpha-amino acid, meaning it cannot be synthesized by the human body and must be obtained through dietary intake. Discovered in 1921, its name is derived from its chemical structure, combining "methyl" and "thio" (referring to sulfur). While not a "sourced" ingredient in the botanical sense, it is naturally abundant in a wide array of protein-rich foods. In India, traditional diets provide methionine through staples like various dals (lentils), nuts, seeds, dairy products such as paneer and milk, and for non-vegetarians, through meat, fish, and eggs. Its presence is fundamental to the nutritional value of these foods, rather than being an ingredient added independently.
 

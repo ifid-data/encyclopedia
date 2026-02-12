@@ -1,3 +1,5 @@
+# Gellan Gum Ins 418
+
 Gellan Gum (INS 418)
 
 Gellan gum, identified by the international food additive code INS 418, is a modern hydrocolloid derived from the bacterial fermentation of *Sphingomonas elodea*. Discovered in the 1970s, its origins are purely scientific and industrial, rather than agricultural or traditional. Unlike many ancient Indian ingredients, gellan gum has no historical or linguistic roots in Indian culinary heritage. Its production involves a controlled fermentation process, followed by purification and drying, resulting in a versatile polysaccharide powder. As a contemporary food additive, its sourcing is entirely through specialized manufacturers globally, with India being a significant consumer in its processed food industry.

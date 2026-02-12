@@ -1,4 +1,4 @@
-**Potassium Phosphate**
+# Potassium Phosphate
 
 Potassium phosphate, a group of inorganic salts derived from phosphoric acid and potassium, does not possess a traditional "heritage" in the culinary sense like indigenous spices or grains. Its history is rooted in chemical synthesis and its recognition as an essential mineral for biological functions. While not a native ingredient, its adoption as a food additive and mineral supplement has become widespread globally and within the Indian food industry, reflecting advancements in food science and nutritional understanding. As a vital electrolyte, potassium plays crucial roles in human physiology, including nerve function, muscle contraction, and maintaining fluid balance, with phosphorus being key for bone health and energy metabolism.
 

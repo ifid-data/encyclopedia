@@ -1,3 +1,5 @@
+# Sodium Alginate Ins 401
+
 Sodium Alginate (INS 401) is a natural polysaccharide derived from the cell walls of brown algae (Phaeophyceae), primarily species like *Laminaria*, *Macrocystis*, and *Ascophyllum*. Its discovery and subsequent industrial application trace back to the early 20th century, recognizing its unique gelling and thickening properties. While not indigenous to traditional Indian culinary practices, the raw material, seaweed, is found along India's extensive coastline. However, commercial-scale extraction and processing of alginates for food applications largely rely on imported sources, making it a modern addition to the Indian food processing landscape rather than a historical ingredient.
 
 In the context of Indian home kitchens, Sodium Alginate holds no traditional culinary usage. It is not an ingredient that would typically be found in a household pantry or used in preparing traditional Indian dishes. Its role is purely functional, designed for specific textural and stability enhancements that are generally beyond the scope of conventional home cooking methods, which rely on natural thickeners like flours, starches, or reductions.

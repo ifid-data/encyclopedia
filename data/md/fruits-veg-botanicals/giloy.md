@@ -1,4 +1,4 @@
-**Giloy**
+# Giloy
 
 Giloy, scientifically known as *Tinospora cordifolia*, is a revered herbaceous vine deeply embedded in the annals of Indian traditional medicine, particularly Ayurveda. Its Sanskrit name, Guduchi, translates to "one that protects the whole body" or "nectar," underscoring its profound significance. Historically, Giloy has been documented in ancient Ayurvedic texts like the Charaka Samhita and Sushruta Samhita for its extensive therapeutic properties. Indigenous to tropical and subtropical regions of India, it thrives as a climbing shrub, often seen entwining around other trees, earning it the epithet "Amrita Valli" (the divine creeper). The stem of the Giloy plant is the primary part utilized for its medicinal value, though leaves and roots also find application.
 

@@ -1,4 +1,4 @@
-**Bromelain**
+# Bromelain
 
 Bromelain is a complex mixture of proteolytic enzymes (proteases) naturally found in the pineapple plant (Ananas comosus), particularly in its stem and fruit. While the pineapple itself is indigenous to South America, it was introduced to India by Portuguese traders in the 16th century, quickly finding fertile ground across the subcontinent. Today, India is a significant producer, with major cultivation concentrated in the North-eastern states like Assam, Meghalaya, and Tripura, as well as West Bengal, Kerala, and Karnataka. The name "Bromelain" is derived from "Bromeliaceae," the botanical family to which pineapple belongs, reflecting its direct plant origin.
 

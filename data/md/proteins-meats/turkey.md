@@ -1,4 +1,4 @@
-**Turkey**
+# Turkey
 
 Turkey (Meleagris gallopavo) is a large, domesticated fowl native to North America, not the country of Turkey as its name might suggest. Its introduction to India is relatively recent, primarily driven by global culinary trends and the demand for diverse poultry options, rather than historical trade routes. Unlike chicken or duck, turkey has no indigenous heritage in Indian cuisine. Commercial farming of turkeys in India is a niche sector, with limited operations, often concentrated in states with a developed poultry industry like Andhra Pradesh and Telangana, though on a much smaller scale compared to chicken. Most of the turkey consumed in India is either from these specialized farms or imported, catering to specific markets.
 

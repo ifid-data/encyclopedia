@@ -1,3 +1,5 @@
+# Fos
+
 **FOS (Fructo-oligosaccharides)**
 
 Fructo-oligosaccharides, commonly abbreviated as FOS, are naturally occurring carbohydrates found in a variety of plants. While the term "FOS" and its industrial application are modern, the compounds themselves have been part of the Indian diet for millennia through indigenous sources like onions, garlic, bananas, and asparagus. These plants, integral to traditional Indian culinary and medicinal practices, have always provided these beneficial compounds, albeit without specific identification in ancient texts. The scientific understanding and isolation of FOS as a distinct ingredient for functional purposes emerged in the 20th century, leading to its global recognition and subsequent introduction into the Indian food industry.

@@ -1,3 +1,5 @@
+# Jiwanti
+
 **Jiwanti (Leptadenia reticulata)**
 
 Jiwanti, botanically known as *Leptadenia reticulata*, is a revered herb in traditional Indian medicine, particularly Ayurveda, where its name literally translates from Sanskrit as "that which gives life" or "vitalizer." It is classified under the 'Jivaniya' group of herbs, known for their life-sustaining and rejuvenating properties. Native to tropical and subtropical regions, Jiwanti thrives as a climbing shrub in the dry deciduous forests of India, commonly found across the Western Ghats, Gujarat, Rajasthan, and Madhya Pradesh, often twining around other trees and shrubs. Its historical use dates back millennia, documented in ancient Ayurvedic texts for its profound therapeutic benefits.

@@ -1,4 +1,4 @@
-**Glucose Syrup**
+# Glucose Syrup
 
 Glucose syrup, often referred to in India as liquid glucose, is a viscous, clear, and sweet solution derived from the hydrolysis of starch. While globally corn starch is a primary source, in India, tapioca and potato starches are also commonly utilized. Its origins trace back to the early 19th century when German chemist Gottlieb Kirchhoff first discovered the process of converting starch into sugar. Its introduction to India coincided with the growth of the processed food industry, becoming an indispensable ingredient in modern confectionery and packaged goods. The term "glucose" itself is derived from the Greek word "glykys," meaning sweet.
 

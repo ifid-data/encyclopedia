@@ -1,3 +1,5 @@
+# Disodium Inosinate Ins 631
+
 Disodium Inosinate (INS 631) is a widely used food additive, primarily functioning as a flavour enhancer. While not an ingredient with ancient Indian culinary roots, its role is intrinsically linked to the modern understanding of umami, the fifth basic taste. Naturally occurring in foods like meat, fish, and some vegetables, its commercial production is typically achieved through the fermentation of sugars or from yeast extract. As a manufactured additive, it does not have specific growing regions in India but is imported or produced by specialized chemical industries.
 
 Unlike traditional spices or ingredients, Disodium Inosinate (INS 631) is not a staple in the Indian home kitchen. Its direct application in home cooking is virtually non-existent. However, the umami effect it provides is a cornerstone of many traditional Indian dishes, achieved through the careful layering of ingredients like ripe tomatoes, mushrooms, fermented products, and slow-cooked meats or dals, which naturally develop rich savoury notes.

@@ -1,3 +1,5 @@
+# Phosphoric Acid
+
 Phosphoric acid (H₃PO₄) is an inorganic acid, a compound of phosphorus, oxygen, and hydrogen. While not a traditional ingredient in Indian culinary heritage, its industrial synthesis dates back to the 18th century, with its widespread application in food processing becoming prominent in the 20th century. Unlike many food ingredients derived from agricultural sources, phosphoric acid is produced through industrial chemical processes, primarily from phosphate rock. Its global production is significant, driven by its diverse applications, including in fertilisers, detergents, and crucially, as a food additive.
 
 In Indian home kitchens and traditional cooking, phosphoric acid finds virtually no direct application. Traditional Indian cuisine relies on naturally occurring acids from ingredients like tamarind, kokum, lemon, and curd for flavour and preservation. Phosphoric acid's role is entirely within the realm of processed foods, where its specific chemical properties are leveraged for functional benefits that cannot be easily replicated by natural alternatives.

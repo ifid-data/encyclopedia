@@ -1,4 +1,4 @@
-**Berry Flavouring**
+# Berry Flavouring
 
 Berry flavourings, as a distinct category, are a relatively modern development in the global food industry, rather than possessing deep roots in traditional Indian culinary heritage. While India is home to various indigenous fruits that might be botanically classified as berries (like Jamun or Karonda), the concept of "berry" as a generic flavour profile, often encompassing strawberries, blueberries, and raspberries, largely stems from Western culinary traditions. The introduction of these flavourings to India coincided with the rise of processed foods and beverages, aiming to replicate popular international tastes. Sourcing for these flavourings can range from natural extracts derived from actual berries to nature-identical or artificial compounds synthesized to mimic their aromatic profiles.
 

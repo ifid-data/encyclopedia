@@ -1,4 +1,4 @@
-**Chamomile**
+# Chamomile
 
 Chamomile, primarily derived from the flowers of *Matricaria chamomilla* (German Chamomile), boasts a rich history dating back to ancient Egypt, Greece, and Rome, where it was revered for its medicinal properties. The name itself, "chamomile," originates from the Greek "chamai melon," meaning "ground apple," a nod to its distinctive apple-like fragrance. While not indigenous to India, chamomile has been introduced and is cultivated in certain temperate regions, though a significant portion is imported to meet the growing demand for herbal remedies and wellness products. Its delicate white petals and yellow center make it easily recognizable, and its heritage is deeply intertwined with traditional European herbalism.
 

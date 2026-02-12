@@ -1,4 +1,4 @@
-**Seaweed**
+# Seaweed
 
 Seaweed refers to various species of marine algae, a diverse group of photosynthetic organisms found in oceans and coastal waters worldwide. While seaweed boasts a millennia-old culinary heritage in East Asian cuisines, particularly in Japan, Korea, and China, its introduction and widespread adoption in mainstream Indian gastronomy are relatively recent. Historically, certain coastal communities in India may have utilized local marine flora for sustenance or traditional medicine, but a pan-Indian culinary tradition centered around seaweed is absent. The growing global interest in its nutritional profile and the influence of international food trends are now driving nascent cultivation efforts along India's extensive coastline, with states like Tamil Nadu and Gujarat exploring its potential.
 

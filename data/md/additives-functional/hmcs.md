@@ -1,4 +1,4 @@
-**HMCS**
+# Hmcs
 
 Hydroxypropyl Methylcellulose (HMCS), often abbreviated as HPMC, is a semi-synthetic polymer derived from cellulose, a natural component of plant cell walls. Unlike traditional Indian ingredients with ancient roots, HMCS is a product of modern food science, developed through chemical modification of cellulose. Its origins lie in industrial chemistry, where cellulose is treated with propylene oxide and methyl chloride to create a versatile hydrocolloid. It is not cultivated or sourced from specific regions in India in the traditional sense, but rather manufactured globally by chemical companies and imported or produced domestically for industrial applications.
 

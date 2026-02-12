@@ -1,4 +1,4 @@
-**Whey Powder**
+# Whey Powder
 
 Whey powder, a versatile dairy ingredient, traces its origins as a byproduct of cheesemaking, a process with ancient roots globally, including in the Indian subcontinent where milk coagulation for products like *paneer* and *chhena* has been practiced for millennia. Historically, the liquid whey was often discarded or used as animal feed, but its nutritional value was recognized in traditional remedies. The industrialization of cheesemaking in the 20th century led to the development of drying technologies, transforming liquid whey into a stable, transportable powder. In India, major dairy-producing states contribute to the raw material, with modern processing facilities converting it into various forms of whey powder.
 

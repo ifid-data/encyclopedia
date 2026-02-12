@@ -1,4 +1,4 @@
-**Shatavari**
+# Shatavari
 
 Shatavari, botanically known as *Asparagus racemosus*, is a revered herb in Ayurvedic medicine, deeply embedded in India's traditional healing heritage. The name "Shatavari" itself is Sanskrit, often translated as "she who possesses a hundred husbands" or "curer of a hundred diseases," alluding to its profound rejuvenating and adaptogenic properties, particularly for women's health. Native to India, Nepal, and Sri Lanka, this thorny, climbing plant thrives in tropical and subtropical regions, with its fleshy, tuberous roots being the primary part used. Its historical mentions are abundant in ancient Ayurvedic texts like the Charaka Samhita and Sushruta Samhita, underscoring its long-standing significance.
 

@@ -1,4 +1,4 @@
-**Coconut Water**
+# Coconut Water
 
 Coconut water, known as *nariyal pani* in Hindi and *elaneer* in Tamil, is the clear liquid found within young, green coconuts. Indigenous to tropical regions, particularly Southeast Asia and Polynesia, the coconut palm (Cocos nucifera) has been an integral part of India's coastal ecosystems and cultural fabric for millennia. Major coconut-producing states in India include Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, Goa, and Maharashtra, where it thrives in the humid, saline environments. Beyond its culinary role, coconut water holds significant cultural and religious importance, frequently offered in Hindu rituals and considered a symbol of purity and prosperity.
 

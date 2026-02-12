@@ -1,4 +1,4 @@
-Leek
+# Leek
 
 Leek (scientific name: *Allium ampeloprasum* var. *porrum*) is a member of the *Allium* genus, which also includes onions, garlic, chives, and shallots. Originating in the Mediterranean region and Central Asia, leeks have been cultivated for thousands of years, with historical records tracing their use back to ancient Egypt, Greece, and Rome. While not indigenous to India, their presence in the Indian culinary landscape is a relatively modern phenomenon, primarily driven by the increasing popularity of global cuisines. Commercial cultivation in India is limited, often found in cooler, temperate regions or grown in niche agricultural setups to cater to specific market demands, with a significant portion still being imported or grown in home gardens for personal consumption.
 

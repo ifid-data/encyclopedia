@@ -1,4 +1,4 @@
-**Star Anise**
+# Star Anise
 
 Star Anise (*Illicium verum*), a distinctive star-shaped spice, traces its origins to Southern China and Vietnam, where it has been a culinary and medicinal staple for centuries. Its introduction to India, primarily through ancient trade routes, positioned it as a prized, albeit less indigenous, aromatic. The English name directly reflects its unique morphology, while its botanical classification highlights its distinct lineage. Though not extensively cultivated in India, it is widely imported and integrated into various regional cuisines, particularly those influenced by historical trade and cultural exchange.
 

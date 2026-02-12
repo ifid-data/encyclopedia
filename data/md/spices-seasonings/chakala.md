@@ -1,4 +1,4 @@
-**Chakala**
+# Chakala
 
 Chakala, widely recognized as Patthar Phool (literally "stone flower") or Black Stone Flower, is an edible lichen belonging to genera such as *Parmotrema* or *Heterodermia*. Despite its common name, it is not a flower but a unique symbiotic organism of fungi and algae that thrives on rocks, trees, and decaying wood in specific ecological niches. Its integration into Indian culinary traditions, particularly across the Deccan plateau and parts of South India, speaks to a long and rich heritage. While precise historical records of its introduction are scarce, its consistent presence in ancient spice blends underscores its deep roots. It is primarily sourced from forested, hilly terrains, often collected by indigenous communities, and then dried for commercial distribution. The name "Chakala" is particularly prevalent in Marathi and Konkani cuisines, highlighting its regional significance.
 

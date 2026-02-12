@@ -1,4 +1,4 @@
-**Sesame**
+# Sesame
 
 Sesame (Sesamum indicum), known as 'Til' in Hindi, 'Ellu' in Tamil, and 'Nuvvulu' in Telugu, is one of the world's oldest cultivated oilseed crops, with archaeological evidence suggesting its domestication in the Indian subcontinent over 5,000 years ago. Its Sanskrit name, 'Tila', underscores its ancient and integral role in Indian culture and cuisine. Primarily grown in semi-arid tropical and subtropical regions, India is a significant global producer, with major cultivation areas spanning Rajasthan, Gujarat, West Bengal, Madhya Pradesh, Uttar Pradesh, and parts of Andhra Pradesh and Telangana. The plant yields small, flat, oval seeds, which can be white, black, or brown, each possessing distinct flavour profiles.
 

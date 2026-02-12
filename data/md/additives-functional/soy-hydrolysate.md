@@ -1,4 +1,4 @@
-**Soy Hydrolysate**
+# Soy Hydrolysate
 
 Soy hydrolysate, also known as soya protein hydrolysate, represents a modern, industrially processed derivative of the ancient soybean. Originating in East Asia, soybeans (Glycine max) have been cultivated for millennia, primarily for their oil and protein content. While whole soybeans and their derivatives like tofu and soy milk have a long history in Asian cuisines, the concept of protein hydrolysis is a relatively recent technological advancement. In India, soy cultivation has seen significant growth, particularly in states like Madhya Pradesh and Maharashtra, driven by demand for edible oil and animal feed, subsequently expanding the availability of soy protein for further processing.
 

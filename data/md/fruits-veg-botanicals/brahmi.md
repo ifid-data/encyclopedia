@@ -1,4 +1,4 @@
-**Brahmi**
+# Brahmi
 
 Brahmi, botanically known as *Bacopa monnieri*, is a revered herb deeply embedded in the ancient Indian system of Ayurveda. Its name, derived from "Brahma" (the creator god) or "Brahman" (universal consciousness), reflects its traditional association with enhancing intellect, memory, and spiritual clarity. Native to the wetlands and marshy regions of India, particularly abundant in the North-Eastern states, West Bengal, and parts of South India, Brahmi has been a cornerstone of traditional medicine for millennia, documented in classical Ayurvedic texts for its nootropic and adaptogenic properties.
 

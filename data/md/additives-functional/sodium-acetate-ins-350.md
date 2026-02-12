@@ -1,3 +1,5 @@
+# Sodium Acetate Ins 350
+
 **Sodium Acetate (INS 350)**
 
 Sodium Acetate (INS 350) is a synthetic compound, the sodium salt of acetic acid, which is the primary component of vinegar. As such, its "heritage" is rooted in chemical synthesis rather than traditional agricultural sourcing. While not a botanical or a spice, its utility as a food additive has made it a ubiquitous presence in modern food systems globally, including India, where its use is regulated by the Food Safety and Standards Authority of India (FSSAI). Its name directly reflects its chemical composition: "sodium" from the alkali metal and "acetate" derived from acetic acid, highlighting its scientific origin.

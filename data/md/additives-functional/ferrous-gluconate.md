@@ -1,4 +1,4 @@
-**Ferrous Gluconate**
+# Ferrous Gluconate
 
 Ferrous Gluconate is a synthetic iron salt of gluconic acid, primarily valued for its role in addressing iron deficiency. Unlike traditional culinary ingredients, it does not possess a historical or heritage presence in Indian home cooking. Its introduction to India is a modern phenomenon, driven by advancements in nutritional science and public health initiatives aimed at combating widespread iron deficiency anaemia. The term "ferrous" derives from the Latin *ferrum* for iron, while "gluconate" refers to its organic acid component, gluconic acid, a mild acid found naturally in fruits and honey. This compound is industrially synthesized for its specific properties as an iron source.
 

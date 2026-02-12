@@ -1,4 +1,4 @@
-**Bibhitaki**
+# Bibhitaki
 
 Bibhitaki, botanically known as *Terminalia bellirica*, is a revered fruit in traditional Indian medicine, particularly Ayurveda. Its name, derived from Sanskrit "Vibhitaka," translates to "fearless" or "that which takes away disease," underscoring its ancient therapeutic significance. Also commonly known as Baheda or Beleric Myrobalan, this deciduous tree is indigenous to the plains and lower hills of India, extending across Southeast Asia. Its presence is deeply woven into the fabric of Indian herbal heritage, with references dating back thousands of years in classical Ayurvedic texts.
 

@@ -1,4 +1,4 @@
-**Truffle**
+# Truffle
 
 Truffles are the highly prized, subterranean fruiting bodies of ascomycete fungi, primarily belonging to the *Tuber* genus. Historically revered in European culinary traditions, particularly in France and Italy, their name derives from the Latin "tuber," meaning "lump" or "swelling." Unlike common mushrooms, truffles grow underground in symbiotic relationships with the roots of specific trees like oak, hazel, and beech. Their introduction to India is relatively recent, driven by the burgeoning gourmet food market and increasing global culinary exposure, making them a luxury import rather than a native or traditionally sourced ingredient. The most sought-after varieties, such as the black truffle (*Tuber melanosporum*), are harvested using trained dogs or pigs, underscoring their rarity and high value.
 

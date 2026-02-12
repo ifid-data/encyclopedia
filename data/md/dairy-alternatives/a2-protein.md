@@ -1,4 +1,4 @@
-**A2 Protein**
+# A2 Protein
 
 A2 protein refers to a specific variant of beta-casein, one of the primary proteins found in milk. Historically, indigenous Indian cattle breeds such as Gir, Sahiwal, Rathi, and Kankrej have predominantly produced milk containing the A2 beta-casein protein. This genetic trait is believed to be the ancestral form of beta-casein, with the A1 variant emerging later due to a genetic mutation. The resurgence of interest in A2 protein in India is deeply rooted in the traditional reverence for native cow breeds and their milk, often considered superior for its perceived health benefits. Sourcing for A2 milk typically involves dairy farms that specifically breed and test their cattle to ensure they produce only A2 beta-casein milk.
 

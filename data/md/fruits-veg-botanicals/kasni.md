@@ -1,4 +1,4 @@
-**Kasni**
+# Kasni
 
 Kasni, botanically identified as *Cichorium intybus* or common chicory, holds a venerable place in India's traditional medicinal systems, particularly Ayurveda and Unani. Its name, derived from Sanskrit, reflects its ancient recognition and widespread use. While not strictly native to India, it has been naturalized and cultivated across various regions, thriving in temperate climates, and is often found growing wild. Historically, its roots and leaves have been valued for their therapeutic properties, with references dating back centuries in classical texts for their role in supporting liver and digestive health.
 

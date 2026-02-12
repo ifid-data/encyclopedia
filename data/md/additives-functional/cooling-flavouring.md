@@ -1,4 +1,4 @@
-**Cooling Flavouring**
+# Cooling Flavouring
 
 The concept of a "cooling sensation" in food is deeply ingrained in Indian culinary traditions, historically achieved through natural ingredients like mint (pudina), fennel (saunf), cardamom (elaichi), and even certain spices like black pepper, which, despite its heat, can contribute to a complex sensory profile. Modern "cooling flavourings" are a sophisticated evolution, developed by flavour technologists to replicate and enhance these sensations. These are typically proprietary blends of compounds, often derived from natural sources or synthesized, designed to activate specific cold receptors in the mouth and throat, providing a refreshing feeling without actually lowering the food's temperature.
 

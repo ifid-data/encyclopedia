@@ -1,4 +1,4 @@
-**Wheat Gluten**
+# Wheat Gluten
 
 Wheat gluten is a complex of proteins, primarily gliadin and glutenin, naturally present in wheat and related grains like barley and rye. Historically, its functional properties have been leveraged implicitly in Indian cuisine through the extensive use of wheat flour for staples like *roti*, *chapati*, *puri*, and *naan*. While not traditionally extracted and used as a standalone ingredient in home kitchens, the concept of gluten's elasticity and structure has been central to the texture of these beloved breads. Globally, its isolation dates back centuries, particularly in East Asian vegetarian traditions where it forms the basis of "seitan" or "wheat meat." In India, wheat is a major crop, especially in the northern states, providing the raw material for this protein.
 

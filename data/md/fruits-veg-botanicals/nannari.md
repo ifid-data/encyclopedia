@@ -1,4 +1,4 @@
-**Nannari**
+# Nannari
 
 Nannari, botanically known as *Hemidesmus indicus*, is a revered root indigenous to the Indian subcontinent, particularly prevalent in the Southern states. Often referred to as Indian Sarsaparilla, its name "Nannari" itself, derived from Tamil and Malayalam, signifies "good fragrance," a testament to its distinctive aromatic properties. For centuries, this root has been a cornerstone in Ayurvedic and Siddha traditional medicine, valued for its cooling, detoxifying, and blood-purifying attributes. Historically, it was wild-harvested from forests, though some cultivation now occurs to meet demand, primarily in regions like Andhra Pradesh, Telangana, and Tamil Nadu.
 

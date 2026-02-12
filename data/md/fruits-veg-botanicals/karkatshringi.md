@@ -1,4 +1,4 @@
-**Karkatshringi**
+# Karkatshringi
 
 Karkatshringi, botanically identified as *Pistacia integerrima*, is a significant ingredient in traditional Indian medicine, particularly Ayurveda. Its name, derived from Sanskrit, literally translates to "crab's horn," a vivid descriptor for the distinctive, horn-shaped galls that form on the leaves and petioles of the tree. Native to the sub-Himalayan regions, this deciduous tree thrives in the temperate forests of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand. The galls, which are the primary part used, are a result of insect infestation, leading to the plant's defensive growth. Historically, Karkatshringi has been revered for its therapeutic properties, with mentions in ancient Ayurvedic texts highlighting its role in various formulations.
 

@@ -1,3 +1,5 @@
+# Guava
+
 The guava, scientifically *Psidium guajava*, is a tropical fruit believed to have originated in Central or South America. It was introduced to India by the Portuguese in the 16th century and quickly adapted to the subcontinent's diverse climates. Known as 'Amrood' in Hindi, 'Peru' in Marathi, 'Koyya' in Tamil, and 'Jaam' in Bengali, it has become an integral part of Indian horticulture and cuisine. Major guava-producing states in India include Uttar Pradesh (particularly the Allahabad region, famed for its specific varieties), Bihar, Maharashtra, Andhra Pradesh, and Punjab, where it thrives in subtropical conditions.
 
 In Indian homes, guava is cherished for its sweet, tangy, and often musky flavour. It is most commonly enjoyed fresh, often sprinkled with a mix of salt and chilli powder, a popular street food snack. Traditionally, guavas are transformed into a variety of preserves, including jams, jellies, and the dense, sweet 'guava cheese' (peru barfi). Its pulp is also used to make refreshing juices, nectars, and sometimes incorporated into chutneys or even certain savoury preparations, though less common.

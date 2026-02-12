@@ -1,3 +1,5 @@
+# Polyvinylpyrrolidone Ins 1201
+
 **Polyvinylpyrrolidone (INS 1201)**
 
 Polyvinylpyrrolidone (PVP), identified by the INS number 1201, is a synthetic polymer with a fascinating history rooted in industrial chemistry. Developed in Germany in the 1930s, its unique properties quickly found applications beyond its initial medical uses. Unlike traditional Indian ingredients derived from agriculture or natural sources, PVP is entirely a product of chemical synthesis, making its introduction to India primarily through the import of processed foods and the growth of the domestic food processing industry. It has no historical or linguistic roots in Indian culinary heritage, being a modern functional additive.

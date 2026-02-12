@@ -1,14 +1,14 @@
 canon-slug,status,note
 2'-fucosyllactose,approve,NONE
 a2-protein,approve,NONE
-aavarampoo,approve,NONE
+aavarampoo,approve,"It is a distinct botanical ingredient (Senna auriculata), often sold as dried flowers or powder for herbal infusions and traditional uses, and can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 acai-berry-flavouring,approve,NONE
 acesulfame-potassium-ins-950,approve,NONE
 acetic-acid-ins-260,approve,NONE
 acidity-regulator,delete,Umbrella term.
 active-culture,approve,NONE
 agar-ins-406,approve,NONE
-agnimantha,approve,NONE
+agnimantha,approve,"It is a distinct botanical ingredient (Clerodendrum phlomidis), a key Ayurvedic herb, sold as dried roots/bark or powder. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 ajwain-carom-seeds,approve,NONE
 alcohol,approve,NONE
 algal-oil,approve,NONE
@@ -22,7 +22,7 @@ amino-acids,approve,NONE
 amla,approve,NONE
 ammonia,approve,NONE
 ammonium-phosphatides-ins-442,approve,NONE
-amra,approve,NONE
+amra,approve,"It is a distinct fruit (Indian Hog Plum or Spondias pinnata), used in various Indian culinary preparations like pickles and chutneys. The fruit itself is sold standalone. It is already present in the reference canon list."
 aniseed,approve,NONE
 anjeer-fig,approve,NONE
 annatto-ins-160b,approve,NONE
@@ -46,7 +46,7 @@ aspartame,approve,NONE
 athimathuram,approve,NONE
 bael,approve,NONE
 baking-powder,approve,NONE
-bala,approve,NONE
+bala,approve,"It is a distinct botanical ingredient (Sida cordifolia), an important Ayurvedic herb sold as powder or dried herb. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 balm,approve,NONE
 banana,approve,NONE
 barley,approve,NONE
@@ -63,10 +63,10 @@ berries,approve,NONE
 berry-flavouring,approve,NONE
 beta-carotene-ins-160a,approve,NONE
 betelnut,approve,NONE
-bhringraj,approve,NONE
+bhringraj,approve,"It is a distinct botanical ingredient (Eclipta prostrata), a well-known Ayurvedic herb sold as powder or dried leaves. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 bht-ins-321,approve,NONE
 bhut-jolokia,approve,NONE
-bibhitaki,approve,NONE
+bibhitaki,approve,"It is a distinct botanical ingredient (Terminalia bellirica), one of the three fruits in Triphala, sold as dried fruit or powder. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 bifidobacterium,approve,NONE
 biotin,approve,NONE
 black-cardamom,approve,NONE
@@ -80,11 +80,11 @@ blackcurrant,approve,NONE
 blueberry-flavouring,approve,NONE
 blueberry,approve,NONE
 bok-choy,approve,NONE
-brahma-thandu,approve,NONE
-brahmi,approve,NONE
+brahma-thandu,approve,"It is a distinct botanical ingredient (Argemone mexicana), a specific plant used in traditional medicine. It can be purchased as a standalone item (e.g., dried herb or seeds) in an Indian retail context. It is already present in the reference canon list."
+brahmi,approve,"It is a distinct botanical ingredient (Bacopa monnieri), a highly regarded Ayurvedic herb widely sold as fresh leaves, dried leaves, or powder. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 bran,approve,NONE
 bread-improvers,delete,Umbrella term.
-brihati,approve,NONE
+brihati,approve,"It is a distinct botanical ingredient (Solanum indicum), an Ayurvedic herb whose fruits are also used as a vegetable in some regional cuisines. It can be purchased as a standalone item (dried roots/fruits or powder) in an Indian retail context. It is already present in the reference canon list."
 brilliant-blue-ins-133,approve,NONE
 brine,approve,NONE
 bromelain,approve,NONE
@@ -116,13 +116,13 @@ catechu,approve,NONE
 celery,approve,NONE
 cellulose-gum-ins-466,approve,NONE
 cereal-extract,approve,NONE
-chakala,approve,NONE
+chakala,approve,"A highly regional spice, that is often flagged by AI due to the non documentated nature of it. But is a true ingredient used in unique spice blends."
 chakka,approve,NONE
 chamomile,approve,NONE
 cheese-powder,approve,NONE
 cheese,approve,NONE
 cherries,approve,NONE
-chhareela,approve,NONE
+chhareela,approve,"Chhareela, also known as 'stone flower' (Parmelia Perlata, Pathar Phool, or Dagad Phool), is a specific lichen used as a spice in Indian cuisine. It imparts a smoky, earthy, and umami flavor and is a key ingredient in various regional Indian spice blends. It is available as a standalone spice in Indian markets, fulfilling the 'Box/Bottle Rule' and qualifying as a distinct 'Personality'."
 chhena,approve,NONE
 chia-seeds,approve,NONE
 chicken,approve,NONE
@@ -143,7 +143,7 @@ choline-bitartrate,approve,NONE
 choline-chloride,approve,NONE
 chromium,approve,NONE
 cinnamon,approve,NONE
-citharathai,approve,NONE
+citharathai,approve,"Citharathai, also known as Lesser Galangal, is a specific herb used in Indian culinary and traditional medicine. It is available as ""Chitharathai Powder"" and is used for its flavor and medicinal benefits, such as a cough remedy and immunity booster. It is sold as a standalone product, satisfying the 'Box/Bottle Rule' and representing a distinct 'Personality'."
 citric-acid-ins-330,approve,NONE
 citron,approve,NONE
 citrus-fiber,approve,NONE
@@ -245,9 +245,9 @@ fruit-flavouring,delete,Umbrella term.
 fruit-juice,delete,Umbrella term.
 fruit,delete,umbrella term
 fumaric-acid,approve,NONE
-gajar-flavouring,approve,NONE
+gajar-flavouring,merge,"'Gajar' is the Hindi term for 'carrot'. This slug is a direct synonym for 'carrot-flavouring', which is already in the reference canon list."
 gambhari,approve,NONE
-gaozaban-flavouring,approve,NONE
+gaozaban-flavouring,approve,'Gaozaban' is a specific Indian herb (Borage/Onosma bracteatum) with distinct culinary uses. 'Gaozaban-flavouring' represents a unique flavoring agent derived from this herb and is already present in the reference canon list.
 garcinia-cambogia,approve,NONE
 garlic-flavouring,approve,NONE
 garlic,approve,NONE
@@ -293,7 +293,7 @@ hemicellulase,approve,NONE
 herbs,approve,NONE
 hibiscus,approve,NONE
 hmb,approve,NONE
-hmcs,approve,NONE
+hmcs,flag,"HMCS stands for High-Maltose Corn Syrup, a specific type of sweetener and preservative derived from corn starch. While it is a distinct ingredient and not an umbrella term, it is not currently in the reference canon list."
 honey-flavouring,approve,NONE
 honey,approve,NONE
 hops,approve,NONE
@@ -327,8 +327,8 @@ kantakari,approve,NONE
 karela,approve,NONE
 karkatshringi,approve,NONE
 kasni,approve,NONE
-kewra-flavouring,approve,NONE
-khar,approve,NONE
+kewra-flavouring,approve,'Kewra' is a distinct fragrant extract widely used in Indian cuisine. 'Kewra-flavouring' represents a unique flavoring agent derived from this extract and is already present in the reference canon list.
+khar,approve,"'Khar' is a traditional alkaline ingredient, often derived from banana peels or other plant ashes, specifically used in Assamese cuisine. It is sold as a standalone item and represents a distinct culinary personality in India."
 khoa,approve,NONE
 khorasan,approve,NONE
 khus,approve,NONE
@@ -337,8 +337,8 @@ kokum-fat,approve,NONE
 kombucha,approve,NONE
 kutki,approve,NONE
 l-carnitine,approve,NONE
-l-hpc,approve,NONE
-l-n-neotetraose,approve,NONE
+l-hpc,flag,"L-HPC stands for Low-substituted Hydroxypropyl Cellulose, a specific cellulose derivative used as a food additive (e.g., disintegrant, binder, thickener). It is a distinct chemical entity and not an umbrella term, but it is not currently in the reference canon list."
+l-n-neotetraose,approve,"L-N-neotetraose (LNnT) is a specific human milk oligosaccharide (HMO) used as a functional ingredient, particularly in infant formula. It is a distinct chemical personality and not an umbrella term."
 l-theanine,approve,NONE
 lactase,approve,NONE
 lactic-acid-ins-270,approve,NONE
@@ -376,12 +376,12 @@ mango-flavouring,approve,NONE
 mango-kernel-fat,approve,NONE
 mango,approve,NONE
 margarine,approve,NONE
-mashaparni,approve,NONE
+mashaparni,approve,"It is a distinct botanical ingredient (Teramnus labialis), an Ayurvedic herb primarily used in traditional medicine, sold as dried herb or powder. It can be purchased as a standalone item in an Indian retail context. It is already present in the reference canon list."
 mayonnaise,approve,NONE
 mct,approve,NONE
 menthol,approve,NONE
 methionine,approve,NONE
-methocel,approve,NONE
+methocel,flag,"Methocel is a brand name for methylcellulose and hydroxypropyl methylcellulose (HPMC) products, which are specific cellulose ethers used as thickeners, binders, and emulsifiers. While these are distinct chemical personalities (Methylcellulose INS 461, HPMC INS 464), the canon list does not contain generic entries for 'methylcellulose' or 'hydroxypropyl-methylcellulose', only 'cellulose-gum-ins-466' and 'microcrystalline-cellulose-ins-460'. Therefore, 'methocel' as a brand name for these specific, approved additives should be flagged for consideration of adding the generic chemical names."
 microcrystalline-cellulose-ins-460,approve,NONE
 milk-components,delete,Umbrella term.
 milk-flavouring,approve,NONE
@@ -403,19 +403,19 @@ monk-fruit,approve,NONE
 mono-and-diglycerides-of-fatty-acids-ins-471,approve,NONE
 moringa,approve,NONE
 moth-bean,approve,NONE
-mudgaparni,approve,NONE
+mudgaparni,approve,"Mudgaparni (Vigna trilobata or Phaseolus trilobus), also known as ""wild green gram,"" is a distinct Ayurvedic herb with culinary uses in India, such as in soups. It is sold as a standalone powder or as part of Ayurvedic formulations."
 mulberry,approve,NONE
 multigrain,delete,Umbrella term.
 multivitamins,delete,Umbrella term.
 munakka-flavouring,approve,NONE
 mushroom,approve,NONE
 musli,approve,NONE
-musta,approve,NONE
+musta,approve,"Musta (Cyperus rotundus), or Nagarmotha, is a distinct Ayurvedic herb primarily used for its medicinal properties, particularly for digestive issues. It is sold as a standalone Ayurvedic ingredient, typically in powder form."
 mustard-oil,approve,NONE
 mustard,approve,NONE
-nannari,approve,NONE
+nannari,approve,"Nannari (Indian Sarsaparilla, Hemidesmus indicus) is a distinct herb widely used in South Indian cuisine for its cooling properties. Its roots are processed into syrup, which is a popular standalone product used to make refreshing beverages like Nannari Sherbet."
 nata-de-coco,approve,NONE
-navsadar,approve,NONE
+navsadar,approve,"'Navsadar' is the Indian vernacular term for Ammonium Chloride (INS 510), which is an approved food additive (acidity regulator, flour treatment agent) in India. It is a distinct chemical ingredient and can be purchased as a standalone item."
 neem,approve,NONE
 niacin-vitamin-b3,approve,NONE
 niger-seed,approve,NONE
@@ -460,7 +460,7 @@ phenylalanine,approve,NONE
 phosphates-additives,approve,NONE
 phosphoric-acid,approve,NONE
 phosphorus,approve,NONE
-phyllanthus-niruri,approve,NONE
+phyllanthus-niruri,approve,"Phyllanthus niruri (Keelanelli or Bhumyamalaki) is a distinct medicinal herb recognized by FSSAI as an ingredient in nutraceuticals. It is sold as a standalone herb, extract, or powder for its traditional health benefits."
 phytomenadione,approve,NONE
 pigeon-pea-toor-dal,approve,NONE
 pineapple-flavouring,approve,NONE
@@ -489,17 +489,17 @@ potassium-sorbate-ins-202,approve,NONE
 potassium,approve,NONE
 potato,approve,NONE
 precooked-pasta,approve,NONE
-prishniparni,approve,NONE
+prishniparni,approve,"Prishniparni (Uraria picta) is a distinct and revered Ayurvedic herb, part of the Dashamoola group, known for its therapeutic properties in respiratory, immune, and digestive health. It is sold as a standalone Ayurvedic ingredient, typically as dried roots or powder."
 probiotics,approve,NONE
 propylene-glycol-esters-of-fatty-acids-ins-477,approve,NONE
 psyllium,approve,NONE
-pueraria-tuberosa,approve,NONE
+pueraria-tuberosa,approve,"Pueraria tuberosa, commonly known as Indian Kudzu or Vidarikand, is a distinct plant with large tuberous roots used in traditional Indian medicine and cuisine as a cooling agent. Its roots and powder are sold as standalone ingredients and are recognized by FSSAI."
 pullulan-ins-1204,approve,NONE
 pulses,delete,Umbrella term.
 pumpkin-seeds,approve,NONE
 pumpkin,approve,NONE
-punarnava,approve,NONE
-pushkara,approve,NONE
+punarnava,approve,"Punarnava (Boerhavia diffusa) is a distinct plant whose leaves, roots, and flowers are used for both culinary purposes (as a leafy green vegetable in dishes like dal curry) and extensive medicinal applications in Ayurveda. It is sold as fresh leaves, powder, or supplements."
+pushkara,approve,"Pushkara (Inula racemosa) is a distinct and important Ayurvedic herb, primarily valued for its benefits in respiratory and cardiac conditions. It is sold as a standalone Ayurvedic ingredient, typically as root powder."
 pvp-ins-1202,approve,NONE
 pyridoxine-hydrochloride-vitamin-b6,approve,NONE
 quillaja-extract-ins-999,approve,NONE
@@ -526,16 +526,16 @@ sago,approve,NONE
 sal-fat,approve,NONE
 salt,approve,NONE
 sandalwood,approve,NONE
-satva,approve,NONE
+satva,delete,"In the context of food ingredients in India, ""Satva"" most commonly refers to starch extracted from roots or tubers, hence an umbrella term.'"
 seasoning,approve,NONE
 seaweed,approve,NONE
 seeds,delete,Umbrella term/category.
 semolina,approve,NONE
 sequestrant-ins-385,approve,NONE
 sesame,approve,NONE
-sesbania,approve,NONE
-shalaparni,approve,NONE
-shankhapushpi,approve,NONE
+sesbania,approve,"Sesbania (specifically Sesbania grandiflora, or Vegetable Hummingbird tree) is a distinct plant whose edible leaves, flowers, and young pods are widely consumed as vegetables in Indian cuisine, often added to curries, soups, and salads. Its fresh leaves and flowers are sold in markets."
+shalaparni,approve,"Shalaparni (Desmodium gangeticum) is a distinct and significant Ayurvedic herb, also part of the Dashamoola group, known for its anti-inflammatory and neuroprotective properties. It is sold as a standalone Ayurvedic ingredient, typically as roots or powder."
+shankhapushpi,approve,"Shankhpushpi (Convolvulus pluricaulis) is a distinct and widely recognized Ayurvedic herb in India, known for its cognitive and calming properties. It is commonly sold as a standalone ingredient in various forms such as powder, syrup, and capsules in Indian retail contexts, aligning with the 'Box/Bottle Rule' and representing a unique 'Personality' in the PMEST classification."
 shatavari,approve,NONE
 shati,approve,NONE
 shea-butter,approve,NONE

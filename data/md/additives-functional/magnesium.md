@@ -1,3 +1,5 @@
+# Magnesium
+
 Magnesium is an essential mineral, vital for numerous physiological functions in the human body. While the element itself was identified in the 18th century, its presence in various natural food sources has been integral to human diets for millennia. In India, traditional diets rich in whole grains, legumes, nuts, seeds, and green leafy vegetables have historically provided ample magnesium. These dietary staples, cultivated across diverse agro-climatic zones, ensured a consistent intake of this crucial mineral long before its scientific classification.
 
 In Indian home kitchens, magnesium is not an ingredient added directly but is naturally abundant in many staple foods. Whole wheat (atta) used for rotis, various dals (lentils) like moong and chana, and a wide array of nuts such as almonds and cashews, are significant sources. Green leafy vegetables like spinach (palak) and fenugreek (methi), frequently incorporated into curries and sabzis, also contribute substantially. The traditional emphasis on a diverse, plant-rich diet inherently supports adequate magnesium intake, playing a role in everything from muscle function to energy production.

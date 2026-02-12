@@ -1,4 +1,4 @@
-**Paprika**
+# Paprika
 
 Paprika, derived from the dried and ground fruits of the *Capsicum annuum* plant, traces its origins to Central Mexico, from where it was introduced to Europe by Spanish explorers in the 16th century. It gained significant culinary prominence in Hungary, becoming a cornerstone of its national cuisine, and subsequently spread globally. The name "paprika" itself is Hungarian, stemming from the Serbo-Croatian word "paprena," meaning peppery. While not indigenous to India, paprika was introduced through trade and cultural exchange, finding its way into modern Indian kitchens. Today, much of the paprika used in India is imported, though some varieties of mild red chillies grown in regions like Karnataka and Andhra Pradesh are occasionally processed and marketed as paprika-like products, primarily for their vibrant colour.
 

@@ -1,4 +1,4 @@
-**Silver Leaf**
+# Silver Leaf
 
 Silver leaf, known in India as *Chandi ka Warq*, is a delicate, edible metallic foil used primarily for decorative purposes in traditional Indian cuisine. Its origins trace back centuries, deeply embedded in the opulent culinary traditions of the Mughal era, where it symbolized luxury and grandeur. The term "Warq" itself is derived from Persian, meaning leaf or foil. Historically, it was produced by meticulously hammering pure silver into incredibly thin sheets, a laborious process often involving layers of parchment or leather. Today, while artisanal methods persist, much of the commercial silver leaf is produced using specialized machinery, ensuring consistent thickness and purity. Food-grade silver leaf is typically sourced from manufacturers adhering to strict purity standards, often 99.9% pure silver.
 

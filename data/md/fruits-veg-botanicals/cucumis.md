@@ -1,4 +1,4 @@
-**Cucumis**
+# Cucumis
 
 The term "Cucumis" refers to a genus within the gourd family, Cucurbitaceae, encompassing a diverse array of plants whose fruits are widely consumed globally, with a particularly rich heritage in India. Originating in parts of Africa and Asia, species within the *Cucumis* genus have been cultivated for millennia, playing a significant role in ancient agricultural practices and culinary traditions. India is considered a primary centre of diversity and domestication for several key *Cucumis* species, including the common cucumber and various melons. The genus name itself is Latin, reflecting early botanical classifications, but its members are deeply embedded in Indian vernaculars and regional food systems, cultivated across almost all states, from the plains of Uttar Pradesh to the southern peninsular regions.
 

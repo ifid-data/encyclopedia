@@ -1,4 +1,4 @@
-**Karela**
+# Karela
 
 Karela, scientifically known as *Momordica charantia*, is a distinctive tropical vine widely cultivated for its edible fruit, commonly referred to as bitter gourd or bitter melon. Originating likely from Southeast Asia, Karela has been an integral part of Indian agriculture and culinary traditions for millennia, deeply embedded in Ayurvedic medicine. Its name, "Karela," is prevalent across Hindi-speaking regions, while it is known by various other regional appellations such as Pavakkai in Tamil, Karat in Marathi, and Kakarakaya in Telugu, reflecting its widespread presence. This unique gourd thrives in India's tropical and subtropical climates, with significant cultivation across states like Andhra Pradesh, Telangana, Maharashtra, and Uttar Pradesh.
 

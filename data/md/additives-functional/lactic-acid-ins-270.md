@@ -1,3 +1,5 @@
+# Lactic Acid Ins 270
+
 Lactic Acid (INS 270)
 
 Lactic Acid, identified as INS 270 in its food additive form, is an organic acid with a profound, albeit often indirect, presence in Indian culinary heritage. Its origins trace back to ancient fermentation processes, where it is naturally produced by lactic acid bacteria metabolizing sugars. Swedish chemist Carl Wilhelm Scheele first isolated it from sour milk in 1780, giving it its name from the Latin word 'lac' for milk. In India, its natural generation is fundamental to a vast array of traditional foods, from the ubiquitous dahi (yogurt) and chaas (buttermilk) to the leavening of idli and dosa batters, and the preservation of various pickles and chutneys. While not "sourced" from a specific region in the agricultural sense, its ubiquitous presence in fermented foods across all Indian states underscores its deep cultural integration.

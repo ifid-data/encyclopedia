@@ -1,3 +1,5 @@
+# Color Generic
+
 **Color (Generic)**
 
 In the rich tapestry of Indian cuisine, the aesthetic appeal of food, often conveyed through vibrant hues, is as crucial as its flavour and aroma. Historically, India has utilized a diverse palette of natural colorants derived from indigenous spices, fruits, and vegetables. Turmeric (*haldi*) for its golden yellow, saffron (*kesar*) for its regal orange, beetroot for deep reds, and spinach for greens have been integral to traditional cooking, lending visual delight to dishes like biryanis, sweets, and curries. The Sanskrit term *varna* and Hindi *rang* encapsulate this deep cultural appreciation for colour in food, signifying not just appearance but often auspiciousness and sensory experience.

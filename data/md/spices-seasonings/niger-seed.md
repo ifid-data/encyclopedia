@@ -1,4 +1,4 @@
-**Niger Seed**
+# Niger Seed
 
 Niger seed (*Guizotia abyssinica*), known by various regional names such as Ramtil in Hindi, Karale in Marathi, and Uchellu in Kannada, is an ancient oilseed crop believed to have originated in the Ethiopian highlands. Introduced to India centuries ago, it has since become a vital rain-fed crop, particularly across the Deccan plateau and central Indian states. Major cultivation areas include Maharashtra, Karnataka, Andhra Pradesh, Telangana, Madhya Pradesh, Odisha, and Chhattisgarh. Thriving in marginal lands, Niger seed is a crucial source of livelihood for many tribal and rural communities, valued for its resilience and oil-rich seeds.
 

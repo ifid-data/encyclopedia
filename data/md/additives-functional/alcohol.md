@@ -1,4 +1,4 @@
-**Alcohol**
+# Alcohol
 
 Alcohol, specifically ethyl alcohol or ethanol, is a compound with a rich and complex history, deeply intertwined with human culture and sustenance. Its origins in India trace back millennia, primarily through fermented beverages like *Sura*, *Arishtas*, and *Asavas*, which were not only consumed for pleasure but also held significant roles in religious rituals and Ayurvedic medicine as potent solvents and carriers for herbal extracts. The term "alcohol" itself is derived from Arabic, reflecting its historical journey and scientific understanding. Industrially, ethanol is primarily produced through the fermentation of sugars derived from grains (like rice, maize), fruits, or molasses, making its sourcing diverse and widespread across agricultural regions.
 

@@ -1,3 +1,5 @@
+# Stearic Acid
+
 Stearic Acid is a saturated fatty acid, naturally occurring in both animal fats and many vegetable oils. Its name is derived from the Greek word "stear," meaning tallow, reflecting its historical association with animal fats. While not cultivated, it is a significant component of fats like cocoa butter, shea butter, and palm oil, all of which have found extensive use in India's culinary and industrial landscape. Its presence in these fats contributes to their solid or semi-solid state at room temperature, a characteristic valued in various food preparations.
 
 In traditional Indian home kitchens, Stearic Acid is not used as a standalone ingredient. Instead, it is inherently present in the fats commonly employed, such as ghee, butter, and various vegetable oils. Its contribution is subtle but crucial, influencing the texture, mouthfeel, and stability of dishes. For instance, the richness and solidity of ghee, often used for frying and tempering, are partly attributable to its stearic acid content. Similarly, in traditional sweets and savouries prepared with solid fats, stearic acid plays a role in achieving the desired consistency and shelf life.

@@ -1,4 +1,4 @@
-**Shalaparni**
+# Shalaparni
 
 Shalaparni, botanically known as *Desmodium gangeticum*, is a revered herb deeply embedded in the traditional Indian medicinal system of Ayurveda. Its name, derived from Sanskrit, translates to "house-leaved" or "stable-leaved," possibly alluding to its broad leaves or its role in fortifying health. As a vital component of the 'Dashamoola' (ten roots) group of herbs, Shalaparni has been documented in ancient texts for its therapeutic properties. This perennial shrub thrives across the Indian subcontinent, particularly in the sub-Himalayan regions, plains, and deciduous forests, making it readily accessible for traditional practitioners.
 

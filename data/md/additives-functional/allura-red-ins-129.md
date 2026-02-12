@@ -1,3 +1,5 @@
+# Allura Red Ins 129
+
 Allura Red (INS 129) is a synthetic azo dye, a vibrant red food colour widely used in the food and beverage industry. Developed in the 1970s as a replacement for other red dyes, it quickly gained global acceptance due to its stability and bright hue. In India, it is identified by its International Numbering System (INS) code 129 and is also known internationally as FD&C Red 40. As a synthetic compound, it has no natural origin or traditional sourcing methods, being entirely a product of chemical synthesis. Its introduction marked a shift towards more consistent and cost-effective colouring agents in processed foods.
 
 Unlike traditional Indian colourants derived from natural sources like turmeric or beetroot, Allura Red finds no place in home kitchens or traditional culinary practices. Its application is exclusively industrial, where it provides a consistent and intense red shade that is difficult to achieve with natural alternatives. It is not an ingredient that would be purchased or used by a home cook for daily meal preparation, nor does it have any historical or cultural significance in traditional Indian cuisine.

@@ -1,4 +1,4 @@
-**Sadhakuppai**
+# Sadhakuppai
 
 Sadhakuppai, known widely as Dill in English and 'Suva' in Hindi and Gujarati, is an ancient aromatic herb and spice with a rich history in Indian culinary and medicinal traditions. Its Sanskrit name, 'Shatapushpa,' meaning "hundred flowers," alludes to its delicate, umbrella-like flower clusters. While native to Western Asia and the Mediterranean, dill has been cultivated in India for centuries, particularly in states like Rajasthan, Gujarat, and Uttar Pradesh, where its seeds and leaves are integral to regional cuisines. Its introduction to India likely occurred through ancient trade routes, integrating seamlessly into local agricultural and gastronomic practices.
 

@@ -1,4 +1,4 @@
-**Pomegranate Flavouring**
+# Pomegranate Flavouring
 
 The essence of pomegranate, or *anar* as it is known across India, has been cherished for millennia, deeply embedded in the subcontinent's culinary and cultural fabric. While the fruit itself boasts a rich history, originating from the region spanning Iran to northern India and cultivated extensively since ancient times, "Pomegranate Flavouring" represents a modern technological endeavor to capture and replicate its distinctive taste profile. This flavouring is typically derived through various methods, including the extraction of natural aromatic compounds from the fruit or the synthesis of nature-identical compounds, designed to mimic the complex sweet, tart, and slightly astringent notes of fresh pomegranate. Its development reflects a global trend in food science to deliver consistent and accessible taste experiences.
 

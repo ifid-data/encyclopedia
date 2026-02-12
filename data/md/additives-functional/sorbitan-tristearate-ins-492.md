@@ -1,3 +1,5 @@
+# Sorbitan Tristearate Ins 492
+
 **Sorbitan Tristearate (INS 492)**
 
 Sorbitan Tristearate (INS 492) is a synthetic food additive, specifically a lipophilic emulsifier derived from sorbitol (a sugar alcohol) and stearic acid (a fatty acid). Unlike traditional Indian ingredients with ancient roots, its history is tied to modern food science and the development of functional additives. It is produced through the esterification of sorbitol with three molecules of stearic acid, resulting in a waxy, solid substance. As a manufactured ingredient, it is not sourced from agricultural regions in India but is imported or produced by chemical synthesis for industrial applications.

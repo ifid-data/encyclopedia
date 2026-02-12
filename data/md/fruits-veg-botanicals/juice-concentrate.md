@@ -1,4 +1,4 @@
-**Juice Concentrate**
+# Juice Concentrate
 
 Juice concentrate represents a significant advancement in food preservation, tracing its modern industrial origins to the early 20th century, though ancient cultures practiced rudimentary forms of fruit juice reduction for preservation and sweetening. In India, the concept gained prominence with the rise of packaged beverages, allowing for the year-round availability of seasonal fruits. Sourcing for concentrates primarily involves major fruit-growing regions across India, such as Maharashtra for oranges and grapes, Andhra Pradesh and Telangana for mangoes, and Himachal Pradesh for apples, where fruits are processed close to their harvest to ensure freshness before concentration. The term "concentrate" itself is English, denoting a substance where the solvent (water) has been largely removed to increase the proportion of the solute (fruit solids).
 

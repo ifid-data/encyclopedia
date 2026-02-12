@@ -1,4 +1,4 @@
-**Potato**
+# Potato
 
 The potato, scientifically *Solanum tuberosum*, is a starchy tuber of the plant family Solanaceae, native to the Andes region of South America. Introduced to India by the Portuguese in the 17th century, it quickly integrated into the subcontinent's agricultural and culinary landscape. Known widely as "Aloo" in Hindi, a term derived from the Portuguese "Batata," it is now a staple crop, with major cultivation concentrated in states like Uttar Pradesh, West Bengal, Bihar, Gujarat, and Punjab. Its adaptability to diverse climates and high yield made it an invaluable addition, profoundly shaping Indian food culture.
 

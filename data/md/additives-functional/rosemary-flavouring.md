@@ -1,4 +1,4 @@
-Rosemary Flavouring
+# Rosemary Flavouring
 
 Rosemary ( *Rosmarinus officinalis* ), a fragrant evergreen shrub native to the Mediterranean region, has a relatively recent history in the Indian culinary landscape. While not indigenous, its cultivation has expanded in certain parts of India, particularly in cooler climates, for both ornamental and culinary purposes. The name "rosemary" derives from Latin "ros marinus," meaning "dew of the sea," reflecting its coastal origins. As a flavouring, it represents the aromatic essence of this herb, captured through various extraction or synthesis methods to impart its distinctive piney, peppery, and woody notes.
 

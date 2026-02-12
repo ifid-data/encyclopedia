@@ -1,4 +1,4 @@
-**Sodium Molybdate**
+# Sodium Molybdate
 
 Sodium molybdate is the sodium salt of molybdic acid, primarily valued as a stable and bioavailable source of the essential trace mineral molybdenum. While not a traditional ingredient with a culinary heritage in India, its significance lies in its role as a micronutrient. Molybdenum is crucial for the function of several enzymes in the human body, including sulfite oxidase, xanthine oxidase, and aldehyde oxidase, which are involved in metabolism and detoxification processes. Its presence in the Indian diet is typically through naturally occurring sources like legumes, grains, and leafy green vegetables, rather than direct historical culinary application of the salt itself.
 

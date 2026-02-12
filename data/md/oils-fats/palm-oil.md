@@ -1,4 +1,4 @@
-**Palm Oil**
+# Palm Oil
 
 Palm oil, derived from the fruit of the oil palm tree (Elaeis guineensis), originated in West Africa, where it has been a dietary staple for millennia. Its significant introduction to India occurred post-independence, driven by the nation's need to bridge its edible oil deficit. India has since become a leading global importer and consumer. Domestically, oil palm cultivation has expanded, with Andhra Pradesh and Telangana emerging as primary producing states, complemented by contributions from Kerala, Karnataka, and the Andaman & Nicobar Islands. The term "palm oil" directly denotes its botanical source.
 

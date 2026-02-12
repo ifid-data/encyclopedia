@@ -1,4 +1,4 @@
-Magnesium Salts
+# Magnesium Salts
 
 Magnesium, an essential mineral, has been recognized for its physiological importance since ancient times, though its specific "salts" were not historically isolated for culinary use in India. The element itself is ubiquitous, found abundantly in seawater, the Earth's crust (e.g., dolomite, magnesite), and naturally in a wide array of plant-based foods integral to the Indian diet, such as whole grains, legumes, nuts, seeds, and green leafy vegetables. While specific magnesium compounds like Epsom salt (magnesium sulfate) have a long history in traditional medicine globally for their laxative and therapeutic bath properties, their introduction into the Indian food system as distinct ingredients is a modern development, driven by advancements in food science and nutritional understanding. Sourcing for industrial applications typically involves extraction from mineral deposits or seawater, followed by chemical synthesis to produce various salt forms.
 

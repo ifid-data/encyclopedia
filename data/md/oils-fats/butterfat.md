@@ -1,4 +1,4 @@
-**Butterfat**
+# Butterfat
 
 Butterfat, the lipid component of milk, holds a venerable position in Indian culinary and cultural heritage, deeply intertwined with the nation's ancient dairy traditions. Its origins are as old as dairy farming itself, with references to clarified butter (ghee), which is essentially anhydrous butterfat, appearing in Vedic texts as a sacred and essential substance. Sourced primarily from the milk of cows and buffaloes, butterfat is a ubiquitous ingredient across India, reflecting the widespread practice of animal husbandry. The distinct characteristics of butterfat, such as its rich flavour and unique texture, are influenced by the animal source, with cow fat typically yielding a yellower hue due to beta-carotene, while buffalo fat is whiter and often higher in fat content.
 

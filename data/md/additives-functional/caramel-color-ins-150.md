@@ -1,3 +1,5 @@
+# Caramel Color Ins 150
+
 Caramel Color (INS 150)
 
 Caramel Color, designated as INS 150 in the international numbering system for food additives, is one of the oldest and most widely used food colorants globally. Its origins trace back to ancient culinary practices of heating sugars to achieve a rich brown hue and distinct flavour. While the term "caramel" itself is derived from the French and Spanish, ultimately from the Latin *cannamella* (sugar cane), the practice of browning sugar for culinary purposes is universal. In India, the concept of using burnt sugar to impart colour and depth to dishes, particularly in traditional sweets, gravies, and some meat preparations, has existed for centuries, long before the advent of standardized industrial caramel colour. Today, the raw materials for industrial caramel colour production, primarily carbohydrates like glucose syrup, sucrose, and invert sugar, are sourced globally, with India being a significant consumer and producer of these base sugars.

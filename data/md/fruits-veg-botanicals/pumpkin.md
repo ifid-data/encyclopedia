@@ -1,4 +1,4 @@
-**Pumpkin**
+# Pumpkin
 
 Pumpkin, known widely as *kaddu* in Hindi and by various regional names such as *kumbalakai* (Kannada) or *gummadikaya* (Telugu), is a versatile fruit botanically classified as a berry, belonging to the *Cucurbita* genus. Originating in the Americas, pumpkins were introduced to India through the Columbian Exchange and have since become deeply integrated into the subcontinent's agricultural and culinary landscape. They are widely cultivated across India, thriving in tropical and subtropical climates, with significant production in states like Uttar Pradesh, Bihar, and West Bengal, where they are a staple crop.
 

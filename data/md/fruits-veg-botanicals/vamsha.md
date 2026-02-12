@@ -1,4 +1,4 @@
-**Vamsha**
+# Vamsha
 
 Vamsha, botanically identified as *Bambusa bambos*, is deeply rooted in India's natural heritage. The term "Vamsha" itself is Sanskrit for bamboo, reflecting its indigenous status and long-standing presence in the subcontinent. This robust species of bamboo is native to South Asia, thriving across tropical and subtropical regions of India, particularly in states like Andhra Pradesh, Telangana, and Karnataka. While the bamboo plant has myriad uses, "Vamsha" in the context of traditional medicine and nutraceuticals specifically refers to Banslochan, a siliceous, crystalline exudate found within the hollow internodes of the bamboo stem. This unique substance has been revered in Ayurvedic and Unani systems of medicine for centuries, valued for its distinct mineral composition.
 

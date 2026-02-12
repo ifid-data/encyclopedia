@@ -1,4 +1,4 @@
-**Rose Flavouring**
+# Rose Flavouring
 
 Rose, or *gulab* in Hindi, holds a revered place in Indian culture, deeply intertwined with history, spirituality, and gastronomy. Its origins trace back to ancient Persia, from where it was introduced to India, flourishing under the Mughal Empire which popularized its use in perfumery, medicine, and cuisine. The name "gulab" itself is derived from Persian "gul" (flower) and "ab" (water), signifying rose water. While fresh roses and rose water have been traditionally sourced from regions like Kannauj in Uttar Pradesh and Pushkar in Rajasthan, known for their rose cultivation, the advent of rose flavouring represents a modern industrial approach to capturing this cherished aroma and taste.
 

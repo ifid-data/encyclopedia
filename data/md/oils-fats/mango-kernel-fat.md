@@ -1,4 +1,4 @@
-**Mango Kernel Fat**
+# Mango Kernel Fat
 
 Mango Kernel Fat (MKF) is a unique vegetable fat extracted from the seed (kernel) of the mango fruit (Mangifera indica), a fruit deeply embedded in India's cultural and agricultural landscape for millennia. While the mango fruit itself has been revered since ancient times, the commercial extraction and utilization of its kernel fat are a more recent development, driven by principles of sustainability and value addition to agricultural by-products. Sourcing primarily occurs in major mango-producing states across India, such as Uttar Pradesh, Andhra Pradesh, Karnataka, and Maharashtra, where large-scale mango processing generates significant quantities of kernels.
 

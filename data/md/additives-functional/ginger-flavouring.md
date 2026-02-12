@@ -1,4 +1,4 @@
-**Ginger Flavouring**
+# Ginger Flavouring
 
 Ginger flavouring is a concentrated extract or synthetic compound designed to impart the characteristic pungent, spicy, and aromatic notes of the *Zingiber officinale* root. The ginger plant itself boasts a rich history, originating in maritime Southeast Asia and cultivated in India for millennia. It is deeply embedded in Indian culinary and medicinal traditions, with mentions in ancient Ayurvedic texts for its therapeutic properties. While the natural root is sourced from various regions across India, particularly in states like Kerala, Karnataka, and Andhra Pradesh, ginger flavouring is a product of modern food technology, developed to replicate this complex profile for industrial applications.
 

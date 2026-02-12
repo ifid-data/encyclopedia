@@ -1,4 +1,4 @@
-**Vitamin D**
+# Vitamin D
 
 Vitamin D, often dubbed the "sunshine vitamin," holds a unique place in human physiology and nutrition, particularly relevant in the Indian context. Its discovery in the early 20th century was pivotal in understanding and preventing rickets, a bone-deforming disease. While the term "vitamin" (from "vital amine") was coined before its chemical structure was fully understood, Vitamin D is technically a prohormone, synthesized in the skin upon exposure to ultraviolet B (UVB) radiation. Despite India's abundant sunlight, Vitamin D deficiency remains a widespread public health concern, attributed to factors like indoor lifestyles, air pollution, and traditional clothing that limits skin exposure, underscoring the need for dietary and supplemental sources.
 

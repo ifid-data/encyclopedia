@@ -1,4 +1,4 @@
-**Khar**
+# Khar
 
 Khar, an ancient alkaline salt, holds a significant place in India's culinary heritage, particularly in traditional snack preparation. The term "khar" itself, meaning alkaline or salty in various Indian languages, points to its fundamental nature. Historically, khar was sourced from the ashes of specific plants, such as banana stems or certain grasses, which were leached with water to extract the alkaline salts. This traditional method of preparation, often a household practice, predates the widespread availability of modern leavening agents. Today, while still available in its traditional form, commercial khar is often a refined mineral salt, typically a blend of sodium carbonate and potassium carbonate, sometimes with traces of sodium bicarbonate. Its use is deeply embedded in regional culinary practices, especially across Western and Eastern India.
 

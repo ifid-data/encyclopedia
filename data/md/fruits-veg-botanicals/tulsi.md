@@ -1,4 +1,4 @@
-**Tulsi**
+# Tulsi
 
 Tulsi, scientifically known as *Ocimum tenuiflorum*, holds a revered position in Indian culture, often referred to as "Holy Basil" due to its profound spiritual and medicinal significance. Originating from the Indian subcontinent, its name derives from Sanskrit, meaning "the incomparable one," underscoring its unique status. This aromatic perennial herb is ubiquitous across India, found in almost every Hindu household and temple garden, symbolizing purity and well-being. While it thrives in various climates, its cultivation is widespread, particularly in states like Uttar Pradesh, Madhya Pradesh, and Rajasthan, where it is grown for both domestic use and commercial herbal production. Its deep roots in Ayurveda, India's traditional system of medicine, date back thousands of years, where it is celebrated as a potent adaptogen.
 

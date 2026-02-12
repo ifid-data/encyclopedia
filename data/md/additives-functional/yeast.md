@@ -1,4 +1,4 @@
-**Yeast**
+# Yeast
 
 Yeast, primarily *Saccharomyces cerevisiae*, is a single-celled microorganism belonging to the fungus kingdom, revered for its transformative role in food and beverage production for millennia. Its history in India, though not always explicitly documented as "yeast" until modern microbiology, is deeply intertwined with ancient fermentation practices. The leavening of breads and the brewing of alcoholic beverages like *sura* or *toddy* (palm wine) across various regions of the subcontinent implicitly relied on wild yeast strains. Commercial yeast production, often utilizing molasses or beet sugar as a substrate, became widespread in India with the advent of industrial baking and brewing, making it a ubiquitous ingredient in modern food systems.
 

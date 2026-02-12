@@ -1,3 +1,5 @@
+# Bcaa
+
 **Branched-Chain Amino Acids (BCAA)**
 
 Branched-Chain Amino Acids (BCAAs) refer to three essential amino acids: Leucine, Isoleucine, and Valine, characterized by their unique branched molecular structure. These amino acids are deemed "essential" because the human body cannot synthesize them and must obtain them through diet. Their discovery dates back to the early 20th century, with Isoleucine identified in 1904, Leucine in 1905, and Valine in 1901. In India, as globally, BCAAs are not sourced as a raw agricultural product but are derived from protein-rich foods or produced industrially through fermentation processes, often using plant-based substrates.

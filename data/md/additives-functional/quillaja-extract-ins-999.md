@@ -1,3 +1,5 @@
+# Quillaja Extract Ins 999
+
 **Quillaja Extract (INS 999)**
 
 Quillaja Extract, designated as INS 999 in the international food additive system, is derived from the bark of the *Quillaja saponaria* tree, commonly known as the soapbark tree. Native to the arid regions of Chile and other parts of South America, the tree's name "Quillay" originates from the Mapuche indigenous language, meaning "to wash," a testament to its historical use as a natural soap. Its introduction to India is purely as a modern food processing aid, driven by global food technology trends rather than traditional culinary heritage. It is not cultivated in India, and the extract used in Indian food manufacturing is typically imported, primarily from its South American origins.

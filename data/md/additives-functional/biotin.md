@@ -1,4 +1,4 @@
-**Biotin**
+# Biotin
 
 Biotin, also known as Vitamin B7 or Vitamin H, is a water-soluble vitamin essential for numerous metabolic processes in the human body. Discovered in the early 20th century, its significance as a coenzyme in carbohydrate, fat, and protein metabolism became clear. While not a botanical ingredient, biotin is naturally abundant in many foods integral to the Indian diet, including eggs, nuts (like almonds and walnuts), legumes (such as moong dal and chana dal), whole grains, and certain vegetables. The gut microbiota also contributes to its synthesis, making a diverse, fibre-rich Indian diet a natural source.
 

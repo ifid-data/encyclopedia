@@ -1,4 +1,4 @@
-**Sesbania**
+# Sesbania
 
 Sesbania refers to a genus of flowering plants in the legume family, Fabaceae, with *Sesbania grandiflora* being the most prominent species consumed in India. Known by its Sanskrit name "Agastya" and Tamil "Agathi," this fast-growing tree is believed to be indigenous to Southeast Asia and has been cultivated across tropical and subtropical regions for centuries. In India, it is widely grown, particularly in the southern states like Tamil Nadu, Kerala, and Andhra Pradesh, where its leaves and flowers are a cherished part of the local diet. Its name "Agastya" is often associated with the revered sage, reflecting its deep cultural and medicinal roots in the subcontinent.
 

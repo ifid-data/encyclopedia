@@ -1,4 +1,4 @@
-**Mustard Oil**
+# Mustard Oil
 
 Mustard oil, known colloquially as "Sarson ka Tel" in Hindi, boasts a rich history deeply intertwined with Indian culinary and medicinal traditions, dating back thousands of years. Its origins are rooted in ancient India, where mustard seeds were cultivated for both their oil and their use as a spice. Linguistically, "Sarson" refers to the mustard plant, primarily *Brassica juncea* (Indian mustard) or *Brassica rapa* (field mustard), from which the oil is extracted. Major producing regions in India include Rajasthan, Uttar Pradesh, Haryana, and West Bengal, where its cultivation is a significant agricultural activity. Traditionally, the oil is extracted using cold-pressing methods, known as "kachchi ghani," which preserves its characteristic pungent flavour and nutritional profile.
 

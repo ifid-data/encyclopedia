@@ -1,4 +1,4 @@
-**Phytomenadione**
+# Phytomenadione
 
 Phytomenadione, scientifically known as Vitamin K1, is a vital fat-soluble vitamin primarily synthesized by plants. Its name, derived from "phyto" (plant) and "menadione" (a chemical precursor), reflects its botanical origin. Discovered in the 1930s for its crucial role in blood coagulation, Phytomenadione has been an inherent part of the Indian diet for centuries, albeit unknowingly. Its presence is intrinsically linked to the widespread consumption of green leafy vegetables such as spinach (palak), fenugreek (methi), mustard greens (sarson), and various other local 'saags' and herbs, which are cultivated extensively across India and form staples in diverse regional cuisines.
 

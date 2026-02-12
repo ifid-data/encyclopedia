@@ -1,4 +1,4 @@
-**Ferric Ammonium Citrate**
+# Ferric Ammonium Citrate
 
 Ferric Ammonium Citrate (FAC) is a complex iron salt, a modern marvel of food science rather than a traditional ingredient with ancient Indian roots. Its history in India is intertwined with public health initiatives and the industrialization of food, particularly in the latter half of the 20th century. As a chemically synthesized compound, it does not originate from specific botanical sources or growing regions within India. Instead, its presence in the Indian food system is a testament to advancements in nutritional science and the widespread need to combat micronutrient deficiencies. Its name reflects its chemical composition: iron (ferric), ammonium, and citrate, indicating its role as a bioavailable form of iron.
 

@@ -1,4 +1,4 @@
-**Curry Mix**
+# Curry Mix
 
 The term "Curry Mix" is a broad descriptor for a blend of ground spices, primarily a colonial construct developed to encapsulate the complex flavour profiles of Indian cuisine for Western palates. While the word "curry" itself is believed to derive from the Tamil word 'kari', referring to a sauce or gravy, the concept of a pre-packaged "curry powder" or "mix" is not indigenous to traditional Indian home cooking. Historically, Indian households meticulously roasted and ground individual spices fresh for each dish, tailoring blends to specific regional and familial recipes. However, with the advent of convenience and global culinary exchange, various curry mixes have found their way into Indian markets, often adapted to suit local tastes.
 

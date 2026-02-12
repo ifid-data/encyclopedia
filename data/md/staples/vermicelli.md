@@ -1,3 +1,5 @@
+# Vermicelli
+
 Vermicelli, often referred to by its less common synonym "vermicellin," is a type of pasta characterized by its long, thin strands. Originating from Italy, where its name literally translates to "little worms," vermicelli found its way into Indian culinary traditions through various historical influences, including the Mughal era and later through British trade. In India, it is predominantly made from durum wheat semolina (suji) or refined wheat flour (maida), and its production is widespread across the country, with manufacturers sourcing wheat from major grain-producing states.
 
 In Indian home kitchens, vermicelli holds a cherished place, particularly in the realm of desserts. It is the star ingredient in the beloved *Seviyan Kheer*, a creamy milk pudding often flavored with cardamom, nuts, and saffron, and is central to *Sheer Khurma*, a rich, festive dish prepared during Eid. Beyond sweets, vermicelli is also adapted into savory preparations like *Vermicelli Upma*, a quick and nutritious breakfast or snack, and can be incorporated into light pulaos or stir-fries, often after being lightly roasted to enhance its flavor and prevent stickiness.

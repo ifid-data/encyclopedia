@@ -1,4 +1,4 @@
-**Sunflower Creamer**
+# Sunflower Creamer
 
 **History, Heritage & Sourcing:**
 Sunflower creamer is a modern food innovation, not an ingredient with deep historical roots in traditional Indian cuisine. Its emergence is a response to contemporary dietary trends and the growing demand for plant-based, dairy-free alternatives. While the creamer itself is a product of modern food technology, its primary component, sunflower oil, has a significant presence in India. Sunflower cultivation in India, particularly in states like Karnataka, Maharashtra, and Andhra Pradesh, contributes to its availability, though a substantial portion is also imported. The creamer is manufactured by processing sunflower oil, often through emulsification and spray-drying, to create a stable, soluble product designed to mimic the functional properties of dairy cream in various applications.

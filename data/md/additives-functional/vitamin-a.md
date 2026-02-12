@@ -1,4 +1,4 @@
-**Vitamin A**
+# Vitamin A
 
 Vitamin A, a crucial fat-soluble vitamin essential for maintaining healthy vision, robust immune function, and proper cellular growth and differentiation, was scientifically identified in the early 20th century. While the term "Vitamin A" is a scientific construct without direct linguistic roots in Indian languages, its vital role has long been understood through traditional dietary wisdom. Indian cuisine naturally incorporates numerous rich sources of this nutrient, primarily through animal products like ghee and milk, eggs, and a diverse array of colourful fruits and vegetables such as carrots, mangoes, papaya, and leafy greens like spinach and fenugreek. These natural sources, particularly those abundant in provitamin A carotenoids, have historically been fundamental to nutritional well-being across the subcontinent.
 

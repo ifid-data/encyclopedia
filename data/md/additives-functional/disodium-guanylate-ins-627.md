@@ -1,3 +1,5 @@
+# Disodium Guanylate Ins 627
+
 **Disodium Guanylate (INS 627)**
 
 Disodium Guanylate, identified by the food additive code INS 627, is a potent flavour enhancer widely utilized in the food industry. Chemically, it is the disodium salt of guanylic acid, a naturally occurring nucleotide found abundantly in various organisms. Its discovery and subsequent industrial application are rooted in the broader understanding of "umami," the fifth basic taste, which gained scientific recognition in the early 20th century. While not a traditional ingredient in Indian culinary heritage, its prevalence in processed foods has grown significantly since the mid-20th century, mirroring global trends in convenience food consumption. Industrially, it is typically produced through the fermentation of carbohydrates by specific microorganisms or from yeast extract.

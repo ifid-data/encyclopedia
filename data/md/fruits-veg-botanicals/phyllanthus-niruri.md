@@ -1,4 +1,4 @@
-**Phyllanthus Niruri**
+# Phyllanthus Niruri
 
 Phyllanthus Niruri, widely known in India as Bhumi Amla or Tamalaki, is a small, annual herbaceous plant deeply embedded in the traditional medicinal systems of the subcontinent, particularly Ayurveda. Its name, "Bhumi Amla," literally translates to "earth gooseberry," owing to its small, berry-like fruits that grow beneath its leaves, reminiscent of the larger Amla fruit. Native to tropical and subtropical regions, including vast swathes of India, it thrives in moist, warm climates and is commonly found growing wild in agricultural fields and disturbed lands. Its historical use dates back millennia, documented in ancient Ayurvedic texts for its diverse therapeutic properties.
 

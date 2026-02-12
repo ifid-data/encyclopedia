@@ -1,3 +1,5 @@
+# Diluent Ins 1520
+
 **Diluent (INS 1520)**
 
 Propylene Glycol, designated as INS 1520 by the Food Safety and Standards Authority of India (FSSAI), is a synthetic organic compound with no historical or traditional presence in Indian culinary heritage. Its origins lie in modern industrial chemistry, developed globally and subsequently adopted in India as the processed food industry expanded and international food additive standards were integrated. It is typically derived from petroleum, though bio-based propylene glycol from renewable sources like glycerol is also produced. Its application in India is consistent with global practices for enhancing the stability and functionality of various food products.

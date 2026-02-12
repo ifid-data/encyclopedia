@@ -1,4 +1,4 @@
-**Nata De Coco**
+# Nata De Coco
 
 Nata de Coco, a name derived from Spanish meaning "cream of coconut," is a distinctive chewy, translucent, jelly-like food product. Its origins trace back to the Philippines, where it was developed in 1973 by microbiologist Teodula K. Balagtas as an innovative alternative to traditional coconut-based desserts. This unique ingredient is produced through the bacterial fermentation of coconut water, primarily by *Komagataeibacter xylinus* (formerly *Acetobacter xylinum*), which synthesizes microbial cellulose, forming the characteristic gel. While not indigenous to India, Nata de Coco is predominantly imported, with major sourcing from Southeast Asian nations like the Philippines, Thailand, and Vietnam, where coconut cultivation is extensive and the specialized production process is well-established. It is commonly available in India in its preserved, canned form.
 

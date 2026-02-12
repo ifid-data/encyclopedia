@@ -1,4 +1,4 @@
-**Gluten**
+# Gluten
 
 Gluten is a complex of storage proteins, primarily gliadin and glutenin, naturally found in certain cereal grains like wheat, barley, and rye. While the term "gluten" itself is derived from the Latin word for "glue," reflecting its adhesive properties, its presence in Indian cuisine is as ancient as wheat cultivation itself. Wheat, a staple grain, has been cultivated in the Indian subcontinent since the Indus Valley Civilization, making gluten an intrinsic, unnamed component of the traditional diet for millennia. Major wheat-growing regions in India, such as Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh, are the primary sources of gluten through their flour production.
 

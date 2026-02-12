@@ -1,4 +1,4 @@
-**Salt**
+# Salt
 
 Salt, or *namak* (from Sanskrit *lavana*), is a fundamental mineral compound, primarily sodium chloride, indispensable to human life and culinary traditions worldwide. Its history in India is ancient, with evidence of salt production from coastal regions and inland salt lakes like Sambhar dating back millennia. Historically, salt was a precious commodity, influencing trade routes and even political movements, famously exemplified by Mahatma Gandhi's Dandi March. Major sourcing includes sea salt from coastal states like Gujarat and Tamil Nadu, rock salt (Sendha Namak or Lahori Namak) from the Himalayan foothills, and lake salt.
 

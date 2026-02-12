@@ -1,4 +1,4 @@
-**Kewra Flavouring**
+# Kewra Flavouring
 
 Kewra flavouring is derived from the fragrant flowers of the Kewra plant (*Pandanus odoratissimus*), a tropical shrub native to South Asia, Southeast Asia, and Australia. In India, it is predominantly cultivated in coastal regions, particularly the Ganjam district of Odisha, and parts of Andhra Pradesh, where its flowers are harvested for their highly prized aroma. The name "Kewra" itself is believed to be derived from the Sanskrit word "Ketaki," highlighting its ancient roots in Indian culture and traditional practices. Historically, the essence of Kewra has been extracted through hydro-distillation, a meticulous process that captures the delicate, sweet, and slightly musky notes of the flower.
 

@@ -1,4 +1,4 @@
-**Folic Acid**
+# Folic Acid
 
 Folic acid, also known as Vitamin B9 or pteroylmonoglutamic acid, is a crucial water-soluble vitamin essential for numerous bodily functions, particularly cell growth and DNA synthesis. Its name derives from the Latin "folium," meaning leaf, reflecting its abundance in leafy green vegetables. While not indigenous to India, the understanding of its nutritional significance and the prevalence of folate-rich foods like dals, spinach, and fenugreek leaves in traditional Indian diets highlight its long-standing, albeit unarticulated, presence in the subcontinent's nutritional landscape. Modern nutritional science has underscored its critical role, leading to its widespread recognition and integration into public health initiatives across India.
 

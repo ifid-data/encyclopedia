@@ -1,4 +1,4 @@
-**Pizza Flavouring**
+# Pizza Flavouring
 
 Pizza flavouring, as an ingredient, represents a modern culinary innovation, distinct from the traditional Italian dish it emulates. While pizza itself boasts a rich heritage originating from Naples, Italy, its flavouring counterpart is a product of the globalized food industry. Introduced to India alongside the burgeoning popularity of fast food and convenience snacks, pizza flavouring has no indigenous linguistic roots or traditional sourcing within the subcontinent. Instead, it is typically manufactured through a combination of natural extracts and synthetic compounds, meticulously blended to replicate the characteristic savoury, cheesy, and herbaceous profile of a classic pizza. Its presence in India is a testament to the country's evolving palate and the widespread adoption of international food trends.
 

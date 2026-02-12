@@ -1,3 +1,5 @@
+# Sucrose Acetate Isobutyrate Ins 444
+
 **Sucrose Acetate Isobutyrate (INS 444)**
 
 Sucrose Acetate Isobutyrate (SAIB), designated as INS 444, is a synthetic chemical compound, specifically an ester of sucrose. Unlike many traditional Indian ingredients with deep historical roots, SAIB has no indigenous heritage or cultivation within India. Its development is a product of modern food science, engineered for specific functional properties in processed foods. It is manufactured through the esterification of sucrose with acetic anhydride and isobutyric anhydride. Its presence in the Indian food system is entirely through its inclusion as an approved food additive under FSSAI regulations, reflecting global trends in food technology rather than local culinary traditions.

@@ -1,4 +1,4 @@
-**Interesterified Vegetable Fat**
+# Interesterified Vegetable Fat
 
 Interesterified vegetable fat represents a significant advancement in food technology, rather than possessing a deep historical or traditional culinary lineage in India. This category of fats emerged as a modern solution to modify the physical properties of vegetable oils, primarily to achieve desired textures and melting characteristics in food products. The process of interesterification chemically rearranges the fatty acids within and between triglyceride molecules of various vegetable oils, such as palm oil, palm kernel oil, and sesame oil, without altering their saturation levels. This technique gained prominence globally, and subsequently in India, as a healthier alternative to hydrogenation, which often led to the formation of undesirable trans fats. The raw materials are readily available vegetable oils, with palm oil derivatives being particularly common due to their cost-effectiveness and functional versatility.
 

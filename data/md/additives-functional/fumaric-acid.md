@@ -1,4 +1,4 @@
-**Fumaric Acid**
+# Fumaric Acid
 
 Fumaric acid, a dicarboxylic acid, is a naturally occurring compound found in various plants, including the fumitory plant (*Fumaria officinalis*), bolete mushrooms, and lichen. Historically, its presence in nature was noted, but its industrial synthesis and application as a food additive are relatively modern developments. While not indigenous to traditional Indian culinary practices as a standalone ingredient, its widespread use in processed foods means it is now a common component in the Indian food landscape, primarily sourced through industrial chemical synthesis.
 

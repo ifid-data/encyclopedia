@@ -1,3 +1,5 @@
+# Prishniparni
+
 **Prishniparni (Uraria picta)**
 
 Prishniparni, botanically known as *Uraria picta*, is a revered herb in the ancient Indian system of Ayurveda. Its name, derived from Sanskrit, combines "Prishni" (meaning spotted or variegated) and "Parni" (leaf), aptly describing its distinctive leaves marked with white or purple blotches. This perennial herb has been documented in Ayurvedic texts for millennia, forming a crucial component of the 'Dashamoola' – a group of ten potent roots widely used in traditional medicine. Native to tropical and subtropical regions, Prishniparni thrives across India, commonly found in grasslands, open forests, and along roadsides, particularly in states like Uttar Pradesh, Madhya Pradesh, and Maharashtra. Its historical significance is deeply rooted in its therapeutic properties rather than culinary use.

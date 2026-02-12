@@ -1,3 +1,5 @@
+# Sodium Benzoate Ins 211
+
 **Sodium Benzoate (INS 211)**
 
 Sodium Benzoate (INS 211) is the sodium salt of benzoic acid, a compound naturally found in various fruits and spices such as cranberries, prunes, apples, cinnamon, and cloves. Its preservative properties were first recognized in the late 19th century, leading to its synthetic production for wider application. In India, while benzoic acid is inherent in some traditional ingredients, the use of purified sodium benzoate as an additive is a modern practice, regulated under the Food Safety and Standards Authority of India (FSSAI) guidelines. Its chemical structure allows it to inhibit microbial growth, making it a valuable tool in food preservation.

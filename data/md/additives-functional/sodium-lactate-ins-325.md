@@ -1,3 +1,5 @@
+# Sodium Lactate Ins 325
+
 **Sodium Lactate (INS 325)**
 
 Sodium lactate, the sodium salt of lactic acid, is a versatile food additive with a modern industrial application, though its precursor, lactic acid, has a deep-rooted history in Indian culinary traditions through fermented foods like curd, idli, and various pickles. While not a botanical ingredient, its production is often linked to the fermentation of carbohydrates such as corn starch or sugarcane, which are abundant in India. The resulting lactic acid is then neutralized with a sodium source to produce sodium lactate. Its presence in the food system is a testament to advancements in food technology, allowing for the controlled enhancement and preservation of food products.

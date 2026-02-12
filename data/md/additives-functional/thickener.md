@@ -1,4 +1,4 @@
-**Thickener**
+# Thickener
 
 Thickeners, as a functional class of food additives, represent a diverse group of substances used to increase the viscosity of food products without substantially altering other properties. The concept of thickening agents is ancient, with traditional Indian culinary practices long employing natural starches from grains like rice and wheat, or flours such as besan (chickpea flour), to achieve desired textures. Modern thickeners, however, are derived from a wide array of sources including plant polysaccharides (gums, starches, cellulose derivatives), microbial fermentation products, and even some proteins. Their global sourcing reflects the specific properties required, with common examples like guar gum from India, xanthan gum from microbial fermentation, and various modified starches from corn or tapioca.
 

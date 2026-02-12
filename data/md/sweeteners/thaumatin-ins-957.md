@@ -1,3 +1,5 @@
+# Thaumatin Ins 957
+
 **Thaumatin (INS 957)**
 
 Thaumatin (INS 957) is a naturally occurring, high-intensity protein sweetener and flavour enhancer derived from the arils of the katemfe fruit (Thaumatococcus daniellii), native to the rainforests of West Africa. The name "thaumatin" itself is rooted in the Greek word "thauma," meaning "wonder" or "miracle," reflecting its extraordinary sweetness. Unlike many traditional Indian sweeteners or spices, Thaumatin has no indigenous history or cultivation in India. Its presence in the Indian food landscape is purely as an imported, industrially applied food additive, valued for its unique properties rather than its agricultural heritage within the subcontinent.

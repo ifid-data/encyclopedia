@@ -1,3 +1,5 @@
+# Sunset Yellow Ins 110
+
 **Sunset Yellow (INS 110)**
 
 Sunset Yellow FCF, identified by the International Numbering System (INS) code 110, is a synthetic azo dye widely employed as a food colorant. Unlike traditional Indian ingredients with ancient roots, Sunset Yellow is a product of modern chemical synthesis, introduced to India as part of the globalized food industry. Its name aptly describes the vibrant orange-yellow hue it imparts, reminiscent of a sunset. As a manufactured additive, it has no specific geographical sourcing within India but is imported or produced domestically by chemical manufacturers.

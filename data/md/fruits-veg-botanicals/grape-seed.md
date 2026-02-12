@@ -1,4 +1,4 @@
-**Grape Seed**
+# Grape Seed
 
 Grapes (Vitis vinifera), the source of grape seeds, boast an ancient lineage, cultivated for millennia across the Mediterranean and Middle East before their introduction to India. While grapes themselves have been cherished in India for their sweetness and use in beverages and desserts, the seeds were historically a discarded byproduct of winemaking and juice production. The concept of extracting beneficial compounds from grape seeds is a relatively modern development, gaining traction in the late 20th century. In India, major grape-growing states like Maharashtra, Karnataka, and Andhra Pradesh contribute to the global supply chain, with seeds primarily sourced from processing facilities.
 

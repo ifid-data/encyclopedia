@@ -1,3 +1,5 @@
+# Menthol
+
 Menthol is a cyclic alcohol derived primarily from the essential oils of various mint plants, notably peppermint (Mentha piperita) and corn mint (Mentha arvensis). While mint plants have been integral to Indian traditional medicine and cuisine for millennia, with mentions in Ayurvedic texts for their digestive and cooling properties, menthol as an isolated compound gained prominence with advancements in organic chemistry. India is a significant global producer of menthol, largely extracted from *Mentha arvensis* cultivated extensively in states like Uttar Pradesh, Punjab, and Haryana, making it a key ingredient in numerous domestic and international products.
 
 In traditional Indian home kitchens, menthol is not used in its isolated form. Instead, the cooling and aromatic properties are imparted through the direct use of fresh mint leaves (pudina). These leaves are a staple in chutneys, raitas, refreshing beverages like *nimbu pani* and *jaljeera*, and as a garnish for biryanis and curries. This traditional culinary application highlights the inherent appreciation for the sensory experience that menthol, naturally present in mint, provides.

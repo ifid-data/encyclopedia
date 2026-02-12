@@ -1,4 +1,4 @@
-**Milk Flavouring**
+# Milk Flavouring
 
 Milk, deeply ingrained in India's cultural and culinary fabric, has been revered for millennia, forming the bedrock of countless traditional dishes and beverages. While the consumption of milk in its natural and spiced forms (like *masala doodh*) boasts ancient roots, "Milk Flavouring" represents a modern food technology innovation. These flavourings are typically developed in laboratories, either as natural identical compounds or synthetic blends, designed to replicate the characteristic aroma and taste profile of milk. Their introduction to the Indian market aligns with the growth of the processed food industry, offering a consistent and shelf-stable way to impart milk-like notes without the complexities of using actual dairy.
 

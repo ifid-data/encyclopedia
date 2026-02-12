@@ -1,4 +1,4 @@
-**Hydrogenated Palm Oil**
+# Hydrogenated Palm Oil
 
 Palm oil, extracted from the fruit of the oil palm (Elaeis guineensis), has a history rooted in West Africa. Its significant presence in India, however, is a more recent development, largely driven by post-independence industrialization and the demand for affordable edible oils. India has become one of the world's largest importers of palm oil, primarily sourced from Malaysia and Indonesia. "Hydrogenated Palm Oil" refers to palm oil that has undergone a chemical process called hydrogenation, where hydrogen atoms are added to its unsaturated fatty acids. This industrial modification, rather than the oil itself, is a modern innovation designed to enhance the oil's functional properties and extend its shelf life.
 

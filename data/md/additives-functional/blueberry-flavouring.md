@@ -1,4 +1,4 @@
-**Blueberry Flavouring**
+# Blueberry Flavouring
 
 Blueberry flavouring, a synthetic or natural-identical compound, is designed to replicate the distinct sweet-tart profile of the blueberry fruit (Vaccinium corymbosum). Blueberries are not indigenous to India, originating primarily from North America, and were introduced to the global market relatively recently. The flavouring's presence in India is a direct result of globalization and the increasing demand for international taste profiles in processed foods. As the fresh fruit remains largely an exotic and expensive import, the flavouring provides an accessible means to incorporate its popular taste.
 

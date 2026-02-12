@@ -1,3 +1,5 @@
+# Beta Carotene Ins 160A
+
 Beta-Carotene (INS 160a)
 
 Beta-carotene, a vibrant orange-yellow pigment, derives its name from the carrot (*Daucus carota*), where it was first isolated in the 19th century. The "beta" prefix distinguishes it from other carotenes. While famously associated with carrots, this fat-soluble compound is ubiquitous in the plant kingdom, found in numerous orange, yellow, and green leafy vegetables and fruits. In India, beta-carotene is naturally abundant in a wide array of indigenous produce, including mangoes, pumpkins, sweet potatoes, and various greens, forming an integral part of the traditional diet and contributing to the rich colour palette of Indian cuisine. Its significance extends beyond mere colour, as it is a crucial precursor to Vitamin A.

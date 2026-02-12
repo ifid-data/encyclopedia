@@ -1,4 +1,4 @@
-**Vanilla Flavouring**
+# Vanilla Flavouring
 
 Vanilla, derived from the fruit of the vanilla orchid, primarily *Vanilla planifolia*, boasts a rich history originating in Mesoamerica, where it was revered by the Totonac people and later by the Aztecs. Introduced to India much later, vanilla cultivation is now found in states like Karnataka, Kerala, and Tamil Nadu, though the majority of vanilla flavouring used in India is either imported or synthetically produced. The name "vanilla" itself stems from the Spanish "vainilla," meaning "little pod," referring to the bean-like fruit. Its complex aroma, comprising over 200 compounds, makes it one of the most cherished and expensive spices globally.
 

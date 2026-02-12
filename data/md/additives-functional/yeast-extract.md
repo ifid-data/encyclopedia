@@ -1,4 +1,4 @@
-**Yeast Extract**
+# Yeast Extract
 
 Yeast extract, a versatile flavouring agent, traces its origins to the late 19th century, emerging from the burgeoning brewing industry. Derived primarily from *Saccharomyces cerevisiae*, the same yeast species used in baking and brewing, its production involves a process called autolysis, where the yeast cells' own enzymes break down their proteins into amino acids, peptides, and nucleotides. This rich mixture is then concentrated, often into a paste or powder. While yeast itself has ancient roots in Indian culinary traditions for fermentation, yeast extract as a distinct ingredient is a modern industrial development, not traditionally sourced or produced at a household level in India.
 

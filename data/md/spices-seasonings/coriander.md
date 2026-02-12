@@ -1,4 +1,4 @@
-**Coriander**
+# Coriander
 
 Coriander (*Coriandrum sativum*), known widely in India as *dhania* (from Sanskrit *dhanayaka*), is an ancient herb and spice with a rich history deeply interwoven with global culinary and medicinal traditions. Originating in the Mediterranean and Middle Eastern regions, coriander was introduced to India millennia ago, becoming an indispensable part of Ayurvedic medicine and regional cuisines. Today, India is one of the world's largest producers and consumers of coriander, with significant cultivation concentrated in states like Rajasthan, Madhya Pradesh, Gujarat, Andhra Pradesh, and Tamil Nadu, where its diverse forms are harvested for both domestic use and export.
 

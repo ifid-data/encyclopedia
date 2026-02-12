@@ -1,4 +1,4 @@
-**Hydrolyzed Vegetable Protein**
+# Hydrolyzed Vegetable Protein
 
 Hydrolyzed Vegetable Protein (HVP) is a flavour enhancer derived from various plant-based protein sources through a process called hydrolysis. Historically, the concept of breaking down proteins to enhance flavour has roots in traditional Asian culinary practices, such as the fermentation of soy to create sauces. Modern HVP production, however, emerged in the early 20th century as an industrial method to create cost-effective flavour bases. In India, common sources for HVP include soy, corn, wheat, and groundnut, reflecting the country's agricultural diversity. The hydrolysis process, typically involving acid or enzymes, breaks down complex proteins into their constituent amino acids, peptides, and other flavour compounds, with glutamic acid being a key contributor to its characteristic umami taste.
 

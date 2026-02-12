@@ -1,4 +1,4 @@
-**Toned Milk**
+# Toned Milk
 
 Toned milk is a uniquely Indian innovation, conceptualized and introduced by the National Dairy Development Board (NDDB) in the mid-20th century. Its genesis was rooted in addressing the dual challenges of milk scarcity and malnutrition across India. By processing whole milk with skim milk powder and water, the NDDB aimed to extend the supply of available milk, making it more affordable and accessible to a wider population while still providing essential nutrients. This process allowed for the standardization of milk quality and fat content, a crucial step in the formalization of India's dairy sector, which primarily relies on milk sourced from buffaloes and cows across the country.
 

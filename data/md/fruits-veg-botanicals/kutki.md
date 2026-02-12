@@ -1,4 +1,4 @@
-**Kutki**
+# Kutki
 
 Kutki, botanically known as *Picrorhiza kurrooa*, is a revered medicinal herb indigenous to the high-altitude Himalayan regions of India, particularly Uttarakhand, Himachal Pradesh, and Jammu & Kashmir, extending into Nepal. Its name, often derived from the Sanskrit "katu" meaning bitter, aptly describes its potent taste. Historically, Kutki has been a cornerstone of Ayurvedic and traditional Tibetan medicine for centuries, valued for its profound therapeutic properties. The plant's root and rhizome are the primary parts utilized, harvested with care due to its status as an endangered species, necessitating sustainable collection practices.
 

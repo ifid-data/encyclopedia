@@ -1,4 +1,4 @@
-**Citharathai**
+# Citharathai
 
 Citharathai, botanically identified as *Alpinia officinarum*, is the Tamil name for Lesser Galangal, a rhizomatous herb belonging to the ginger family (Zingiberaceae). Originating from Southern China, this potent spice and medicinal plant was introduced to India centuries ago, deeply integrating into the traditional healing systems of Ayurveda and Siddha. In India, its cultivation is concentrated in the southern states, particularly Tamil Nadu and Kerala, where its aromatic and pungent rhizomes are harvested. Its historical significance is well-documented in ancient texts, highlighting its dual role as a culinary ingredient and a powerful therapeutic agent.
 

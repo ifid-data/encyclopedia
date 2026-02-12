@@ -1,4 +1,4 @@
-**Bok Choy**
+# Bok Choy
 
 Bok Choy, scientifically *Brassica rapa subsp. chinensis*, is a variety of Chinese cabbage originating from East Asia, particularly China. Its name, derived from Cantonese, literally translates to "white vegetable," referring to its characteristic white or pale green stalks. While not indigenous to India, its presence has grown significantly in recent decades, driven by the increasing popularity of pan-Asian cuisine and a globalized culinary landscape. It is primarily cultivated in India in controlled environments or smaller, specialized farms near metropolitan areas to cater to the demand from restaurants, hotels, and urban households experimenting with international flavours.
 

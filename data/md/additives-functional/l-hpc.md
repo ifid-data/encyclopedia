@@ -1,3 +1,5 @@
+# L Hpc
+
 **L-HPC**
 
 L-HPC, or Low-substituted Hydroxypropyl Cellulose, is a semi-synthetic polymer derived from cellulose, a natural plant fiber. Its origins lie primarily in the pharmaceutical industry, where modified cellulose derivatives were developed as excipients to improve drug delivery and stability. While not indigenous to India, L-HPC is widely imported and utilized in the country's burgeoning food and pharmaceutical sectors. Its production involves the chemical modification of cellulose, typically sourced from wood pulp or cotton, through controlled etherification with propylene oxide, resulting in a polymer with a specific degree of hydroxypropyl substitution. This controlled substitution is key to its unique functional properties.

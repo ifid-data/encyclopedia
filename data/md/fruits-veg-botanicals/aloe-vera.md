@@ -1,3 +1,5 @@
+# Aloe Vera
+
 Aloe Vera, known botanically as *Aloe barbadensis miller*, is a succulent plant with a rich history deeply intertwined with traditional Indian medicine, particularly Ayurveda, where it is revered as "Ghrita Kumari" or "Kumari" (meaning "young maiden," alluding to its rejuvenating properties). Originating from the Arabian Peninsula, it was introduced to India centuries ago and is now widely cultivated across arid and semi-arid regions, especially in states like Rajasthan, Gujarat, and Andhra Pradesh, thriving in dry climates. Its historical significance lies in its extensive use in ancient texts for its purported healing attributes.
 
 In traditional Indian home kitchens, Aloe Vera is not a staple culinary ingredient in the same way as vegetables or spices. However, its gel has been historically consumed for its health benefits, often blended into concoctions or fresh juices to aid digestion, boost immunity, and promote overall well-being. It's occasionally incorporated into homemade remedies for skin ailments or consumed as a tonic, reflecting its role more as a medicinal botanical than a conventional food item in domestic settings.

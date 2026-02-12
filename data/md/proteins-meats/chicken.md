@@ -1,4 +1,4 @@
-**Chicken**
+# Chicken
 
 Chicken, derived from the domesticated fowl (Gallus gallus domesticus), originated from the red junglefowl of Southeast Asia, with its presence in the Indian subcontinent dating back millennia. Archaeological findings confirm its ancient and integral role in India's culinary and cultural landscape. Known as 'Murga' (Hindi), 'Kozhi' (Tamil), and 'Kodi' (Telugu), chicken farming is a vital agricultural sector. Major commercial poultry operations thrive across states like Andhra Pradesh, Telangana, Maharashtra, and Punjab, contributing significantly to rural economies and national food supply.
 

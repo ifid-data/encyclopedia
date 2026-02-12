@@ -1,3 +1,5 @@
+# Polysorbate 60 Ins 435
+
 **Polysorbate 60 (INS 435)**
 
 Polysorbate 60, identified by the Food Safety and Standards Authority of India (FSSAI) as INS 435, is a synthetic emulsifier and stabilizer widely utilized in the food industry. Chemically, it is polyoxyethylene (20) sorbitan monostearate, derived from sorbitol, stearic acid, and ethylene oxide. Unlike traditional ingredients, Polysorbate 60 has no historical or traditional roots in Indian culinary heritage, being a product of modern food science. Its introduction to India aligns with the growth of the processed food sector, where it is valued for its ability to bridge oil and water phases, thereby enhancing product stability and texture.

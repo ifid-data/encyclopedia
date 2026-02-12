@@ -1,4 +1,4 @@
-**Wheatgrass**
+# Wheatgrass
 
 Wheatgrass, derived from the young shoots of the common wheat plant (Triticum aestivum), represents a modern health trend rather than a traditional Indian culinary staple. While wheat cultivation boasts ancient roots in India, the practice of consuming its tender, chlorophyll-rich shoots for their purported health benefits gained prominence globally in the 20th century and subsequently in India. It is typically cultivated in controlled environments, either indoors or in small plots, specifically for its leaves, rather than for grain production. Its adoption in India aligns with a growing interest in natural wellness and 'superfoods', resonating with broader Ayurvedic principles of holistic health and rejuvenation, though not explicitly mentioned in classical texts.
 

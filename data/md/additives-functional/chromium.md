@@ -1,3 +1,5 @@
+# Chromium
+
 Chromium is an essential trace mineral, vital for various metabolic processes in the human body, particularly its role in insulin action and glucose metabolism. While not a traditional culinary ingredient in the Indian context, its presence in the diet is crucial. Historically, the understanding of chromium's biological significance emerged in the mid-20th century, identifying it as a key component of the "glucose tolerance factor." In India, dietary chromium is primarily sourced from whole, unprocessed foods that form the bedrock of traditional diets, such as whole grains, certain spices, vegetables, and lean meats.
 
 In home and traditional Indian cooking, chromium is not added directly but is naturally present in many staple ingredients. For instance, whole wheat (atta), various dals (lentils), and spices like black pepper and turmeric contribute to dietary chromium intake. These ingredients, integral to everyday Indian meals, ensure a baseline supply of this micronutrient. Its role here is entirely passive, as a naturally occurring component that supports overall health rather than an active flavouring or processing agent.

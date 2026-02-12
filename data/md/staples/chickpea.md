@@ -1,4 +1,4 @@
-**Chickpea**
+# Chickpea
 
 The chickpea, known in India primarily as *chana* (चना) or *chole* (छोले), boasts an ancient lineage, with archaeological evidence tracing its origins to the Middle East over 7,500 years ago. Introduced to the Indian subcontinent millennia ago, it quickly became a cornerstone of the diet, deeply interwoven with the nation's culinary and agricultural heritage. India is the world's largest producer of chickpeas, with major cultivation concentrated in states like Madhya Pradesh, Rajasthan, Maharashtra, and Uttar Pradesh. Two primary varieties dominate: the larger, lighter-coloured 'Kabuli Chana' (often associated with Afghanistan's Kabul region) and the smaller, darker, rough-coated 'Desi Chana' (meaning 'local' or 'native'), also known as 'Kala Chana'.
 

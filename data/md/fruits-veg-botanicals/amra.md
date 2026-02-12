@@ -1,4 +1,4 @@
-**Amra**
+# Amra
 
 Amra, botanically known as *Spondias pinnata* (often referred to as Indian Hog Plum or Ambarella), is a tropical fruit with a deep-rooted history in the Indian subcontinent. Its name, "Amra," is derived from Sanskrit, signifying its ancient presence and traditional use in the region. Native to tropical Asia, including India, this deciduous tree thrives in diverse climates, particularly in the eastern and southern states such as West Bengal, Odisha, and parts of the Northeast and South India, where it is often found growing wild or semi-cultivated in homesteads and orchards. The fruit is typically harvested during the monsoon and post-monsoon seasons.
 

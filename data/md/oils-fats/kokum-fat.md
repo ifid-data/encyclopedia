@@ -1,4 +1,4 @@
-**Kokum Fat**
+# Kokum Fat
 
 Kokum fat, also known as Kokum Gurgi, is a prized vegetable fat extracted from the seeds of the *Garcinia indica* tree, an indigenous species primarily found in the Western Ghats region of India, particularly in Maharashtra, Goa, and Karnataka. The name "Kokum" itself is derived from Marathi, reflecting its deep roots in the local culture and economy of these areas. Historically, the fruit and its derivatives have been integral to regional culinary and medicinal practices, with the fat being traditionally rendered and used for its emollient and therapeutic properties.
 

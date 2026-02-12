@@ -1,3 +1,5 @@
+# Riboflavin Ins 101
+
 **Riboflavin (INS 101)**
 
 Riboflavin, also known as Vitamin B2, is a vital water-soluble vitamin and a naturally occurring yellow-orange pigment. Its name, derived from the Latin "flavus" meaning yellow, aptly describes its characteristic hue. Discovered in the early 20th century, Riboflavin is ubiquitous in nature, found abundantly in milk, eggs, meat, leafy green vegetables, and certain fortified grains. In India, where nutritional deficiencies remain a public health concern, the natural presence of Riboflavin in traditional dairy products like curd (dahi) and paneer, as well as various greens, contributes significantly to dietary intake. Its historical recognition as an essential nutrient underscores its importance in metabolic processes.

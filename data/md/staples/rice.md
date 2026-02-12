@@ -1,4 +1,4 @@
-**Rice**
+# Rice
 
 Rice (Oryza sativa), a cornerstone of global agriculture and a profound cultural symbol, holds an unparalleled position in India's culinary and socio-economic fabric. Originating in Asia, its cultivation in the Indian subcontinent dates back millennia, with archaeological evidence pointing to ancient farming practices. The Sanskrit term 'vrihi' underscores its deep historical roots. Today, India stands as one of the world's largest producers and consumers, with vast paddy fields stretching across states like West Bengal, Uttar Pradesh, Punjab, Andhra Pradesh, and Telangana, each contributing unique varietals. Beyond sustenance, rice is integral to religious rituals, festivals, and life-cycle ceremonies, symbolizing prosperity and fertility.
 

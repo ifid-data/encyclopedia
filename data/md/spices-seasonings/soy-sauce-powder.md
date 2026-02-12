@@ -1,4 +1,4 @@
-**Soy Sauce Powder**
+# Soy Sauce Powder
 
 Soy sauce, the foundational condiment from which soy sauce powder is derived, boasts a rich history originating in ancient China over 2,500 years ago. This fermented soybean and wheat product spread across East Asia, becoming a staple known as *shoyu* in Japan and *jiangyou* in China. Its introduction to India is a relatively modern phenomenon, primarily accompanying the rise of "Chindian" (Indian-Chinese) cuisine in the 20th century. Soy sauce powder, however, is a more recent innovation, developed for industrial applications. It is not sourced from Indian agriculture but is manufactured by dehydrating liquid soy sauce, often with the addition of carriers like maltodextrin, salt, and wheat, which are integral to the original sauce's fermentation process.
 

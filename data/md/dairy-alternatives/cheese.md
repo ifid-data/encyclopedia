@@ -1,4 +1,4 @@
-**Cheese**
+# Cheese
 
 Cheese, a venerable dairy product derived from milk, boasts a global history spanning millennia, with its origins often traced to ancient Mesopotamia. In India, while the concept of coagulated milk solids has existed for centuries, particularly in the form of *paneer*, the introduction of rennet-set, aged cheeses is a more recent phenomenon, largely influenced by colonial interactions and later, globalization. *Paneer*, an indigenous fresh cheese, is deeply embedded in Indian culinary heritage, with its roots in Vedic texts describing milk coagulation. It is traditionally made from cow or buffalo milk, primarily in northern India, where it is a staple. The broader term "cheese," encompassing varieties like cheddar or processed cheese, gained prominence with the advent of modern dairy processing and refrigeration.
 

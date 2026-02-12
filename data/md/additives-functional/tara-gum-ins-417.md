@@ -1,3 +1,5 @@
+# Tara Gum Ins 417
+
 **Tara Gum (INS 417)**
 
 Tara Gum, identified by the additive code INS 417, is a natural hydrocolloid derived from the endosperm of the seeds of the *Caesalpinia spinosa* tree, commonly known as the Tara tree. Native to the Andean regions of Peru, this leguminous plant has been cultivated for centuries for its pods, which contain tannins, and its seeds, which yield the gum. While the Tara tree itself is not indigenous to India, the gum has become an indispensable ingredient in the modern Indian food processing industry, imported for its versatile functional properties. Its name "Tara" is derived from the local Quechua language, reflecting its South American heritage.

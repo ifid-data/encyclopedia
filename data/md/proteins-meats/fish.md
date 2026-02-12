@@ -1,4 +1,4 @@
-Fish
+# Fish
 
 Fish and its derivatives represent a vital intersection of traditional Indian coastal nutrition and modern functional food science. India’s vast 7,500 km coastline, spanning from the Konkan to the Malabar and Coromandel coasts, has fostered a deep-rooted heritage of fish consumption. Varieties like Mackerel (*Bangda*), Sardines (*Tarli*), and Anchovies (*Nethili*) are staples in regional cuisines, particularly in Kerala, Goa, and West Bengal. Historically, these small pelagic fish were prized not only for their abundance but for their role as a primary protein source for coastal communities. While salmon and cod are largely imported or sourced from colder waters, they have gained significant traction in the Indian urban market due to their perceived premium nutritional status.
 

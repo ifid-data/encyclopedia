@@ -1,4 +1,4 @@
-**HMB**
+# Hmb
 
 HMB, or calcium β-hydroxy-β-methylbutyrate monohydrate, is a naturally occurring metabolite of the essential branched-chain amino acid (BCAA) leucine. While leucine is widely recognized for its role in stimulating muscle protein synthesis, HMB was identified in the 1980s as a key compound responsible for some of leucine's anti-catabolic effects, meaning it helps prevent muscle breakdown. It is not a traditional ingredient in Indian cuisine or ancient Ayurvedic texts, but rather a modern nutritional supplement, typically synthesized as a calcium salt (CaHMB) for stability and bioavailability. Its scientific discovery and subsequent application are rooted in Western sports science, with its introduction to India primarily through the global supplement market.
 

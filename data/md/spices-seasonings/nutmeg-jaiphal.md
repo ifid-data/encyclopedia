@@ -1,3 +1,5 @@
+# Nutmeg Jaiphal
+
 **Nutmeg (Jaiphal)**
 
 Nutmeg, known as Jaiphal in India, is the seed of the *Myristica fragrans* tree, an evergreen native to the Moluccas (Spice Islands) of Indonesia. Its journey to India dates back centuries, facilitated by ancient trade routes, and later solidified by Portuguese influence in the 16th century. The Hindi name "Jaiphal" is derived from the Sanskrit "Jati-phala," meaning "Jati fruit," reflecting its esteemed status. While India is a significant consumer, domestic cultivation is limited, primarily in the southern states of Kerala, Tamil Nadu, and Karnataka, with a substantial portion still imported to meet demand.
