@@ -1,0 +1,623 @@
+--- INGREDIENT FACET AUDIT START ---
+2'-fucosyllactose :: 2'-fucosyllactose :: #functional-class:oligosaccharide :: 2'-fucosyllactose is a specific oligosaccharide, the functional class is important.
+a2-protein :: a2-protein :: #source:milk :: A2 protein is a specific type of milk protein, source is important.
+aavarampoo :: aavarampoo :: #source:plant :: Aavarampoo is a plant-derived ingredient, source is important.
+acai-berry-flavouring :: acai-berry-flavour :: #functional-class:flavouring :: "Flavouring" is the functional class.
+acesulfame-potassium-ins-950 :: acesulfame-potassium :: #ins-950, #functional-class:sweetener :: Acesulfame Potassium is an artificial sweetener with an INS number.
+acetic-acid-ins-260 :: acetic-acid :: #ins-260, #functional-class:acidity-regulator :: Acetic acid is an acidity regulator with an INS number.
+active-culture :: active-culture :: #functional-class:probiotic :: Active culture refers to live microorganisms, functional class is important.
+agar-ins-406 :: agar :: #ins-406, #functional-class:gelling-agent :: Agar is a gelling agent with an INS number.
+agnimantha :: agnimantha :: #source:plant :: Agnimantha is a plant-derived ingredient, source is important.
+ajwain-carom-seeds :: ajwain :: #source:seed :: Ajwain is a seed, source is important.
+alcohol :: alcohol :: #functional-class:solvent :: Alcohol can act as a solvent.
+algal-oil :: algal-oil :: #source:algae :: Algal oil is derived from algae, source is important.
+allspice :: allspice :: #source:spice :: Allspice is a spice, source is important.
+allura-red-ins-129 :: allura-red :: #ins-129, #functional-class:colour :: Allura Red is a food colour with an INS number.
+almond-flavouring :: almond-flavour :: #functional-class:flavouring, #source:almond :: "Flavouring" is the functional class, almond is the source.
+almonds :: almonds :: #source:nut :: Almonds are nuts, source is important for allergen information.
+aloe-vera :: aloe-vera :: #source:plant :: Aloe vera is a plant-derived ingredient, source is important.
+alpha-amylase :: alpha-amylase :: #functional-class:enzyme :: Alpha-amylase is an enzyme, functional class is important.
+amino-acids :: amino-acids :: #functional-class:nutrient :: Amino acids are nutrients, functional class is important.
+amla :: amla :: #source:fruit :: Amla is a fruit, source is important.
+ammonia :: ammonia :: #functional-class:acidity-regulator :: Ammonia can be used as an acidity regulator.
+ammonium-phosphatides-ins-442 :: ammonium-phosphatides :: #ins-442, #functional-class:emulsifier :: Ammonium phosphatides is an emulsifier with an INS number.
+amra :: amra :: #source:fruit :: Amra is a fruit, source is important.
+aniseed :: aniseed :: #source:seed :: Aniseed is a seed, source is important.
+anjeer-fig :: anjeer :: #source:fruit :: Anjeer is a fig, source is important.
+annatto-ins-160b :: annatto :: #ins-160b, #functional-class:colour :: FSSAI requires the specific name and INS number for additives.
+anthocyanins-ins-163 :: anthocyanins :: #ins-163, #functional-class:colour :: FSSAI requires the specific name and INS number for additives.
+anti-foaming-agent-ins-900a :: dimethylpolysiloxane :: #ins-900a, #functional-class:anti-foaming-agent :: FSSAI requires the specific name and functional class for additives.
+apple-flavouring :: apple-flavouring :: #functional-class:flavouring :: Flavourings require declaration of "natural" or "artificial".
+apple :: apple ::  :: Basic ingredient, no specific facets required.
+apricot :: apricot ::  :: Basic ingredient, no specific facets required.
+arachidonic-acid :: arachidonic-acid ::  :: Fatty acid, no specific facets required.
+arginine :: arginine ::  :: Amino acid, no specific facets required.
+aronia-berry :: aronia-berry ::  :: Basic ingredient, no specific facets required.
+arrowroot-powder :: arrowroot ::  :: Basic ingredient, no specific facets required.
+artificial-flavouring :: artificial-flavouring :: #functional-class:flavouring :: Flavourings require declaration of "natural" or "artificial".
+asafoetida-flavouring :: asafoetida-flavouring :: #functional-class:flavouring :: Flavourings require declaration of "natural" or "artificial".
+asafoetida :: asafoetida ::  :: Basic ingredient, no specific facets required.
+ash-gourd :: ash-gourd ::  :: Basic ingredient, no specific facets required.
+ashwagandha :: ashwagandha ::  :: Basic ingredient, no specific facets required.
+aspartame :: aspartame ::  :: Artificial sweetener, needs to be declared by name.
+athimathuram :: athimathuram ::  :: Basic ingredient, no specific facets required.
+bael :: bael ::  :: Basic ingredient, no specific facets required.
+baking-powder :: baking-powder :: #functional-class:raising-agent :: Functional class helps consumers understand purpose.
+bala :: bala ::  :: Basic ingredient, no specific facets required.
+balm :: balm ::  :: Basic ingredient, no specific facets required.
+banana :: banana ::  :: Basic ingredient, no specific facets required.
+barley :: barley ::  :: Basic ingredient, no specific facets required.
+barramundi :: barramundi ::  :: Basic ingredient, no specific facets required.
+basa-fish :: basa-fish ::  :: Basic ingredient, no specific facets required.
+basil :: basil ::  :: Basic ingredient, no specific facets needed.
+basmati-rice :: basmati-rice ::  :: Basic ingredient, no specific facets needed.
+bay-leaf :: bay-leaf ::  :: Basic ingredient, no specific facets needed.
+bcaa :: bcaa ::  :: Needs more context, could require source if derived.
+beans :: beans ::  :: Basic ingredient, no specific facets needed.
+beetroot-red-ins-162 :: beetroot-red :: #ins-162, #functional-class:colour :: FSSAI requires the INS number and functional class for additives.
+bengal-gram-chana-dal :: bengal-gram-chana-dal ::  :: Basic ingredient, no specific facets needed.
+berries :: berries ::  :: Basic ingredient, no specific facets needed.
+berry-flavouring :: berry-flavouring :: #functional-class:flavouring :: Functional class is required for flavourings.
+beta-carotene-ins-160a :: beta-carotene :: #ins-160a, #functional-class:colour :: FSSAI requires the INS number and functional class for additives.
+betelnut :: betelnut ::  :: Basic ingredient, no specific facets needed.
+bhringraj :: bhringraj ::  :: Basic ingredient, no specific facets needed.
+bht-ins-321 :: bht :: #ins-321, #functional-class:antioxidant :: FSSAI requires the INS number and functional class for additives.
+bhut-jolokia :: bhut-jolokia ::  :: Basic ingredient, no specific facets needed.
+bibhitaki :: bibhitaki ::  :: Basic ingredient, no specific facets needed.
+bifidobacterium :: bifidobacterium :: #strain: , #functional-class:probiotic :: Strain information is crucial for probiotics.
+biotin :: biotin ::  :: Basic ingredient, no specific facets needed.
+black-cardamom :: black-cardamom ::  :: Basic ingredient, no specific facets needed.
+black-cumin :: black-cumin ::  :: Basic ingredient, no specific facets needed.
+black-pepper-flavouring :: black-pepper-flavouring :: #functional-class:flavouring :: Functional class is required for flavourings.
+black-pepper :: black-pepper ::  :: Basic ingredient, no specific facets needed.
+black-rice :: black-rice ::  :: Basic ingredient, no specific facets needed.
+black-salt :: black-salt ::  :: Basic ingredient, no specific facets needed.
+black-tea :: black-tea ::  :: Basic ingredient, no specific facets needed.
+blackcurrant :: blackcurrant ::  :: Basic ingredient, no specific facets needed.
+blueberry-flavouring :: blueberry :: #functional-class:flavoring :: "Flavouring" is a functional class.
+blueberry :: blueberry ::  :: No mandatory facets.
+bok-choy :: bok-choy ::  :: No mandatory facets.
+brahma-thandu :: brahma-thandu ::  :: No mandatory facets.
+brahmi :: brahmi ::  :: No mandatory facets.
+bran :: bran ::  :: No mandatory facets.
+brihati :: brihati ::  :: No mandatory facets.
+brilliant-blue-ins-133 :: brilliant-blue :: #ins-133, #functional-class:color :: FSSAI requires the specific name and INS number for additives.
+brine :: brine ::  :: No mandatory facets.
+bromelain :: bromelain :: #functional-class:enzyme :: Enzymes often have functional roles.
+brown-rice-protein-isolate :: brown-rice-protein :: #process:isolate, #source:brown-rice :: Source and process are important for protein isolates.
+brown-rice :: brown-rice ::  :: No mandatory facets.
+bubblegum-flavouring :: bubblegum :: #functional-class:flavoring :: "Flavouring" is a functional class.
+buckwheat :: buckwheat ::  :: No mandatory facets.
+buffalo-meat :: buffalo-meat :: #source:buffalo :: Source is needed to specify the animal origin of the meat.
+butter :: butter :: #source:milk :: Source is needed to specify the origin of the butter.
+butterfat :: butterfat :: #source:milk :: Source is needed to specify the origin of the butterfat.
+buttermilk :: buttermilk :: #source:milk :: Source is needed to specify the origin of the buttermilk.
+butterscotch-flavouring :: butterscotch :: #functional-class:flavoring :: "Flavouring" is a functional class.
+butterscotch :: butterscotch ::  :: No mandatory facets.
+cabbage :: cabbage ::  :: No mandatory facets.
+calcium-salt :: calcium-salt :: #functional-class:mineral-salt :: Mineral salts are a functional class.
+candied-fruits :: candied-fruits :: #process:candied :: Process is important for candied fruits.
+cantaloupe :: cantaloupe ::  :: No mandatory facets.
+caramel-color-ins-150 :: caramel-color :: #ins-150, #functional-class:color :: FSSAI requires the specific name and INS number for additives.
+carbonates-additives :: carbonates :: #functional-class:additive :: Carbonates are a class of additives, the functional class is required.
+cardamom-flavouring :: cardamom :: #functional-class:flavouring :: Flavours must be declared.
+carmoisine-ins-122 :: carmoisine :: #ins-122, #functional-class:colour :: Additive with INS number and functional class.
+carrot-flavouring :: carrot :: #functional-class:flavouring :: Flavours must be declared.
+carrot :: carrot ::  :: No specific facets required.
+caseinate :: caseinate :: #source:milk :: Caseinate is derived from milk, a source declaration is needed.
+cashew :: cashew ::  :: No specific facets required.
+catechins :: catechins ::  :: No specific facets required.
+catechu :: catechu ::  :: No specific facets required.
+celery :: celery ::  :: No specific facets required.
+cellulose-gum-ins-466 :: cellulose-gum :: #ins-466, #functional-class:thickener :: Additive with INS number and functional class.
+cereal-extract :: cereal-extract :: #source:cereal :: Source declaration is needed.
+chakala :: chakala ::  :: No specific facets required.
+chakka :: chakka ::  :: No specific facets required.
+chamomile :: chamomile ::  :: No specific facets required.
+cheese-powder :: cheese :: #source:milk :: Source declaration is needed.
+cheese :: cheese :: #source:milk :: Source declaration is needed.
+cherries :: cherries ::  :: No specific facets required.
+chhareela :: chhareela ::  :: No specific facets required.
+chhena :: chhena :: #source:milk :: Source declaration is needed.
+chia-seeds :: chia-seeds ::  :: No specific facets required.
+chicken :: chicken ::  :: No specific facets required.
+chickpea :: chickpea ::  :: No specific facets required.
+chicory :: chicory ::  :: No specific facets required.
+chikoo :: chikoo ::  :: No specific facets required.
+chilli-extract :: chilli :: #process:extraction :: Process is useful for identification.
+chilli :: chilli ::  :: Basic ingredient, no specific facets needed.
+chirva :: chirva ::  :: Basic ingredient, no specific facets needed.
+chives :: chives ::  :: Basic ingredient, no specific facets needed.
+chlorella :: chlorella ::  :: Basic ingredient, no specific facets needed.
+chloride :: chloride ::  :: Basic ingredient, no specific facets needed.
+chlorophyll-ins-141 :: chlorophyll :: #ins-141, #functional-class:colour :: FSSAI requires the specific name and functional class for additives.
+chocolate-flavouring :: chocolate :: #functional-class:flavouring :: Functional class helps identify the ingredient's purpose.
+cholecalciferol :: cholecalciferol ::  :: Basic ingredient, no specific facets needed.
+cholesterol :: cholesterol ::  :: Basic ingredient, no specific facets needed.
+choline-bitartrate :: choline-bitartrate ::  :: Basic ingredient, no specific facets needed.
+choline-chloride :: choline-chloride ::  :: Basic ingredient, no specific facets needed.
+chromium :: chromium ::  :: Basic ingredient, no specific facets needed.
+cinnamon :: cinnamon ::  :: Basic ingredient, no specific facets needed.
+citharathai :: citharathai ::  :: Basic ingredient, no specific facets needed.
+citric-acid-ins-330 :: citric-acid :: #ins-330, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+citron :: citron ::  :: Basic ingredient, no specific facets needed.
+citrus-fiber :: citrus-fiber :: #source:citrus :: Source helps identify the ingredient.
+citrus-pulp :: citrus-pulp :: #source:citrus :: Source helps identify the ingredient.
+cloudifier :: cloudifier :: #functional-class:cloudifier :: Functional class helps identify the ingredient's purpose.
+clove :: clove ::  :: Basic ingredient, no specific facets needed.
+cocoa-butter-equivalent :: cocoa-butter-equivalent ::  :: Specific name is important for accurate identification.
+cocoa :: cocoa ::  :: Basic ingredient, no specific facets needed.
+coconut-oil :: coconut-oil :: #source:coconut :: Source is important for allergen and identity.
+coconut-water :: coconut-water :: #source:coconut :: Source is important for allergen and identity.
+coconut :: coconut :: #source:coconut :: Source is required for identity.
+coffee-flavouring :: coffee :: #functional-class:flavouring :: Functional class is required for flavourings.
+coffee :: coffee ::  :: No specific facets required.
+condensed-milk :: condensed-milk :: #source:milk :: Source is required for identity.
+cooling-flavouring :: cooling :: #functional-class:flavouring :: Functional class is required for flavourings.
+copper :: copper ::  :: No specific facets required.
+coriander :: coriander ::  :: No specific facets required.
+corn-oil :: corn-oil :: #source:corn, #process:refined :: Source is required for identity; refinement process may be needed.
+corn-starch :: corn-starch :: #source:corn :: Source is required for identity.
+cotton-candy-flavouring :: cotton-candy :: #functional-class:flavouring :: Functional class is required for flavourings.
+cottonseed-oil :: cottonseed-oil :: #source:cottonseed, #process:refined :: Source is required for identity; refinement process may be needed.
+cow-milk :: cow-milk :: #source:cow :: Source is required for identity.
+cranberry-flavouring :: cranberry :: #functional-class:flavouring :: Functional class is required for flavourings.
+cranberry-juice :: cranberry-juice :: #source:cranberry :: Source is required for identity.
+cranberry :: cranberry ::  :: No specific facets required.
+cream-flavouring :: cream :: #functional-class:flavouring :: Functional class is required for flavourings.
+cream :: cream :: #source:milk :: Source is required for identity.
+creatine :: creatine ::  :: No specific facets required.
+croscarmellose-sodium-ins-468 :: croscarmellose-sodium :: #ins-468, #functional-class:stabilizer :: FSSAI requires the specific name and functional class for additives.
+cucumber-seeds :: cucumber-seeds :: #source:cucumber :: Source is required for identity.
+cucumis :: cucumis ::  :: No specific facets required.
+cultured-glucose :: cultured-glucose :: #process:cultured :: Process is required for identity.
+cumin-extract :: cumin :: #process:extracted :: Process is required for identity.
+cumin-jeera :: cumin ::  :: No specific facets required.
+curcumin-ins-100 :: curcumin :: #ins-100, #functional-class:colour :: FSSAI requires the specific name and functional class for additives.
+curd :: curd :: #source:milk :: Source is needed to identify the origin.
+curry-leaves :: curry-leaves ::  :: No mandatory facets.
+curry-mix :: curry-mix ::  :: No mandatory facets.
+custard-flavouring :: custard-flavouring ::  :: No mandatory facets.
+cyanocobalamin :: cyanocobalamin :: #functional-class:vitamin :: Functional class helps identify the nutrient type.
+cysteine :: cysteine ::  :: No mandatory facets.
+dairy-whitener :: dairy-whitener :: #source:milk :: Source is needed to identify the origin.
+date-fiber :: date-fiber :: #source:date :: Source is needed to identify the origin.
+datem-ins-472e :: datem :: #ins-472e, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+dates :: dates ::  :: No mandatory facets.
+dextrin :: dextrin ::  :: No mandatory facets.
+dextrose :: dextrose ::  :: No mandatory facets.
+dha :: dha :: #source:algae/fish :: Source is needed to identify the origin.
+digezyme :: digezyme :: #functional-class:enzyme-blend :: Functional class helps identify the enzyme type.
+diluent-ins-1520 :: propylene-glycol :: #ins-1520, #functional-class:diluent :: FSSAI requires the specific name and functional class for additives.
+dioscorea :: dioscorea ::  :: No mandatory facets.
+disodium-5'-ribonucleotides-ins-635 :: disodium-5'-ribonucleotides :: #ins-635, #functional-class:flavor-enhancer :: FSSAI requires the specific name and functional class for additives.
+disodium-guanylate-ins-627 :: disodium-guanylate :: #ins-627, #functional-class:flavor-enhancer :: FSSAI requires the specific name and functional class for additives.
+disodium-inosinate-ins-631 :: disodium-inosinate :: #ins-631, #functional-class:flavor-enhancer :: FSSAI requires the specific name and functional class for additives.
+edible-gum :: edible-gum ::  :: No mandatory facets.
+egg :: egg :: #allergen :: Allergen declaration is mandatory.
+eggless-base :: eggless-base ::  :: No mandatory facets.
+electrolytes :: electrolytes ::  :: No mandatory facets.
+emulsifier :: emulsifier :: #functional-class:emulsifier :: Functional class helps identify the ingredient function.
+emulsifying-salt :: emulsifying-salt :: #functional-class:emulsifier :: Functional class helps identify the ingredient function.
+enzymes :: enzymes :: #functional-class:enzyme :: Functional class is important for categorization.
+ergocalciferol :: ergocalciferol :: #functional-class:vitamin :: Vitamin D2 needs to be identified as a vitamin.
+erythritol :: erythritol :: #functional-class:sweetener :: Functional class helps in understanding its role.
+erythrosine-ins-127 :: erythrosine :: #ins-127, #functional-class:colour :: FSSAI requires the specific name and functional class for additives.
+essential-oils :: essential-oils :: #functional-class:flavoring :: Essential oils are used for flavoring.
+eucalyptol :: eucalyptol :: #functional-class:flavoring :: Eucalyptol is a flavoring agent.
+evening-primrose-oil :: evening-primrose-oil :: #source:evening-primrose, #functional-class:oil :: Source is needed for identification.
+excipients :: excipients :: #functional-class:excipient :: Excipients need to be declared.
+fatty-acids :: fatty-acids :: #functional-class:nutrient :: Fatty acids are a nutrient category.
+fava-bean-protein :: fava-bean-protein :: #source:fava-bean, #functional-class:protein :: Source is needed for allergen and identity.
+fennel :: fennel :: #functional-class:spice :: Fennel is a spice.
+fenugreek :: fenugreek :: #functional-class:spice :: Fenugreek is a spice.
+ferric-ammonium-citrate :: ferric-ammonium-citrate :: #functional-class:mineral :: Ferric ammonium citrate is a mineral.
+ferric-pyrophosphate :: ferric-pyrophosphate :: #functional-class:mineral :: Ferric pyrophosphate is a mineral.
+ferrous-fumarate :: ferrous-fumarate :: #functional-class:mineral :: Ferrous fumarate is a mineral.
+ferrous-gluconate :: ferrous-gluconate :: #functional-class:mineral :: Ferrous gluconate is a mineral.
+ferrous-salt :: ferrous-salt :: #functional-class:mineral :: Ferrous salt is a mineral.
+ferrous-sulphate :: ferrous-sulphate :: #functional-class:mineral :: Ferrous sulphate is a mineral.
+fish :: fish :: #source:fish, #allergen :: Source is needed for allergen and identity.
+flax-seed-oil :: flax-seed-oil :: #source:flax-seed, #functional-class:oil :: Source is needed for identification.
+flax-seed :: flax-seed :: #source:flax-seed :: Source is needed for identification.
+folic-acid :: folic-acid :: #functional-class:vitamin :: Folic acid needs to be identified as a vitamin.
+fortified-wheat-flour :: fortified-wheat-flour :: #source:wheat, #functional-class:flour, #fortified :: Source and fortification status are important.
+fos :: fos :: #functional-class:prebiotic :: FOS is a prebiotic.
+fox-nut-makhana :: fox-nut-makhana :: #source:fox-nut :: Source is needed for identification.
+fractionated-fat :: fractionated-fat :: #process:fractionated :: Processing information is necessary to differentiate from regular fat.
+fructose :: fructose :: :: No mandatory facets.
+fumaric-acid :: fumaric-acid :: :: No mandatory facets.
+gambhari :: gambhari :: :: No mandatory facets.
+gaozaban-flavouring :: gaozaban :: #functional-class:flavoring :: Functional class is required for flavorings.
+garcinia-cambogia :: garcinia-cambogia :: :: No mandatory facets.
+garlic-flavouring :: garlic :: #functional-class:flavoring :: Functional class is required for flavorings.
+garlic :: garlic :: :: No mandatory facets.
+gelatin-ins-428 :: gelatin :: #ins-428, #functional-class:gelling-agent, #source:animal :: Source (animal) is needed for dietary restrictions; functional class and INS number are required for additives.
+gellan-gum-ins-418 :: gellan-gum :: #ins-418, #functional-class:gelling-agent :: Functional class and INS number are required for additives.
+ghee :: ghee :: :: No mandatory facets.
+giloy :: giloy :: :: No mandatory facets.
+ginger-flavouring :: ginger :: #functional-class:flavoring :: Functional class is required for flavorings.
+ginger :: ginger :: :: No mandatory facets.
+ginseng :: ginseng :: :: No mandatory facets.
+glucose-syrup :: glucose-syrup :: :: No mandatory facets.
+glucuronolactone :: glucuronolactone :: :: No mandatory facets.
+glutamine :: glutamine :: :: No mandatory facets.
+gluten :: gluten :: #allergen :: Gluten is a known allergen and must be declared.
+glutinous-rice-flour :: glutinous-rice-flour :: :: No mandatory facets.
+glycerol-ester-of-rosin-ins-445 :: glycerol-ester-of-rosin :: #ins-445, #functional-class:stabilizer :: Functional class and INS number are required for additives.
+glycerol-ins-422 :: glycerol :: #ins-422, #functional-class:humectant :: Functional class and INS number are required for additives.
+goat-meat :: goat-meat :: :: No mandatory facets.
+goji-berry :: goji-berry :: :: No mandatory facets.
+gokshura :: gokshura :: :: No mandatory facets.
+gongura :: gongura :: #source:gongura :: Plant source must be declared for identity.
+grape-seed :: grape-seed :: #source:grape :: Source must be declared for identity.
+grape :: grape :: #source:grape :: Source must be declared for identity.
+grapefruit :: grapefruit :: #source:grapefruit :: Source must be declared for identity.
+green-apple :: green-apple :: #source:green-apple :: Source must be declared for identity.
+green-cardamom-elaichi :: green-cardamom :: #source:green-cardamom :: Source must be declared for identity.
+green-gram-moong-dal :: green-gram :: #source:green-gram :: Source must be declared for identity.
+green-tea-flavouring :: green-tea-flavouring :: #functional-class:flavouring, #source:green-tea :: Source and functional class must be declared for identity.
+green-tea :: green-tea :: #source:green-tea :: Source must be declared for identity.
+groundnut-oil :: groundnut-oil :: #source:groundnut :: Source must be declared for allergen and identity.
+guar-gum-ins-412 :: guar-gum :: #ins-412, #functional-class:thickener :: FSSAI requires the specific name and functional class for additives.
+guarana :: guarana :: #source:guarana :: Plant source must be declared for identity.
+guava-flavouring :: guava-flavouring :: #functional-class:flavouring, #source:guava :: Source and functional class must be declared for identity.
+guava :: guava :: #source:guava :: Source must be declared for identity.
+gudmar :: gudmar :: #source:gudmar :: Plant source must be declared for identity.
+gum-base :: gum-base :: #functional-class:gum-base :: Functional class must be declared for identity.
+hadjod :: hadjod :: #source:hadjod :: Plant source must be declared for identity.
+haritaki :: haritaki :: #source:haritaki :: Plant source must be declared for identity.
+hazelnut-flavouring :: hazelnut-flavouring :: #functional-class:flavouring, #source:hazelnut :: Source must be declared for allergen and identity, functional class for clarity.
+hazelnut :: hazelnut :: #source:hazelnut :: Source must be declared for allergen and identity.
+hemicellulase :: hemicellulase :: #functional-class:enzyme :: Functional class must be declared for identity.
+herbs :: herbs :: #source:herbs :: Source must be declared for identity.
+hibiscus :: hibiscus :: #source:hibiscus :: Plant source must be declared for identity.
+hmb :: hmb :: :: No specific facets required.
+hmcs :: hmcs :: :: No specific facets required.
+honey-flavouring :: honey :: #functional-class:flavoring :: "Flavoring" is a functional class, the base is honey.
+honey :: honey ::  :: Honey requires no further facets.
+hops :: hops ::  :: Hops requires no further facets.
+horsegram :: horsegram ::  :: Horsegram requires no further facets.
+hyaluronic-acid :: hyaluronic-acid ::  :: Hyaluronic acid requires no further facets.
+hydrogenated-palm-oil :: palm-oil :: #process:hydrogenated, #source:palm :: Hydrogenation process and source must be declared.
+hydrogenated-vegetable-fat :: vegetable-fat :: #process:hydrogenated :: Hydrogenation process must be declared. Source should be declared if not obvious.
+hydrolyzed-vegetable-protein :: vegetable-protein :: #process:hydrolyzed :: Hydrolyzation process must be declared. Source should be declared if not obvious.
+ice-cream :: ice-cream ::  :: Ice-cream is a composite food and requires a full ingredient list.
+idli-rava :: idli-rava ::  :: Idli rava requires no further facets.
+indigo-carmine-ins-132 :: indigo-carmine :: #ins-132, #functional-class:color :: INS number and functional class are required for additives.
+inositol :: inositol ::  :: Inositol requires no further facets.
+interesterified-vegetable-fat :: vegetable-fat :: #process:interesterified :: Interesterification process must be declared. Source should be declared if not obvious.
+invert-sugar :: invert-sugar ::  :: Invert sugar requires no further facets.
+iodate :: iodate ::  :: Iodate requires no further facets.
+iron :: iron ::  :: Iron requires no further facets.
+isomalt :: isomalt ::  :: Isomalt requires no further facets.
+jackfruit :: jackfruit ::  :: Jackfruit requires no further facets.
+jalapeno :: jalapeno ::  :: Jalapeno requires no further facets.
+jam :: jam ::  :: Jam is a composite food and requires a full ingredient list.
+jamun-flavouring :: jamun :: #functional-class:flavoring :: "Flavoring" is a functional class, the base is jamun.
+jamun :: jamun ::  :: Jamun requires no further facets.
+jiwanti :: jiwanti ::  :: Jiwanti requires no further facets.
+kachri :: kachri ::  :: Kachri requires no further facets.
+kakanasika :: kakanasika ::  :: Kakanasika requires no further facets.
+kale :: kale ::  :: Basic food, no mandatory facets.
+kalonji-nigella-seeds :: nigella-seeds ::  :: Basic food, no mandatory facets.
+kantakari :: kantakari ::  :: Basic food, no mandatory facets.
+karela :: karela ::  :: Basic food, no mandatory facets.
+karkatshringi :: karkatshringi ::  :: Basic food, no mandatory facets.
+kasni :: kasni ::  :: Basic food, no mandatory facets.
+kewra-flavouring :: kewra :: #functional-class:flavouring :: Functional class helps clarify purpose.
+khar :: khar ::  :: Basic food, no mandatory facets.
+khoa :: khoa ::  :: Basic food, no mandatory facets.
+khorasan :: khorasan ::  :: Basic food, no mandatory facets.
+khus :: khus ::  :: Basic food, no mandatory facets.
+kiwi :: kiwi ::  :: Basic food, no mandatory facets.
+kokum-fat :: kokum-fat ::  :: Basic food, no mandatory facets.
+kombucha :: kombucha ::  :: Basic food, no mandatory facets.
+kutki :: kutki ::  :: Basic food, no mandatory facets.
+l-carnitine :: l-carnitine ::  :: Basic food, no mandatory facets.
+l-hpc :: l-hpc ::  :: Basic food, no mandatory facets.
+l-n-neotetraose :: l-n-neotetraose ::  :: Basic food, no mandatory facets.
+l-theanine :: l-theanine ::  :: Basic food, no mandatory facets.
+lactase :: lactase ::  :: Basic food, no mandatory facets.
+lactic-acid-ins-270 :: lactic-acid :: #ins-270, #functional-class:acid :: FSSAI requires the specific name and functional class for additives.
+lactobacillus :: lactobacillus :: #strain: , #functional-class:probiotic :: Strain is needed for probiotic identification.
+lactose :: lactose ::  :: Basic food, no mandatory facets.
+lecithin-ins-322 :: lecithin :: #ins-322, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+leek :: leek ::  :: Basic food, no mandatory facets.
+legumes :: legumes :: :: Basic food category.
+lemon-flavouring :: lemon :: #functional-class:flavoring :: "Flavoring" is a functional class.
+lemon :: lemon :: :: Basic food.
+lemongrass :: lemongrass :: :: Basic food.
+lentils :: lentils :: :: Basic food category.
+lime-flavouring :: lime :: #functional-class:flavoring :: "Flavoring" is a functional class.
+lime :: lime :: :: Basic food.
+liquorice :: liquorice :: :: Basic food.
+litchi-flavouring :: litchi :: #functional-class:flavoring :: "Flavoring" is a functional class.
+litchi :: litchi :: :: Basic food.
+long-pepper :: long-pepper :: :: Basic food.
+lotus-seeds :: lotus-seeds :: :: Basic food.
+lupin :: lupin :: :: Basic food; potential allergen.
+lutein :: lutein :: :: Can be a color or nutrient.
+lycopene :: lycopene :: :: Can be a color or nutrient.
+lysine :: lysine :: :: Amino acid.
+macaroni :: macaroni :: :: Type of pasta.
+mace-javitri :: mace-javitri :: :: Spice.
+magnesium-salts :: magnesium-salts :: #functional-class:mineral-salt :: Mineral salts need to be declared.
+magnesium :: magnesium :: :: Mineral.
+maida-refined-wheat-flour :: refined-wheat-flour :: #source:wheat, #process:refined :: Source and process are important for identification and allergen declaration.
+malic-acid-ins-296 :: malic-acid :: #ins-296, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+maltitol :: maltitol :: #functional-class:sweetener :: Sugar alcohol.
+maltodextrin :: maltodextrin :: #functional-class:thickener :: Polysaccharide used as a thickener.
+manganese-sulphate :: manganese-sulphate :: #functional-class:mineral-salt :: Mineral salts need to be declared.
+manganese :: manganese :: #mineral :: Manganese is a mineral and should be declared as such.
+mango-flavouring :: mango :: #functional-class:flavoring :: "Flavoring" is the functional class.
+mango-kernel-fat :: mango-kernel-fat :: #source:mango :: Source needs to be declared.
+mango :: mango ::  :: No specific facets required.
+margarine :: margarine ::  :: No specific facets required.
+mashaparni :: mashaparni :: #ayurvedic :: Ayurvedic ingredient.
+mayonnaise :: mayonnaise ::  :: No specific facets required.
+mct :: mct ::  :: No specific facets required.
+menthol :: menthol :: #functional-class:flavoring :: Menthol is a flavoring agent.
+methionine :: methionine :: #amino-acid :: Methionine is an amino acid.
+methocel :: methocel :: #functional-class:thickener :: Methocel is a thickener.
+microcrystalline-cellulose-ins-460 :: microcrystalline-cellulose :: #ins-460, #functional-class:anticaking-agent :: INS number and functional class are required for additives.
+milk-flavouring :: milk :: #functional-class:flavoring :: "Flavoring" is the functional class.
+milk-powder :: milk-powder :: #source:milk :: Source needs to be declared.
+milk-protein :: milk-protein :: #source:milk :: Source needs to be declared.
+milk-solids :: milk-solids :: #source:milk :: Source needs to be declared.
+milk :: milk ::  :: No specific facets required.
+millet :: millet ::  :: No specific facets required.
+mineral-salts :: mineral-salts ::  :: No specific facets required.
+mint-flavouring :: mint :: #functional-class:flavoring :: "Flavoring" is the functional class.
+mint :: mint ::  :: No specific facets required.
+mirin :: mirin ::  :: No specific facets required.
+modified-starch :: modified-starch :: #process:modified :: Needs process declared.
+molasses :: molasses ::  :: No specific facets required.
+molybdenum :: molybdenum :: #mineral :: Molybdenum is a mineral and should be declared as such.
+monk-fruit :: monk-fruit :: #functional-class:sweetener :: Natural identity is important.
+mono-and-diglycerides-of-fatty-acids-ins-471 :: mono-and-diglycerides-of-fatty-acids :: #ins-471, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+moringa :: moringa ::  :: No mandatory facets.
+moth-bean :: moth-bean ::  :: No mandatory facets.
+mudgaparni :: mudgaparni ::  :: No mandatory facets.
+mulberry :: mulberry ::  :: No mandatory facets.
+munakka-flavouring :: munakka :: #functional-class:flavoring :: The source is important for flavorings.
+mushroom :: mushroom ::  :: No mandatory facets.
+musli :: musli ::  :: No mandatory facets.
+musta :: musta ::  :: No mandatory facets.
+mustard-oil :: mustard-oil :: #source:mustard, #process:unspecified :: Source is required for oils. Process may be needed depending on claims.
+mustard :: mustard ::  :: No mandatory facets.
+nannari :: nannari ::  :: No mandatory facets.
+nata-de-coco :: nata-de-coco ::  :: No mandatory facets.
+navsadar :: ammonium-chloride :: #chemical-name:ammonium-chloride :: Common name is insufficient.
+neem :: neem ::  :: No mandatory facets.
+niacin-vitamin-b3 :: niacin :: #functional-class:vitamin :: Functional class helps identify the ingredient.
+niger-seed :: niger-seed ::  :: No mandatory facets.
+nitrogen :: nitrogen :: #functional-class:propellant :: Functional class helps identify the ingredient.
+nucleotides :: nucleotides ::  :: No mandatory facets.
+nut :: nut :: #allergen :: Mandatory allergen declaration.
+nutmeg-jaiphal :: nutmeg ::  :: No mandatory facets.
+nuts-paste :: nuts-paste :: #allergen :: Mandatory allergen declaration.
+oat :: oat :: #allergen :: Oat is a potential allergen.
+okra :: okra ::  :: No mandatory facets.
+oleoresin :: oleoresin :: #functional-class:flavoring :: Oleoresin functions primarily as a flavoring agent.
+olive-oil :: olive-oil :: #source:olive, #process:unspecified :: Source is required for identity and potential quality variations.
+omega-3 :: omega-3-fatty-acids :: #functional-class:nutrient :: Omega-3 refers to a class of fatty acids, not a single ingredient.
+onion-flavouring :: onion-flavouring :: #functional-class:flavoring :: "Flavoring" indicates its primary function.
+onion :: onion ::  :: Basic food ingredient.
+orange-flavouring :: orange-flavouring :: #functional-class:flavoring :: "Flavoring" indicates its primary function.
+orange-juice :: orange-juice :: #source:orange :: Source is required for identity.
+orange :: orange ::  :: Basic food ingredient.
+oregano :: oregano ::  :: Basic food ingredient.
+oxide :: oxide ::  :: Generic chemical term, needs more context.
+palm-kernel-oil :: palm-kernel-oil :: #source:palm-kernel, #process:unspecified :: Source is required for identity and potential quality variations.
+palm-oil :: palm-oil :: #source:palm, #process:unspecified :: Source is required for identity and potential quality variations.
+palm-stearin :: palm-stearin :: #source:palm, #process:fractionation :: Source and process are important for defining the specific fat fraction.
+palm-sugar :: palm-sugar :: #source:palm :: Source is required for identity.
+palmolein :: palmolein :: #source:palm, #process:fractionation :: Source and process are important for defining the specific fat fraction.
+pantothenic-acid-vitamin-b5 :: pantothenic-acid :: #functional-class:vitamin :: Pantothenic acid is the specific compound; vitamin B5 is a common name.
+papain :: papain :: #functional-class:enzyme :: Papain functions as an enzyme.
+papaya :: papaya ::  :: Basic food ingredient.
+paprika-extract-ins-160c :: paprika-extract :: #ins-160c, #functional-class:color :: FSSAI requires the specific name and functional class for additives.
+paprika :: paprika ::  :: Basic food ingredient.
+parsley :: parsley ::  :: Basic food ingredient.
+passion-fruit :: passion-fruit ::  :: Basic food ingredient.
+pea-protein :: pea-protein :: #source:pea :: Source is required for allergen and identity.
+peach :: peach ::  :: Basic food ingredient.
+peas :: peas ::  :: Basic food ingredient.
+pecans :: pecans ::  :: Pecans are a common food ingredient.
+pectin-ins-440 :: pectin :: #ins-440, #functional-class:thickener :: INS number and functional class are required for additives.
+peepramul :: peepramul ::  :: Peepramul is a specific ingredient.
+pepper :: pepper ::  :: Pepper is a common spice.
+pgpr-ins-476 :: polyglycerol-polyricinoleate :: #ins-476, #functional-class:emulsifier :: INS number and functional class are required for additives.
+phenylalanine :: phenylalanine ::  :: Phenylalanine is an amino acid.
+phosphates-additives :: phosphates :: #functional-class:acidity-regulator :: Functional class is important for phosphate additives.
+phosphoric-acid :: phosphoric-acid :: #functional-class:acidity-regulator :: Functional class is important for acids.
+phosphorus :: phosphorus ::  :: Phosphorus is a mineral.
+phyllanthus-niruri :: phyllanthus-niruri ::  :: Phyllanthus niruri is a specific ingredient.
+phytomenadione :: phytomenadione ::  :: Phytomenadione is a vitamin.
+pigeon-pea-toor-dal :: pigeon-pea-toor-dal ::  :: Pigeon pea is a common food ingredient.
+pineapple-flavouring :: pineapple-flavouring :: #functional-class:flavouring :: Flavourings need to be declared.
+pineapple :: pineapple ::  :: Pineapple is a common fruit.
+pippali :: pippali ::  :: Pippali is a specific ingredient.
+pistachio-flavouring :: pistachio-flavouring :: #functional-class:flavouring :: Flavourings need to be declared.
+pistachio :: pistachio ::  :: Pistachio is a common nut.
+pizza-flavouring :: pizza-flavouring :: #functional-class:flavouring :: Flavourings need to be declared.
+plum :: plum ::  :: Plum is a common fruit.
+polyglycerol-esters-of-fatty-acids-ins-475 :: polyglycerol-esters-of-fatty-acids :: #ins-475, #functional-class:emulsifier :: INS number and functional class are required for additives.
+polysorbate-60-ins-435 :: polysorbate-60 :: #ins-435, #functional-class:emulsifier :: INS number and functional class are required for additives.
+polysorbate-80-ins-433 :: polysorbate-80 :: #ins-433, #functional-class:emulsifier :: INS number and functional class are required for additives.
+polyvinylpyrrolidone-ins-1201 :: polyvinylpyrrolidone :: #ins-1201, #functional-class:stabilizer :: INS number and functional class are required for additives.
+pomegranate-flavouring :: pomegranate-flavouring :: #functional-class:flavouring :: Flavourings need to be declared.
+pomegranate :: pomegranate ::  :: Pomegranate is a common fruit.
+pomelo :: pomelo ::  :: Generally recognized food.
+ponceau-4r-ins-124 :: ponceau-4r :: #ins-124, #functional-class:food-color :: FSSAI requires the specific name and INS number for additives.
+poppy-seed :: poppy-seed ::  :: Generally recognized food.
+potassium-benzoate-ins-212 :: potassium-benzoate :: #ins-212, #functional-class:preservative :: FSSAI requires the specific name and functional class for additives.
+potassium-chloride-ins-508 :: potassium-chloride :: #ins-508, #functional-class:flavor-enhancer :: FSSAI requires the specific name and functional class for additives.
+potassium-iodate :: potassium-iodate ::  :: Generally recognized nutrient.
+potassium-iodide :: potassium-iodide ::  :: Generally recognized nutrient.
+potassium-metabisulphite-ins-224 :: potassium-metabisulphite :: #ins-224, #functional-class:preservative :: FSSAI requires the specific name and functional class for additives.
+potassium-phosphate :: potassium-phosphate ::  :: Generally recognized nutrient.
+potassium-sorbate-ins-202 :: potassium-sorbate :: #ins-202, #functional-class:preservative :: FSSAI requires the specific name and functional class for additives.
+potassium :: potassium ::  :: Generally recognized nutrient.
+potato :: potato ::  :: Generally recognized food.
+precooked-pasta :: pasta :: #process:precooked :: Process important for product description.
+prishniparni :: prishniparni ::  :: Generally recognized food.
+probiotics :: probiotics :: #strain: , #functional-class:probiotic :: Strain must be declared for probiotic cultures.
+propylene-glycol-esters-of-fatty-acids-ins-477 :: propylene-glycol-esters-of-fatty-acids :: #ins-477, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+psyllium :: psyllium ::  :: Generally recognized food.
+pueraria-tuberosa :: pueraria-tuberosa ::  :: Generally recognized food.
+pullulan-ins-1204 :: pullulan :: #ins-1204, #functional-class:stabilizer :: FSSAI requires the specific name and functional class for additives.
+pumpkin-seeds :: pumpkin-seeds ::  :: Generally recognized food.
+pumpkin :: pumpkin ::  :: Generally recognized food.
+punarnava :: punarnava ::  :: Generally recognized food.
+pushkara :: pushkara ::  :: Generally recognized food.
+pvp-ins-1202 :: pvp :: #ins-1202, #functional-class:stabilizer :: FSSAI requires the specific name and functional class for additives.
+pyridoxine-hydrochloride-vitamin-b6 :: pyridoxine-hydrochloride :: #functional-class:vitamin :: Vitamin needs to be declared.
+quillaja-extract-ins-999 :: quillaja-extract :: #ins-999, #functional-class:extract :: FSSAI requires the specific name and INS number for additives.
+quinoa :: quinoa ::  :: No mandatory facets.
+radish :: radish ::  :: No mandatory facets.
+raisins :: raisins ::  :: No mandatory facets.
+rapeseed-oil :: rapeseed-oil :: #source:rapeseed :: Source must be declared for oil identity.
+raspberries :: raspberries ::  :: No mandatory facets.
+red-currant :: red-currant ::  :: No mandatory facets.
+resveratrol :: resveratrol ::  :: No mandatory facets.
+riboflavin-ins-101 :: riboflavin :: #ins-101 :: FSSAI requires the specific name and INS number for additives.
+rice-bran-oil :: rice-bran-oil :: #source:rice :: Source must be declared for oil identity.
+rice :: rice ::  :: No mandatory facets.
+rose-flavouring :: rose-flavouring :: #functional-class:flavouring :: Functional class helps in categorization.
+rose :: rose ::  :: No mandatory facets.
+rosemary-flavouring :: rosemary-flavouring :: #functional-class:flavouring :: Functional class helps in categorization.
+rosemary :: rosemary ::  :: No mandatory facets.
+rye :: rye ::  :: No mandatory facets.
+sadhakuppai :: sadhakuppai ::  :: No mandatory facets.
+safflower-oil :: safflower-oil :: #source:safflower :: Source must be declared for oil identity.
+saffron-flavouring :: saffron-flavouring :: #functional-class:flavouring :: Functional class helps in categorization.
+saffron :: saffron ::  :: No mandatory facets.
+sago :: sago ::  :: No mandatory facets.
+sal-fat :: sal-fat :: #source:sal :: Source must be declared for fat identity.
+salt :: salt ::  :: No mandatory facets.
+sandalwood :: sandalwood ::  :: No mandatory facets.
+seaweed :: seaweed ::  :: No mandatory facets.
+semolina :: semolina ::  :: Basic food ingredient.
+sequestrant-ins-385 :: calcium-disodium-edta :: #ins-385, #functional-class:sequestrant :: FSSAI requires the specific name and functional class for additives.
+sesame :: sesame :: #allergen :: Allergen declaration required.
+sesbania :: sesbania ::  :: Basic food ingredient.
+shalaparni :: shalaparni ::  :: Basic food ingredient.
+shankhapushpi :: shankhapushpi ::  :: Basic food ingredient.
+shatavari :: shatavari ::  :: Basic food ingredient.
+shati :: shati ::  :: Basic food ingredient.
+shea-butter :: shea-butter ::  :: Basic food ingredient.
+shyonaka :: shyonaka ::  :: Basic food ingredient.
+silicon-dioxide-ins-551 :: silicon-dioxide :: #ins-551, #functional-class:anti-caking-agent :: FSSAI requires the specific name and functional class for additives.
+silver-leaf :: silver-leaf ::  :: Basic food ingredient.
+sodium-acetate-ins-350 :: sodium-acetate :: #ins-350, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+sodium-alginate-ins-401 :: sodium-alginate :: #ins-401, #functional-class:thickener :: FSSAI requires the specific name and functional class for additives.
+sodium-aluminium-sulphate-ins-521 :: sodium-aluminium-sulphate :: #ins-521, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+sodium-benzoate-ins-211 :: sodium-benzoate :: #ins-211, #functional-class:preservative :: FSSAI requires the specific name and functional class for additives.
+sodium-bicarbonate-baking-soda :: sodium-bicarbonate ::  :: Common name acceptable.
+sodium-citrates-ins-331 :: sodium-citrate :: #ins-331, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+sodium-lactate-ins-325 :: sodium-lactate :: #ins-325, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+sodium-molybdate :: sodium-molybdate ::  :: Basic food ingredient.
+sodium-selenite :: sodium-selenite ::  :: Basic food ingredient.
+sodium-starch-glycolate :: sodium-starch-glycolate :: #functional-class:disintegrant :: Functional class may be useful.
+sodium-stearoyl-lactylate-ins-481 :: sodium-stearoyl-lactylate :: #ins-481, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+sorbic-acid-ins-200 :: sorbic-acid :: #ins-200, #functional-class:preservative :: FSSAI requires the specific name and functional class for additives.
+sorbitan-tristearate-ins-492 :: sorbitan-tristearate :: #ins-492, #functional-class:emulsifier :: FSSAI requires the specific name and functional class for additives.
+sorbitol-ins-420 :: sorbitol :: #ins-420, #functional-class:humectant :: FSSAI requires the INS number and functional class for additives.
+sorghum :: sorghum ::  :: No mandatory facets.
+soup-powder :: soup-powder ::  :: No mandatory facets.
+sourdough :: sourdough ::  :: No mandatory facets.
+soy-hydrolysate :: soy-hydrolysate :: #source:soy, #process:hydrolyzed :: Source (allergen) and process must be declared.
+soy-oil :: soy-oil :: #source:soy, #process:refined :: Source must be declared for allergen and identity; refinement process is often required.
+soy-protein :: soy-protein :: #source:soy :: Source must be declared for allergen and identity.
+soy-sauce-powder :: soy-sauce-powder :: #source:soy :: Source must be declared for allergen and identity.
+soy :: soy :: #source:soy :: Source must be declared for allergen and identity.
+spelt :: spelt ::  :: No mandatory facets.
+spice-extract :: spice-extract ::  :: No mandatory facets.
+spinach :: spinach ::  :: No mandatory facets.
+spirulina :: spirulina ::  :: No mandatory facets.
+star-anise :: star-anise ::  :: No mandatory facets.
+stearic-acid :: stearic-acid ::  :: No mandatory facets.
+stevia :: stevia ::  :: No mandatory facets.
+stinging-nettle :: stinging-nettle ::  :: No mandatory facets.
+stone-flower :: stone-flower ::  :: No mandatory facets.
+strawberry-flavouring :: strawberry-flavouring ::  :: No mandatory facets.
+strawberry :: strawberry ::  :: No mandatory facets.
+sucralose-ins-955 :: sucralose :: #ins-955, #functional-class:sweetener :: FSSAI requires the INS number and functional class for additives.
+sucrose-acetate-isobutyrate-ins-444 :: sucrose-acetate-isobutyrate :: #ins-444, #functional-class:stabilizer :: FSSAI requires the INS number and functional class for additives.
+sugar :: sugar ::  :: No mandatory facets.
+sulphites :: sulphites :: #functional-class:preservative :: Functional class must be declared.
+sunflower-creamer :: sunflower-creamer :: #source:sunflower :: Source must be declared for identity.
+sunflower-oil :: sunflower-oil :: #source:sunflower, #process:oil :: Source is needed for oil identity.
+sunflower-seeds :: sunflower-seeds :: #source:sunflower :: Source is needed for seed identity.
+sunset-yellow-ins-110 :: sunset-yellow :: #ins-110, #functional-class:food-color :: FSSAI requires the specific name and functional class for additives.
+supari :: supari ::  :: Supari is a common name.
+sweet-potato :: sweet-potato ::  :: Sweet potato is a common name.
+tamarind-imli :: tamarind ::  :: Tamarind is a common name, imli is redundant.
+tangerine :: tangerine ::  :: Tangerine is a common name.
+tangy-tomato :: tomato ::  :: Tomato is a common name, tangy is a descriptor.
+tapioca :: tapioca ::  :: Tapioca is a common name.
+tara-gum-ins-417 :: tara-gum :: #ins-417, #functional-class:stabilizer :: FSSAI requires the specific name and functional class for additives.
+tartaric-acid-ins-334 :: tartaric-acid :: #ins-334, #functional-class:acidity-regulator :: FSSAI requires the specific name and functional class for additives.
+tartrazine-ins-102 :: tartrazine :: #ins-102, #functional-class:food-color :: FSSAI requires the specific name and functional class for additives.
+taurine :: taurine ::  :: Taurine is a common name.
+tea :: tea ::  :: Tea is a common name.
+tertiary-butylhydroquinone-tbhq---ins-319 :: tertiary-butylhydroquinone :: #ins-319, #functional-class:antioxidant :: FSSAI requires the specific name and functional class for additives.
+thandai-flavouring :: thandai-flavouring :: #functional-class:flavoring :: Flavorings require functional class.
+thaumatin-ins-957 :: thaumatin :: #ins-957, #functional-class:flavor-enhancer :: FSSAI requires the specific name and functional class for additives.
+thiamine-vitamin-b1 :: thiamine :: #functional-class:vitamin :: Vitamins require functional class.
+threonine :: threonine ::  :: Threonine is a common name.
+thyme :: thyme ::  :: Thyme is a common name.
+titanium-dioxide-ins-171 :: titanium-dioxide :: #ins-171, #functional-class:food-color :: FSSAI requires the specific name and functional class for additives.
+toasted-flakes :: flakes :: #process:toasted :: Process is important for description.
+tomato :: tomato ::  :: Tomato is a common name.
+toned-milk :: toned-milk ::  :: Toned milk is a common name.
+triphala-powder :: triphala :: #process:powder :: Process is important for description.
+truffle :: truffle ::  :: Truffle is a common ingredient.
+tulsi :: tulsi ::  :: Tulsi is a common ingredient.
+turkey :: turkey ::  :: Turkey is a common ingredient.
+turmeric :: turmeric ::  :: Turmeric is a common ingredient.
+turnip :: turnip ::  :: Turnip is a common ingredient.
+tvp :: tvp :: #source:soy :: TVP is usually soy-based, source declaration needed.
+urad-dal-black-gram :: urad-dal :: #aka:black-gram :: "Black gram" is a common alternate name.
+utpala :: utpala ::  :: Utpala is a common ingredient.
+vallarai :: vallarai ::  :: Vallarai is a common ingredient.
+vamsha :: vamsha ::  :: Vamsha is a common ingredient.
+vanilla-flavouring :: vanilla :: #functional-class:flavoring :: Functional class helps clarify the ingredient.
+vanilla :: vanilla ::  :: Vanilla is a common ingredient.
+vasa :: vasa ::  :: Vasa is a common ingredient.
+veg-lichen :: lichen :: #source:vegetable :: Source clarifies the type of lichen.
+vegetable-fat :: vegetable-fat :: #source:unspecified :: Source must be declared for fats.
+vegetable-juice :: vegetable-juice :: #source:unspecified :: Source must be declared for juices.
+vegetable-oil :: vegetable-oil :: #source:unspecified :: Source must be declared for oils.
+vegetable-protein :: vegetable-protein :: #source:unspecified :: Source must be declared for proteins.
+vermicelli :: vermicelli ::  :: Vermicelli is a common ingredient.
+vijaysar :: vijaysar ::  :: Vijaysar is a common ingredient.
+vinegar :: vinegar ::  :: Vinegar is a common ingredient.
+vitamin-a :: vitamin-a :: #functional-class:vitamin :: Functional class helps clarify the ingredient.
+vitamin-b-complex :: vitamin-b-complex :: #functional-class:vitamin :: Functional class helps clarify the ingredient.
+vitamin-b12 :: vitamin-b12 :: #functional-class:vitamin :: Functional class helps clarify the ingredient.
+vitamin-d :: vitamin-d :: #functional-class:vitamin :: Functional class helps clarify the ingredient.
+vitamin-k :: vitamin-k :: #functional-class:vitamin :: Vitamins are often declared for nutritional information.
+wafer :: wafer ::  :: Wafers are a composite food, no specific facets needed.
+walnut :: walnut :: #source:walnut :: Source is needed for allergen declaration.
+water-chestnut :: water-chestnut ::  :: No specific facets needed.
+water :: water ::  :: No specific facets needed.
+watermelon-seeds :: watermelon-seeds :: #source:watermelon :: Source is needed for identification.
+watermelon :: watermelon ::  :: No specific facets needed.
+wheat-flour :: wheat-flour :: #source:wheat :: Source is needed for allergen declaration.
+wheat-gluten :: wheat-gluten :: #source:wheat :: Source is needed for allergen declaration.
+wheat :: wheat ::  :: No specific facets needed.
+wheatgrass :: wheatgrass :: #source:wheatgrass :: Source is needed for identification.
+whey-powder :: whey :: #source:milk :: Source is needed for allergen declaration (milk).
+whey-protein :: whey-protein :: #source:milk :: Source is needed for allergen declaration (milk).
+white-pepper :: white-pepper ::  :: No specific facets needed.
+whole-wheat-flour-atta :: whole-wheat-flour :: #source:wheat :: Source is needed for allergen declaration.
+xanthan-gum-ins-415 :: xanthan-gum :: #ins-415, #functional-class:thickener :: FSSAI requires the specific name and functional class for additives.
+xylanase :: xylanase :: #functional-class:enzyme :: Functional class helps to understand the purpose.
+xylitol :: xylitol :: #functional-class:sweetener :: Functional class helps to understand the purpose.
+yeast-extract :: yeast-extract :: #source:yeast :: Source is needed for identification.
+yeast :: yeast ::  :: No specific facets needed.
+yogurt :: yogurt :: #source:milk, #strain: (if applicable) :: Source is needed for allergen declaration (milk), strain declaration may be needed for specific types.
+zinc :: zinc :: #functional-class:mineral :: Minerals are often declared for nutritional information.

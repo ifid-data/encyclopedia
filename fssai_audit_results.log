@@ -1,0 +1,636 @@
+--- FSSAI AUDIT SESSION START ---
+2'-fucosyllactose :: APPROVE :: Specific oligosaccharide
+a2-protein :: APPROVE :: Specific protein type
+aavarampoo :: APPROVE :: Botanical ingredient
+acai-berry-flavouring :: FLAG :: Flavoring requires source clarification
+acesulfame-potassium-ins-950 :: APPROVE :: Specific additive with INS number
+acetic-acid-ins-260 :: APPROVE :: Specific additive with INS number
+active-culture :: FLAG :: Needs strain specification
+agar-ins-406 :: APPROVE :: Specific additive with INS number
+agnimantha :: APPROVE :: Botanical ingredient
+ajwain-carom-seeds :: APPROVE :: Specific seed
+alcohol :: APPROVE :: Common ingredient
+algal-oil :: APPROVE :: Specific oil source
+allspice :: APPROVE :: Common spice
+allura-red-ins-129 :: APPROVE :: Specific additive with INS number
+almond-flavouring :: FLAG :: Flavoring requires source clarification
+almonds :: APPROVE :: Common nut
+aloe-vera :: APPROVE :: Botanical ingredient
+alpha-amylase :: APPROVE :: Specific enzyme
+amino-acids :: FLAG :: Needs specific amino acid names
+amla :: APPROVE :: Botanical ingredient
+ammonia :: APPROVE :: Specific chemical
+ammonium-phosphatides-ins-442 :: APPROVE :: Specific additive with INS number
+amra :: APPROVE :: Botanical ingredient
+aniseed :: APPROVE :: Common spice
+anjeer-fig :: APPROVE :: Common fruit
+annatto-ins-160b :: APPROVE :: Specific additive with INS number
+anthocyanins-ins-163 :: APPROVE :: Specific additive with INS number
+anti-foaming-agent-ins-900a :: DELETE :: Functional descriptor
+apple-flavouring :: FLAG :: Flavoring requires source clarification
+apple :: APPROVE :: Common fruit
+apricot :: APPROVE :: Common fruit
+arachidonic-acid :: APPROVE :: Specific fatty acid
+arginine :: APPROVE :: Specific amino acid
+aronia-berry :: APPROVE :: Specific berry
+arrowroot-powder :: APPROVE :: Specific starch
+artificial-flavouring :: FLAG :: Flavoring requires source clarification
+asafoetida-flavouring :: FLAG :: Flavoring requires source clarification
+asafoetida :: APPROVE :: Common spice
+ash-gourd :: APPROVE :: Common vegetable
+ashwagandha :: APPROVE :: Botanical ingredient
+aspartame :: APPROVE :: Specific additive
+athimathuram :: APPROVE :: Botanical ingredient
+bael :: APPROVE :: Botanical ingredient
+baking-powder :: FLAG :: Needs specific components
+bala :: APPROVE :: Botanical ingredient
+balm :: APPROVE :: Botanical ingredient
+banana :: APPROVE :: Common fruit
+barley :: APPROVE :: Common grain
+barramundi :: APPROVE :: Specific fish
+basa-fish :: APPROVE :: Specific fish
+
+basil :: APPROVE :: Literal ingredient
+basmati-rice :: APPROVE :: Literal ingredient
+bay-leaf :: APPROVE :: Literal ingredient
+bcaa :: APPROVE :: Literal ingredient
+beans :: APPROVE :: Literal ingredient
+beetroot-red-ins-162 :: APPROVE :: Literal ingredient
+bengal-gram-chana-dal :: APPROVE :: Literal ingredient
+berries :: APPROVE :: Literal ingredient
+berry-flavouring :: FLAG :: Needs specific source
+beta-carotene-ins-160a :: APPROVE :: Literal ingredient
+betelnut :: APPROVE :: Literal ingredient
+bhringraj :: APPROVE :: Literal ingredient
+bht-ins-321 :: APPROVE :: Literal ingredient
+bhut-jolokia :: APPROVE :: Literal ingredient
+bibhitaki :: APPROVE :: Literal ingredient
+bifidobacterium :: APPROVE :: Literal ingredient
+biotin :: APPROVE :: Literal ingredient
+black-cardamom :: APPROVE :: Literal ingredient
+black-cumin :: APPROVE :: Literal ingredient
+black-pepper-flavouring :: FLAG :: Needs specific source
+black-pepper :: APPROVE :: Literal ingredient
+black-rice :: APPROVE :: Literal ingredient
+black-salt :: APPROVE :: Literal ingredient
+black-tea :: APPROVE :: Literal ingredient
+blackcurrant :: APPROVE :: Literal ingredient
+blueberry-flavouring :: FLAG :: Needs specific source
+blueberry :: APPROVE :: Literal ingredient
+bok-choy :: APPROVE :: Literal ingredient
+brahma-thandu :: APPROVE :: Literal ingredient
+brahmi :: APPROVE :: Literal ingredient
+bran :: APPROVE :: Literal ingredient
+brihati :: APPROVE :: Literal ingredient
+brilliant-blue-ins-133 :: APPROVE :: Literal ingredient
+brine :: APPROVE :: Literal ingredient
+bromelain :: APPROVE :: Literal ingredient
+brown-rice-protein-isolate :: APPROVE :: Literal ingredient
+brown-rice :: APPROVE :: Literal ingredient
+bubblegum-flavouring :: FLAG :: Needs specific source
+buckwheat :: APPROVE :: Literal ingredient
+buffalo-meat :: APPROVE :: Literal ingredient
+butter :: APPROVE :: Literal ingredient
+butterfat :: APPROVE :: Literal ingredient
+buttermilk :: APPROVE :: Literal ingredient
+butterscotch-flavouring :: FLAG :: Needs specific source
+butterscotch :: APPROVE :: Literal ingredient
+cabbage :: APPROVE :: Literal ingredient
+calcium-salt :: FLAG :: Needs specific salt
+candied-fruits :: APPROVE :: Literal ingredient
+cantaloupe :: APPROVE :: Literal ingredient
+caramel-color-ins-150 :: APPROVE :: Literal ingredient
+
+carbonates-additives :: DELETE :: Functional descriptor, requires specific chemical name
+cardamom-flavouring :: FLAG :: Ambiguous "flavoring" term, needs source
+carmoisine-ins-122 :: APPROVE :: Specific legal name for additive
+carrot-flavouring :: FLAG :: Ambiguous "flavoring" term, needs source
+carrot :: APPROVE :: Literal ingredient
+caseinate :: APPROVE :: Literal ingredient
+cashew :: APPROVE :: Literal ingredient
+catechins :: APPROVE :: Literal ingredient
+catechu :: APPROVE :: Literal ingredient
+celery :: APPROVE :: Literal ingredient
+cellulose-gum-ins-466 :: APPROVE :: Specific legal name for additive
+cereal-extract :: APPROVE :: Literal ingredient
+chakala :: APPROVE :: Literal ingredient
+chakka :: APPROVE :: Literal ingredient
+chamomile :: APPROVE :: Literal ingredient
+cheese-powder :: APPROVE :: Literal ingredient
+cheese :: APPROVE :: Literal ingredient
+cherries :: APPROVE :: Literal ingredient
+chhareela :: APPROVE :: Literal ingredient
+chhena :: APPROVE :: Literal ingredient
+chia-seeds :: APPROVE :: Literal ingredient
+chicken :: APPROVE :: Literal ingredient
+chickpea :: APPROVE :: Literal ingredient
+chicory :: APPROVE :: Literal ingredient
+chikoo :: APPROVE :: Literal ingredient
+chilli-extract :: APPROVE :: Literal ingredient
+chilli :: APPROVE :: Literal ingredient
+chirva :: APPROVE :: Literal ingredient
+chives :: APPROVE :: Literal ingredient
+chlorella :: APPROVE :: Literal ingredient
+chloride :: APPROVE :: Literal ingredient
+chlorophyll-ins-141 :: APPROVE :: Specific legal name for additive
+chocolate-flavouring :: FLAG :: Ambiguous "flavoring" term, needs source
+cholecalciferol :: APPROVE :: Literal ingredient
+cholesterol :: APPROVE :: Literal ingredient
+choline-bitartrate :: APPROVE :: Literal ingredient
+choline-chloride :: APPROVE :: Literal ingredient
+chromium :: APPROVE :: Literal ingredient
+cinnamon :: APPROVE :: Literal ingredient
+citharathai :: APPROVE :: Literal ingredient
+citric-acid-ins-330 :: APPROVE :: Specific legal name for additive
+citron :: APPROVE :: Literal ingredient
+citrus-fiber :: APPROVE :: Literal ingredient
+citrus-pulp :: APPROVE :: Literal ingredient
+cloudifier :: DELETE :: Functional descriptor, requires specific chemical name
+clove :: APPROVE :: Literal ingredient
+cocoa-butter-equivalent :: FLAG :: Needs specific source oil
+cocoa :: APPROVE :: Literal ingredient
+coconut-oil :: APPROVE :: Literal ingredient
+coconut-water :: APPROVE :: Literal ingredient
+
+coconut :: APPROVE :: literal ingredient
+coffee-flavouring :: FLAG :: ambiguous term
+coffee :: APPROVE :: literal ingredient
+condensed-milk :: APPROVE :: literal ingredient
+cooling-flavouring :: FLAG :: ambiguous term
+copper :: APPROVE :: literal ingredient
+coriander :: APPROVE :: literal ingredient
+corn-oil :: APPROVE :: literal ingredient
+corn-starch :: APPROVE :: literal ingredient
+cotton-candy-flavouring :: FLAG :: ambiguous term
+cottonseed-oil :: APPROVE :: literal ingredient
+cow-milk :: APPROVE :: literal ingredient
+cranberry-flavouring :: FLAG :: ambiguous term
+cranberry-juice :: APPROVE :: literal ingredient
+cranberry :: APPROVE :: literal ingredient
+cream-flavouring :: FLAG :: ambiguous term
+cream :: APPROVE :: literal ingredient
+creatine :: APPROVE :: literal ingredient
+croscarmellose-sodium-ins-468 :: APPROVE :: literal ingredient
+cucumber-seeds :: APPROVE :: literal ingredient
+cucumis :: APPROVE :: literal ingredient
+cultured-glucose :: APPROVE :: literal ingredient
+cumin-extract :: APPROVE :: literal ingredient
+cumin-jeera :: APPROVE :: literal ingredient
+curcumin-ins-100 :: APPROVE :: literal ingredient
+curd :: APPROVE :: literal ingredient
+curry-leaves :: APPROVE :: literal ingredient
+curry-mix :: FLAG :: ambiguous term
+custard-flavouring :: FLAG :: ambiguous term
+cyanocobalamin :: APPROVE :: literal ingredient
+cysteine :: APPROVE :: literal ingredient
+dairy-whitener :: FLAG :: ambiguous term
+date-fiber :: APPROVE :: literal ingredient
+datem-ins-472e :: APPROVE :: literal ingredient
+dates :: APPROVE :: literal ingredient
+dextrin :: APPROVE :: literal ingredient
+dextrose :: APPROVE :: literal ingredient
+dha :: APPROVE :: literal ingredient
+digezyme :: FLAG :: Marketing Name
+diluent-ins-1520 :: APPROVE :: literal ingredient
+dioscorea :: APPROVE :: literal ingredient
+disodium-5'-ribonucleotides-ins-635 :: APPROVE :: literal ingredient
+disodium-guanylate-ins-627 :: APPROVE :: literal ingredient
+disodium-inosinate-ins-631 :: APPROVE :: literal ingredient
+edible-gum :: FLAG :: ambiguous term
+egg :: APPROVE :: literal ingredient
+eggless-base :: FLAG :: Marketing Name
+electrolytes :: FLAG :: ambiguous term
+emulsifier :: DELETE :: functional descriptor
+emulsifying-salt :: DELETE :: functional descriptor
+
+enzymes :: DELETE :: functional descriptor
+ergocalciferol :: APPROVE :: specific chemical name
+erythritol :: APPROVE :: specific chemical name
+erythrosine-ins-127 :: APPROVE :: specific chemical name
+essential-oils :: FLAG :: ambiguous blend
+eucalyptol :: APPROVE :: specific chemical name
+evening-primrose-oil :: APPROVE :: standalone ingredient
+excipients :: DELETE :: functional descriptor
+fatty-acids :: APPROVE :: standalone ingredient
+fava-bean-protein :: APPROVE :: standalone ingredient
+fennel :: APPROVE :: standalone ingredient
+fenugreek :: APPROVE :: standalone ingredient
+ferric-ammonium-citrate :: APPROVE :: specific chemical name
+ferric-pyrophosphate :: APPROVE :: specific chemical name
+ferrous-fumarate :: APPROVE :: specific chemical name
+ferrous-gluconate :: APPROVE :: specific chemical name
+ferrous-salt :: FLAG :: ambiguous term
+ferrous-sulphate :: APPROVE :: specific chemical name
+fish :: APPROVE :: standalone ingredient
+flax-seed-oil :: APPROVE :: standalone ingredient
+flax-seed :: APPROVE :: standalone ingredient
+folic-acid :: APPROVE :: specific chemical name
+fortified-wheat-flour :: FLAG :: ambiguous term
+fos :: APPROVE :: standalone ingredient
+fox-nut-makhana :: APPROVE :: standalone ingredient
+fractionated-fat :: FLAG :: ambiguous term
+fructose :: APPROVE :: specific chemical name
+fumaric-acid :: APPROVE :: specific chemical name
+gambhari :: APPROVE :: standalone ingredient
+gaozaban-flavouring :: FLAG :: ambiguous term
+garcinia-cambogia :: APPROVE :: standalone ingredient
+garlic-flavouring :: FLAG :: ambiguous term
+garlic :: APPROVE :: standalone ingredient
+gelatin-ins-428 :: APPROVE :: specific chemical name
+gellan-gum-ins-418 :: APPROVE :: specific chemical name
+ghee :: APPROVE :: standalone ingredient
+giloy :: APPROVE :: standalone ingredient
+ginger-flavouring :: FLAG :: ambiguous term
+ginger :: APPROVE :: standalone ingredient
+ginseng :: APPROVE :: standalone ingredient
+glucose-syrup :: APPROVE :: specific chemical name
+glucuronolactone :: APPROVE :: specific chemical name
+glutamine :: APPROVE :: specific chemical name
+gluten :: APPROVE :: standalone ingredient
+glutinous-rice-flour :: APPROVE :: standalone ingredient
+glycerol-ester-of-rosin-ins-445 :: APPROVE :: specific chemical name
+glycerol-ins-422 :: APPROVE :: specific chemical name
+goat-meat :: APPROVE :: standalone ingredient
+goji-berry :: APPROVE :: standalone ingredient
+gokshura :: APPROVE :: standalone ingredient
+
+gongura :: APPROVE :: Leafy vegetable ingredient
+grape-seed :: APPROVE :: Seed-derived oil source
+grape :: APPROVE :: Fruit ingredient
+grapefruit :: APPROVE :: Citrus fruit ingredient
+green-apple :: APPROVE :: Apple variant
+green-cardamom-elaichi :: APPROVE :: Spice ingredient
+green-gram-moong-dal :: APPROVE :: Legume ingredient
+green-tea-flavouring :: FLAG :: Flavoring requires further specification
+green-tea :: APPROVE :: Tea ingredient
+groundnut-oil :: APPROVE :: Legume-derived oil
+guar-gum-ins-412 :: APPROVE :: Stabilizer additive
+guarana :: APPROVE :: Plant extract ingredient
+guava-flavouring :: FLAG :: Flavoring requires further specification
+guava :: APPROVE :: Fruit ingredient
+gudmar :: APPROVE :: Herbal ingredient
+gum-base :: FLAG :: Composite ingredient requiring breakdown
+hadjod :: APPROVE :: Herbal ingredient
+haritaki :: APPROVE :: Herbal ingredient
+hazelnut-flavouring :: FLAG :: Flavoring requires further specification
+hazelnut :: APPROVE :: Nut ingredient
+hemicellulase :: DELETE :: Flour Treatment Agent
+herbs :: FLAG :: Broad term needing specific herb names
+hibiscus :: APPROVE :: Flower ingredient
+hmb :: APPROVE :: Chemical compound
+hmcs :: FLAG :: Requires further specification
+honey-flavouring :: FLAG :: Flavoring requires further specification
+honey :: APPROVE :: Natural sweetener
+hops :: APPROVE :: Brewing ingredient
+horsegram :: APPROVE :: Legume ingredient
+hyaluronic-acid :: APPROVE :: Chemical compound
+hydrogenated-palm-oil :: APPROVE :: Hydrogenated oil
+hydrogenated-vegetable-fat :: FLAG :: Fat source unspecified
+hydrolyzed-vegetable-protein :: FLAG :: Protein source unspecified
+ice-cream :: FLAG :: Composite ingredient requiring breakdown
+idli-rava :: APPROVE :: Grain product
+indigo-carmine-ins-132 :: APPROVE :: Synthetic food color
+inositol :: APPROVE :: Chemical compound
+interesterified-vegetable-fat :: FLAG :: Fat source unspecified
+invert-sugar :: APPROVE :: Sugar type
+iodate :: APPROVE :: Chemical compound
+iron :: APPROVE :: Mineral
+isomalt :: APPROVE :: Sugar substitute
+jackfruit :: APPROVE :: Fruit ingredient
+jalapeno :: APPROVE :: Pepper ingredient
+jam :: FLAG :: Composite ingredient requiring breakdown
+jamun-flavouring :: FLAG :: Flavoring requires further specification
+jamun :: APPROVE :: Fruit ingredient
+jiwanti :: APPROVE :: Herbal ingredient
+kachri :: APPROVE :: Spice ingredient
+kakanasika :: APPROVE :: Herbal ingredient
+
+kale :: APPROVE :: Literal ingredient
+kalonji-nigella-seeds :: APPROVE :: Literal ingredient
+kantakari :: APPROVE :: Literal ingredient
+karela :: APPROVE :: Literal ingredient
+karkatshringi :: APPROVE :: Literal ingredient
+kasni :: APPROVE :: Literal ingredient
+kewra-flavouring :: FLAG :: Ambiguous flavoring
+khar :: APPROVE :: Literal ingredient
+khoa :: APPROVE :: Literal ingredient
+khorasan :: APPROVE :: Literal ingredient
+khus :: APPROVE :: Literal ingredient
+kiwi :: APPROVE :: Literal ingredient
+kokum-fat :: FLAG :: Needs source specification
+kombucha :: APPROVE :: Literal ingredient
+kutki :: APPROVE :: Literal ingredient
+l-carnitine :: APPROVE :: Literal ingredient
+l-hpc :: FLAG :: Needs expanded chemical name
+l-n-neotetraose :: FLAG :: Needs expanded chemical name
+l-theanine :: APPROVE :: Literal ingredient
+lactase :: APPROVE :: Literal ingredient
+lactic-acid-ins-270 :: APPROVE :: Literal ingredient
+lactobacillus :: APPROVE :: Literal ingredient
+lactose :: APPROVE :: Literal ingredient
+lecithin-ins-322 :: APPROVE :: Literal ingredient
+leek :: APPROVE :: Literal ingredient
+legumes :: APPROVE :: Literal ingredient
+lemon-flavouring :: FLAG :: Ambiguous flavoring
+lemon :: APPROVE :: Literal ingredient
+lemongrass :: APPROVE :: Literal ingredient
+lentils :: APPROVE :: Literal ingredient
+lime-flavouring :: FLAG :: Ambiguous flavoring
+lime :: APPROVE :: Literal ingredient
+liquorice :: APPROVE :: Literal ingredient
+litchi-flavouring :: FLAG :: Ambiguous flavoring
+litchi :: APPROVE :: Literal ingredient
+long-pepper :: APPROVE :: Literal ingredient
+lotus-seeds :: APPROVE :: Literal ingredient
+lupin :: APPROVE :: Literal ingredient
+lutein :: APPROVE :: Literal ingredient
+lycopene :: APPROVE :: Literal ingredient
+lysine :: APPROVE :: Literal ingredient
+macaroni :: APPROVE :: Literal ingredient
+mace-javitri :: APPROVE :: Literal ingredient
+magnesium-salts :: FLAG :: Needs specific salt name
+magnesium :: APPROVE :: Literal ingredient
+maida-refined-wheat-flour :: APPROVE :: Literal ingredient
+malic-acid-ins-296 :: APPROVE :: Literal ingredient
+maltitol :: APPROVE :: Literal ingredient
+maltodextrin :: APPROVE :: Literal ingredient
+manganese-sulphate :: APPROVE :: Literal ingredient
+
+manganese :: APPROVE :: Literal ingredient
+mango-flavouring :: FLAG :: Ambiguous flavoring
+mango-kernel-fat :: FLAG :: Vegetable fat without source
+mango :: APPROVE :: Literal ingredient
+margarine :: FLAG :: Composite blend
+mashaparni :: APPROVE :: Literal ingredient
+mayonnaise :: FLAG :: Composite blend
+mct :: FLAG :: Marketing name
+menthol :: APPROVE :: Literal ingredient
+methionine :: APPROVE :: Literal ingredient
+methocel :: FLAG :: Marketing name
+microcrystalline-cellulose-ins-460 :: APPROVE :: Literal ingredient
+milk-flavouring :: FLAG :: Ambiguous flavoring
+milk-powder :: APPROVE :: Literal ingredient
+milk-protein :: APPROVE :: Literal ingredient
+milk-solids :: APPROVE :: Literal ingredient
+milk :: APPROVE :: Literal ingredient
+millet :: APPROVE :: Literal ingredient
+mineral-salts :: APPROVE :: Literal ingredient
+mint-flavouring :: FLAG :: Ambiguous flavoring
+mint :: APPROVE :: Literal ingredient
+mirin :: FLAG :: Composite blend
+modified-starch :: FLAG :: Needs source
+molasses :: APPROVE :: Literal ingredient
+molybdenum :: APPROVE :: Literal ingredient
+monk-fruit :: APPROVE :: Literal ingredient
+mono-and-diglycerides-of-fatty-acids-ins-471 :: APPROVE :: Literal ingredient
+moringa :: APPROVE :: Literal ingredient
+moth-bean :: APPROVE :: Literal ingredient
+mudgaparni :: APPROVE :: Literal ingredient
+mulberry :: APPROVE :: Literal ingredient
+munakka-flavouring :: FLAG :: Ambiguous flavoring
+mushroom :: APPROVE :: Literal ingredient
+musli :: APPROVE :: Literal ingredient
+musta :: APPROVE :: Literal ingredient
+mustard-oil :: APPROVE :: Literal ingredient
+mustard :: APPROVE :: Literal ingredient
+nannari :: APPROVE :: Literal ingredient
+nata-de-coco :: APPROVE :: Literal ingredient
+navsadar :: APPROVE :: Literal ingredient
+neem :: APPROVE :: Literal ingredient
+niacin-vitamin-b3 :: APPROVE :: Literal ingredient
+niger-seed :: APPROVE :: Literal ingredient
+nitrogen :: APPROVE :: Literal ingredient
+nucleotides :: APPROVE :: Literal ingredient
+nut :: APPROVE :: Literal ingredient
+nutmeg-jaiphal :: APPROVE :: Literal ingredient
+nuts-paste :: FLAG :: Composite blend
+oat :: APPROVE :: Literal ingredient
+okra :: APPROVE :: Literal ingredient
+
+oleoresin :: FLAG :: Requires source plant to be a legal ingredient.
+olive-oil :: APPROVE :: Recognizable oil.
+omega-3 :: FLAG :: Needs source to be a legal ingredient.
+onion-flavouring :: FLAG :: Generic flavoring requires breakdown.
+onion :: APPROVE :: Literal ingredient.
+orange-flavouring :: FLAG :: Generic flavoring requires breakdown.
+orange-juice :: APPROVE :: Recognizable juice.
+orange :: APPROVE :: Literal ingredient.
+oregano :: APPROVE :: Literal ingredient.
+oxide :: FLAG :: Needs specific chemical name.
+palm-kernel-oil :: APPROVE :: Recognizable oil.
+palm-oil :: APPROVE :: Recognizable oil.
+palm-stearin :: APPROVE :: Recognizable oil fraction.
+palm-sugar :: APPROVE :: Recognizable sugar.
+palmolein :: APPROVE :: Recognizable oil fraction.
+pantothenic-acid-vitamin-b5 :: APPROVE :: Legal chemical name.
+papain :: APPROVE :: Recognizable enzyme.
+papaya :: APPROVE :: Literal ingredient.
+paprika-extract-ins-160c :: APPROVE :: Legal additive name.
+paprika :: APPROVE :: Literal ingredient.
+parsley :: APPROVE :: Literal ingredient.
+passion-fruit :: APPROVE :: Literal ingredient.
+pea-protein :: APPROVE :: Recognizable protein.
+peach :: APPROVE :: Literal ingredient.
+peas :: APPROVE :: Literal ingredient.
+pecans :: APPROVE :: Literal ingredient.
+pectin-ins-440 :: APPROVE :: Legal additive name.
+peepramul :: APPROVE :: Literal ingredient.
+pepper :: APPROVE :: Literal ingredient.
+pgpr-ins-476 :: APPROVE :: Legal additive name.
+phenylalanine :: APPROVE :: Legal chemical name.
+phosphates-additives :: DELETE :: Functional descriptor.
+phosphoric-acid :: APPROVE :: Legal chemical name.
+phosphorus :: APPROVE :: Legal chemical name.
+phyllanthus-niruri :: APPROVE :: Literal ingredient.
+phytomenadione :: APPROVE :: Legal chemical name.
+pigeon-pea-toor-dal :: APPROVE :: Literal ingredient.
+pineapple-flavouring :: FLAG :: Generic flavoring requires breakdown.
+pineapple :: APPROVE :: Literal ingredient.
+pippali :: APPROVE :: Literal ingredient.
+pistachio-flavouring :: FLAG :: Generic flavoring requires breakdown.
+pistachio :: APPROVE :: Literal ingredient.
+pizza-flavouring :: FLAG :: Generic flavoring requires breakdown.
+plum :: APPROVE :: Literal ingredient.
+polyglycerol-esters-of-fatty-acids-ins-475 :: APPROVE :: Legal additive name.
+polysorbate-60-ins-435 :: APPROVE :: Legal additive name.
+polysorbate-80-ins-433 :: APPROVE :: Legal additive name.
+polyvinylpyrrolidone-ins-1201 :: APPROVE :: Legal additive name.
+pomegranate-flavouring :: FLAG :: Generic flavoring requires breakdown.
+pomegranate :: APPROVE :: Literal ingredient.
+
+pomelo :: APPROVE :: Literal fruit ingredient.
+ponceau-4r-ins-124 :: APPROVE :: Specific legal name of color additive.
+poppy-seed :: APPROVE :: Literal seed ingredient.
+potassium-benzoate-ins-212 :: APPROVE :: Specific legal name of preservative.
+potassium-chloride-ins-508 :: APPROVE :: Specific legal name of salt.
+potassium-iodate :: APPROVE :: Specific legal name of additive.
+potassium-iodide :: APPROVE :: Specific legal name of additive.
+potassium-metabisulphite-ins-224 :: APPROVE :: Specific legal name of preservative.
+potassium-phosphate :: APPROVE :: Specific legal name of additive.
+potassium-sorbate-ins-202 :: APPROVE :: Specific legal name of preservative.
+potassium :: APPROVE :: Literal mineral ingredient.
+potato :: APPROVE :: Literal vegetable ingredient.
+precooked-pasta :: APPROVE :: Literal ingredient.
+prishniparni :: APPROVE :: Literal ingredient.
+probiotics :: APPROVE :: Literal ingredient.
+propylene-glycol-esters-of-fatty-acids-ins-477 :: APPROVE :: Specific legal name of emulsifier.
+psyllium :: APPROVE :: Literal ingredient.
+pueraria-tuberosa :: APPROVE :: Literal ingredient.
+pullulan-ins-1204 :: APPROVE :: Specific legal name of glazing agent.
+pumpkin-seeds :: APPROVE :: Literal seed ingredient.
+pumpkin :: APPROVE :: Literal vegetable ingredient.
+punarnava :: APPROVE :: Literal ingredient.
+pushkara :: APPROVE :: Literal ingredient.
+pvp-ins-1202 :: APPROVE :: Specific legal name of additive.
+pyridoxine-hydrochloride-vitamin-b6 :: APPROVE :: Specific legal name of vitamin.
+quillaja-extract-ins-999 :: APPROVE :: Specific legal name of additive.
+quinoa :: APPROVE :: Literal grain ingredient.
+radish :: APPROVE :: Literal vegetable ingredient.
+raisins :: APPROVE :: Literal fruit ingredient.
+rapeseed-oil :: APPROVE :: Literal oil ingredient.
+raspberries :: APPROVE :: Literal fruit ingredient.
+red-currant :: APPROVE :: Literal fruit ingredient.
+resveratrol :: APPROVE :: Literal ingredient.
+riboflavin-ins-101 :: APPROVE :: Specific legal name of vitamin.
+rice-bran-oil :: APPROVE :: Literal oil ingredient.
+rice :: APPROVE :: Literal grain ingredient.
+rose-flavouring :: FLAG :: Needs source information.
+rose :: APPROVE :: Literal ingredient.
+rosemary-flavouring :: FLAG :: Needs source information.
+rosemary :: APPROVE :: Literal ingredient.
+rye :: APPROVE :: Literal grain ingredient.
+sadhakuppai :: APPROVE :: Literal ingredient.
+safflower-oil :: APPROVE :: Literal oil ingredient.
+saffron-flavouring :: FLAG :: Needs source information.
+saffron :: APPROVE :: Literal spice ingredient.
+sago :: APPROVE :: Literal ingredient.
+sal-fat :: APPROVE :: Literal fat ingredient.
+salt :: APPROVE :: Literal ingredient.
+sandalwood :: APPROVE :: Literal ingredient.
+seaweed :: APPROVE :: Literal ingredient.
+
+semolina :: APPROVE :: Literal ingredient
+sequestrant-ins-385 :: DELETE :: Functional descriptor
+sesame :: APPROVE :: Literal ingredient
+sesbania :: APPROVE :: Literal ingredient
+shalaparni :: APPROVE :: Literal ingredient
+shankhapushpi :: APPROVE :: Literal ingredient
+shatavari :: APPROVE :: Literal ingredient
+shati :: APPROVE :: Literal ingredient
+shea-butter :: APPROVE :: Literal ingredient
+shyonaka :: APPROVE :: Literal ingredient
+silicon-dioxide-ins-551 :: APPROVE :: Literal ingredient
+silver-leaf :: APPROVE :: Literal ingredient
+sodium-acetate-ins-350 :: APPROVE :: Literal ingredient
+sodium-alginate-ins-401 :: APPROVE :: Literal ingredient
+sodium-aluminium-sulphate-ins-521 :: APPROVE :: Literal ingredient
+sodium-benzoate-ins-211 :: APPROVE :: Literal ingredient
+sodium-bicarbonate-baking-soda :: APPROVE :: Literal ingredient
+sodium-citrates-ins-331 :: APPROVE :: Literal ingredient
+sodium-lactate-ins-325 :: APPROVE :: Literal ingredient
+sodium-molybdate :: APPROVE :: Literal ingredient
+sodium-selenite :: APPROVE :: Literal ingredient
+sodium-starch-glycolate :: APPROVE :: Literal ingredient
+sodium-stearoyl-lactylate-ins-481 :: APPROVE :: Literal ingredient
+sorbic-acid-ins-200 :: APPROVE :: Literal ingredient
+sorbitan-tristearate-ins-492 :: APPROVE :: Literal ingredient
+sorbitol-ins-420 :: APPROVE :: Literal ingredient
+sorghum :: APPROVE :: Literal ingredient
+soup-powder :: FLAG :: Composite blend
+sourdough :: APPROVE :: Literal ingredient
+soy-hydrolysate :: APPROVE :: Literal ingredient
+soy-oil :: APPROVE :: Literal ingredient
+soy-protein :: APPROVE :: Literal ingredient
+soy-sauce-powder :: FLAG :: Composite blend
+soy :: APPROVE :: Literal ingredient
+spelt :: APPROVE :: Literal ingredient
+spice-extract :: FLAG :: Composite blend
+spinach :: APPROVE :: Literal ingredient
+spirulina :: APPROVE :: Literal ingredient
+star-anise :: APPROVE :: Literal ingredient
+stearic-acid :: APPROVE :: Literal ingredient
+stevia :: APPROVE :: Literal ingredient
+stinging-nettle :: APPROVE :: Literal ingredient
+stone-flower :: APPROVE :: Literal ingredient
+strawberry-flavouring :: FLAG :: Composite blend
+strawberry :: APPROVE :: Literal ingredient
+sucralose-ins-955 :: APPROVE :: Literal ingredient
+sucrose-acetate-isobutyrate-ins-444 :: APPROVE :: Literal ingredient
+sugar :: APPROVE :: Literal ingredient
+sulphites :: APPROVE :: Literal ingredient
+sunflower-creamer :: FLAG :: Composite blend
+
+sunflower-oil :: APPROVE :: Literal oil ingredient.
+sunflower-seeds :: APPROVE :: Literal seed ingredient.
+sunset-yellow-ins-110 :: APPROVE :: Specific legal additive name.
+supari :: APPROVE :: Literal ingredient.
+sweet-potato :: APPROVE :: Literal ingredient.
+tamarind-imli :: APPROVE :: Literal ingredient.
+tangerine :: APPROVE :: Literal ingredient.
+tangy-tomato :: FLAG :: Marketing name, needs clarification.
+tapioca :: APPROVE :: Literal ingredient.
+tara-gum-ins-417 :: APPROVE :: Specific legal additive name.
+tartaric-acid-ins-334 :: APPROVE :: Specific legal additive name.
+tartrazine-ins-102 :: APPROVE :: Specific legal additive name.
+taurine :: APPROVE :: Literal ingredient.
+tea :: APPROVE :: Literal ingredient.
+tertiary-butylhydroquinone-tbhq---ins-319 :: APPROVE :: Specific legal additive name.
+thandai-flavouring :: FLAG :: Generic flavoring, needs clarification.
+thaumatin-ins-957 :: APPROVE :: Specific legal additive name.
+thiamine-vitamin-b1 :: APPROVE :: Specific legal additive name.
+threonine :: APPROVE :: Literal ingredient.
+thyme :: APPROVE :: Literal ingredient.
+titanium-dioxide-ins-171 :: APPROVE :: Specific legal additive name.
+toasted-flakes :: FLAG :: Needs source to confirm legal identity.
+tomato :: APPROVE :: Literal ingredient.
+toned-milk :: APPROVE :: Literal ingredient.
+triphala-powder :: APPROVE :: Literal ingredient.
+truffle :: APPROVE :: Literal ingredient.
+tulsi :: APPROVE :: Literal ingredient.
+turkey :: APPROVE :: Literal ingredient.
+turmeric :: APPROVE :: Literal ingredient.
+turnip :: APPROVE :: Literal ingredient.
+tvp :: FLAG :: Needs source to confirm legal identity.
+urad-dal-black-gram :: APPROVE :: Literal ingredient.
+utpala :: APPROVE :: Literal ingredient.
+vallarai :: APPROVE :: Literal ingredient.
+vamsha :: APPROVE :: Literal ingredient.
+vanilla-flavouring :: FLAG :: Generic flavoring, needs clarification.
+vanilla :: APPROVE :: Literal ingredient.
+vasa :: APPROVE :: Literal ingredient.
+veg-lichen :: APPROVE :: Literal ingredient.
+vegetable-fat :: FLAG :: Needs source oil to confirm legal identity.
+vegetable-juice :: APPROVE :: Literal ingredient.
+vegetable-oil :: FLAG :: Needs source oil to confirm legal identity.
+vegetable-protein :: FLAG :: Needs source to confirm legal identity.
+vermicelli :: APPROVE :: Literal ingredient.
+vijaysar :: APPROVE :: Literal ingredient.
+vinegar :: APPROVE :: Literal ingredient.
+vitamin-a :: APPROVE :: Literal ingredient.
+vitamin-b-complex :: APPROVE :: Literal ingredient.
+vitamin-b12 :: APPROVE :: Literal ingredient.
+vitamin-d :: APPROVE :: Literal ingredient.
+
+vitamin-k :: APPROVE :: Specific vitamin supplement
+wafer :: FLAG :: Composite ingredient; needs sub-ingredients
+walnut :: APPROVE :: Literal nut ingredient
+water-chestnut :: APPROVE :: Literal vegetable ingredient
+water :: APPROVE :: Literal ingredient
+watermelon-seeds :: APPROVE :: Literal seed ingredient
+watermelon :: APPROVE :: Literal fruit ingredient
+wheat-flour :: APPROVE :: Literal flour ingredient
+wheat-gluten :: APPROVE :: Literal wheat protein ingredient
+wheat :: APPROVE :: Literal grain ingredient
+wheatgrass :: APPROVE :: Literal grass ingredient
+whey-powder :: APPROVE :: Literal dairy ingredient
+whey-protein :: APPROVE :: Literal dairy protein ingredient
+white-pepper :: APPROVE :: Literal spice ingredient
+whole-wheat-flour-atta :: APPROVE :: Literal flour ingredient
+xanthan-gum-ins-415 :: APPROVE :: Specific additive with INS number
+xylanase :: APPROVE :: Specific enzyme
+xylitol :: APPROVE :: Specific sugar alcohol
+yeast-extract :: APPROVE :: Literal ingredient
+yeast :: APPROVE :: Literal ingredient
+yogurt :: APPROVE :: Literal dairy ingredient
+zinc :: APPROVE :: Specific mineral supplement
+

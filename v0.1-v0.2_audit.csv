@@ -527,7 +527,7 @@ sal-fat,approve,NONE
 salt,approve,NONE
 sandalwood,approve,NONE
 satva,delete,"In the context of food ingredients in India, ""Satva"" most commonly refers to starch extracted from roots or tubers, hence an umbrella term.'"
-seasoning,approve,NONE
+seasoning,delete,umbrella term
 seaweed,approve,NONE
 seeds,delete,Umbrella term/category.
 semolina,approve,NONE
@@ -539,7 +539,7 @@ shankhapushpi,approve,"Shankhpushpi (Convolvulus pluricaulis) is a distinct and 
 shatavari,approve,NONE
 shati,approve,NONE
 shea-butter,approve,NONE
-shortening,approve,NONE
+shortening,delete,"""it's a functional descriptor just like acidity regulator, emulsifier etc - by law we require mecificity of whether they mean vanaspati or whatever, so shortening is not a standalone ingredient"""
 shyonaka,approve,NONE
 silicon-dioxide-ins-551,approve,NONE
 silver-leaf,approve,NONE
