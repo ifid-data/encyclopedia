@@ -2,3 +2,4 @@ api_key.py
 .env
 .env
 *Zone.Identifier
+__pycache__/
